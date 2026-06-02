@@ -1,0 +1,221 @@
+﻿seller_id,store_name,owner_name,joined_at,store_rating,seller_level,city,province,store_status
+SELL00001,TechZone Official,Wahyu Purnama,2021-10-20,3.5,New Seller,Jakarta Selatan,DKI Jakarta,Active
+SELL00002,FashionHub ID,Johan Hidayat,2022-03-23,3.9,Regular Seller,Palangkaraya,Kalimantan Tengah,Active
+SELL00003,HealthPlus Store,Nanda Setiawan,2022-06-13,4.4,Power Merchant,Bandung,Jawa Barat,Active
+SELL00004,BeautyGlow Shop,Bagas Santoso,2022-09-22,4.3,Power Merchant,Medan,Sumatera Utara,Active
+SELL00005,FoodMarket Online,Toni Purnama,2019-05-19,4.3,Power Merchant,Bengkulu,Bengkulu,Active
+SELL00006,TechZone Official,Budi Anggraini,2022-02-08,4.8,Official Store,Palangkaraya,Kalimantan Tengah,Active
+SELL00007,SportKing Mall,Oscar Suryadi,2022-07-25,3.9,Regular Seller,Surabaya,Jawa Timur,Active
+SELL00008,HomeDecor Premier,Fauzi Santoso,2021-01-01,4,Regular Seller,,,Active
+SELL00009,BookWorld Nusantara,Andi Rahayu,2022-09-07,4.7,Official Store,Kendari,Sulawesi Tenggara,Active
+SELL00010,GadgetMart Indo,Fajar Wijaya,2020-11-11,3.5,New Seller,Kendari,Sulawesi Tenggara,Active
+SELL00011,BestDeal Shop,Miko Susanto,2022-01-23,4.7,Official Store,Bengkulu,Bengkulu,Active
+SELL00012,QuickShip Store,Chandra Permata,2021-08-09,4.4,Power Merchant,Palu,Sulawesi Tengah,Active
+SELL00013,NusantaraGoods,Deni Kusuma,2019-10-04,3.5,New Seller,Gorontalo,Gorontalo,Active
+SELL00014,PrimeDeals ID,Fauzi Kurniawan,2019-03-31,4.8,Official Store,Palembang,Sumatera Selatan,Active
+SELL00015,TopSeller Official,Toni Anggraini,2020-09-27,5,Official Store,Bandar Lampung,Lampung,Active
+SELL00016,MegaStore Indonesia,Kevin Wijaya,2021-08-27,0,New Seller,,,Active
+SELL00017,FlashSale Hub,Nanda Wijaya,2020-08-08,4.8,Official Store,Palembang,Sumatera Selatan,Active
+SELL00018,DailyMart Online,Eko Suryadi,2020-07-13,4.2,Regular Seller,Bandar Lampung,Lampung,Active
+SELL00019,GreenLife Shop,Ivan Anggraini,2021-06-19,4,Regular Seller,,Jambi,Active
+SELL00020,TrendyPicks,Chandra Permata,2021-10-13,3.5,New Seller,Medan,Sumatera Utara,Active
+SELL00001,Toko Maju 1,Penjual_1,2018-04-24,3.8,Regular Seller,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+SELL00002,Bazar Makmur 2,Penjual_2,2022-07-31,3.5,New Seller,Palembang,Sumatera Selatan,Active
+SELL00003,bazar makmur 3,Penjual_3,2018-05-04,2.7,New Seller,Pontianak,Kalimantan Barat,Active
+SELL00004,Outlet Abadi 4,Penjual_4,2020-02-23,4.8,Official Store,,Jambi,Active
+SELL00005,Store Jaya 5,Penjual_5,2019-12-14,5,Official Store,,Jambi,Active
+SELL00006,Warung Makmur 6,Penjual_6,2019-09-04,4.3,Power Merchant,Banda Aceh,Aceh,Active
+SELL00007,Warung Sejahtera 7,Penjual_7,2019-07-19,4.7,Official Store,Mamuju,Sulawesi Barat,Active
+SELL00008,OUTLET MAJU 8,Penjual_8,2018-02-02,2.7,New Seller,Tarakan,Kalimantan Utara,Active
+SELL00009,Toko Jaya 9,Penjual_9,2020-04-03,3.81,Regular Seller,Mamuju,Sulawesi Barat,Active
+SELL00010,Bazar Jaya 10,Penjual_10,2022-02-07,3.9,Regular Seller,Mamuju,Sulawesi Barat,Active
+SELL00011,Bazar Jaya 11,Penjual_11,2020-12-03,3.3,New Seller,Surabaya,Jawa Timur,Active
+SELL00012,Warung Sejahtera 12,Penjual_12,2018-04-07,4.9,Official Store,Palu,Sulawesi Tengah,Active
+SELL00013,Outlet Sejahtera 13,Penjual_13,2020-02-10,3.8,Regular Seller,Padang,Sumatera Barat,Active
+SELL00014,Warung Sejahtera 14,Penjual_14,2021-02-25,3.5,New Seller,Palangkaraya,Kalimantan Tengah,Active
+SELL00015,Warung Abadi 15,Penjual_15,2020-07-10,2.37,New Seller,Kendari,Sulawesi Tenggara,Active
+SELL00016,Store Maju 16,Tidak diketahui,2018-05-30,4.4,Power Merchant,Kendari,Sulawesi Tenggara,Active
+SELL00017,Warung Abadi 17,Penjual_17,2018-02-01,3,New Seller,Kendari,Sulawesi Tenggara,Active
+SELL00018,Outlet Jaya 18,Penjual_18,2021-12-12,4.8,Official Store,Banjarmasin,Kalimantan Selatan,Active
+SELL00019,Outlet Maju 19,Penjual_19,2019-09-24,3.8,Regular Seller,Pontianak,Kalimantan Barat,Active
+SELL00020,Outlet Abadi 20,Penjual_20,2020-01-30,3.5,New Seller,Padang,Sumatera Barat,Active
+SELL00021,Store Maju 21,Penjual_21,2020-05-05,3,New Seller,Padang,Sumatera Barat,Active
+SELL00022,Outlet Maju 22,Penjual_22,2021-11-03,4.4,Power Merchant,Pontianak,Kalimantan Barat,Active
+SELL00023,Outlet Sejahtera 23,Penjual_23,2022-06-17,2.8,New Seller,Banjarmasin,Kalimantan Selatan,Active
+SELL00024,store makmur 24,Penjual_24,2022-09-15,4.9,Official Store,Palu,Sulawesi Tengah,Active
+SELL00025,Warung Makmur 25,Penjual_25,2018-01-19,3.6,New Seller,Surabaya,Jawa Timur,Active
+SELL00026,Store Sejahtera 26,Penjual_26,2018-02-02,3.5,New Seller,Banjarmasin,Kalimantan Selatan,Active
+SELL00027,Bazar Maju 27,Penjual_27,2018-02-05,4.2,Regular Seller,Banda Aceh,Aceh,Active
+SELL00028,Toko Makmur 28,Penjual_28,2019-05-09,3.8,Regular Seller,Bengkulu,Bengkulu,Active
+SELL00029,Bazar Sejahtera 29,Penjual_29,2019-05-14,3.1,New Seller,Palu,Sulawesi Tengah,Active
+SELL00030,Toko Makmur 30,Penjual_30,2020-02-12,2.6,New Seller,Bandung,Jawa Barat,Active
+SELL00031,Outlet Abadi 31,Penjual_31,2022-10-24,4.7,Official Store,Surabaya,Jawa Timur,Active
+SELL00032,Store Sejahtera 32,Penjual_32,2018-06-02,3.5,New Seller,Banjarmasin,Kalimantan Selatan,Active
+SELL00033,Bazar Makmur 33,Penjual_33,2021-04-17,4.6,Power Merchant,,Jambi,Active
+SELL00034,Store Jaya 34,Penjual_34,2022-10-06,4.7,Official Store,Bandar Lampung,Lampung,Active
+SELL00035,Toko Maju 35,Penjual_35,2019-12-10,3.6,New Seller,Semarang,Jawa Timur,Active
+SELL00036,Store Sejahtera 36,Penjual_36,2019-10-31,3.5,New Seller,Pekanbaru,Riau,Active
+SELL00037,Warung Abadi 37,Penjual_37,2020-02-08,4.2,Regular Seller,Palu,Sulawesi Tengah,Active
+SELL00038,Bazar Jaya 38,Penjual_38,2018-06-18,3.4,New Seller,Makassar,,Active
+SELL00039,Bazar Makmur 39,Penjual_39,2019-09-24,4.4,Power Merchant,Jakarta Selatan,DKI Jakarta,Active
+SELL00040,Outlet Maju 40,Penjual_40,2020-04-15,2.7,New Seller,Banjarmasin,Kalimantan Selatan,Active
+SELL00041,Bazar Sejahtera 41,Tidak diketahui,2020-04-27,2.7,New Seller,Banjarmasin,Kalimantan Selatan,Active
+SELL00042,Store Maju 42,Penjual_42,2020-02-19,2.99,New Seller,Pekanbaru,Riau,Active
+SELL00043,Outlet Abadi 43,Penjual_43,2018-06-07,4.9,Official Store,Kendari,Sulawesi Tenggara,Active
+SELL00044,Warung Sejahtera 44,Penjual_44,2019-09-16,3.5,New Seller,,Jambi,Active
+SELL00045,Bazar Sejahtera 45,Penjual_45,2022-07-29,4.1,Regular Seller,Tarakan,Kalimantan Utara,Active
+SELL00046,Warung Sejahtera 46,Penjual_46,2020-03-26,3.2,New Seller,Manado,Sulawesi Utara,Active
+SELL00047,Warung Abadi 47,Penjual_47,2022-07-31,3.4,New Seller,Samarinda,Kalimantan Timur,Active
+SELL00048,Warung Maju 48,Tidak diketahui,2022-01-29,4.3,Power Merchant,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+SELL00049,Toko Sejahtera 49,Penjual_49,2018-10-13,3.1,New Seller,Palu,Sulawesi Tengah,Active
+SELL00050,Outlet Makmur 50,Penjual_50,2021-05-09,3.5,New Seller,Palangkaraya,Kalimantan Tengah,Active
+SELL00051,Outlet Maju 51,Tidak diketahui,2020-01-07,4.5,Power Merchant,Tarakan,Kalimantan Utara,Active
+SELL00052,Warung Abadi 52,Penjual_52,2021-06-08,3.5,New Seller,Makassar,,Active
+SELL00053,Bazar Sejahtera 53,Penjual_53,2018-07-21,3.8,Regular Seller,Palangkaraya,Kalimantan Tengah,Active
+SELL00054,Warung Sejahtera 54,Penjual_54,2020-08-06,4,Regular Seller,Palangkaraya,Kalimantan Tengah,Active
+SELL00055,Outlet Makmur 55,Penjual_55,2018-06-25,4.9,Official Store,Tangerang,Banten,Active
+SELL00056,Warung Maju 56,Penjual_56,2020-09-02,4.3,Power Merchant,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+SELL00057,Toko Makmur 57,Penjual_57,2021-08-20,4.5,Power Merchant,Kendari,Sulawesi Tenggara,Active
+SELL00058,Warung Abadi 58,Penjual_58,2020-08-04,3.5,New Seller,Medan,Sumatera Utara,Active
+SELL00059,Outlet Makmur 59,Penjual_59,2019-02-09,3.6,New Seller,Bandung,Jawa Barat,Active
+SELL00060,Toko Maju 60,Penjual_60,2022-11-21,3.4,New Seller,Palembang,Sumatera Selatan,Active
+SELL00061,Outlet Maju 61,Penjual_61,2019-10-04,4,Regular Seller,Samarinda,Kalimantan Timur,Active
+SELL00062,Outlet Maju 62,Penjual_62,2021-10-11,3.2,New Seller,Tarakan,Kalimantan Utara,Active
+SELL00063,Bazar Makmur 63,Penjual_63,2018-08-28,4.2,Regular Seller,Palangkaraya,Kalimantan Tengah,Active
+SELL00064,Store Sejahtera 64,Penjual_64,2020-09-23,4.2,Regular Seller,Makassar,,Active
+SELL00065,Warung Sejahtera 65,Penjual_65,2019-01-19,3.6,New Seller,Surabaya,Jawa Timur,Active
+SELL00066,Outlet Jaya 66,Penjual_66,2020-02-26,3.8,Regular Seller,Pontianak,Kalimantan Barat,Active
+SELL00067,Outlet Sejahtera 67,Penjual_67,2021-03-03,3.5,New Seller,Mamuju,Sulawesi Barat,Active
+SELL00068,Warung Maju 68,Penjual_68,2022-05-18,4.4,Power Merchant,Mamuju,Sulawesi Barat,Active
+SELL00069,STORE MAKMUR 69,Penjual_69,2021-01-17,3.4,New Seller,Mamuju,Sulawesi Barat,Active
+SELL00070,Outlet Makmur 70,Penjual_70,2021-08-31,3.2,New Seller,Surabaya,Jawa Timur,Active
+SELL00071,Toko Sejahtera 71,Penjual_71,2018-08-29,3.1,New Seller,Kendari,Sulawesi Tenggara,Active
+SELL00072,Store Sejahtera 72,Penjual_72,2018-10-13,4.5,Power Merchant,Surabaya,Jawa Timur,Active
+SELL00073,Store Maju 73,Penjual_73,2021-12-12,3.9,Regular Seller,Palangkaraya,Kalimantan Tengah,Active
+SELL00074,Toko Jaya 74,Penjual_74,2022-05-29,2.6,New Seller,Pekanbaru,Riau,Active
+SELL00075,Warung Jaya 75,Penjual_75,2019-10-22,4.4,Power Merchant,Palu,Sulawesi Tengah,Active
+SELL00076,Bazar Sejahtera 76,Penjual_76,2018-06-04,4.7,Official Store,Semarang,Jawa Timur,Active
+SELL00077,Bazar Sejahtera 77,Penjual_77,2019-11-02,4.7,Official Store,Kendari,Sulawesi Tenggara,Active
+SELL00078,Bazar Makmur 78,Penjual_78,2020-03-25,3.6,New Seller,Palembang,Sumatera Selatan,Active
+SELL00079,Bazar Abadi 79,Penjual_79,2018-09-25,3.7,New Seller,Bandar Lampung,Lampung,Active
+SELL00080,Toko Makmur 80,Penjual_80,2022-09-10,3.5,New Seller,Medan,Sumatera Utara,Active
+SELL00081,Outlet Jaya 81,Penjual_81,2018-09-28,3.3,New Seller,Pekanbaru,Riau,Active
+SELL00082,Toko Abadi 82,Penjual_82,2021-08-21,3.5,New Seller,Batam,Kepulauan Riau,Active
+SELL00083,Outlet Makmur 83,Penjual_83,2018-01-03,2.7,New Seller,Samarinda,Kalimantan Timur,Active
+SELL00084,Toko Makmur 84,Penjual_84,2022-08-01,4.15,Regular Seller,Manado,Sulawesi Utara,Active
+SELL00085,Toko Makmur 85,Penjual_85,2019-09-05,4.4,Power Merchant,Mamuju,Sulawesi Barat,Active
+SELL00086,Warung Makmur 86,Penjual_86,2018-01-18,2.9,New Seller,Bengkulu,Bengkulu,Active
+SELL00087,Warung Sejahtera 87,Penjual_87,2020-06-25,2.7,New Seller,Jakarta Selatan,DKI Jakarta,Active
+SELL00088,Outlet Abadi 88,Penjual_88,2019-10-07,3.1,New Seller,Makassar,,Active
+SELL00089,Store Maju 89,Penjual_89,2021-11-15,3.5,New Seller,Palu,Sulawesi Tengah,Active
+SELL00090,Store Maju 90,Penjual_90,2020-03-13,2.6,New Seller,Padang,Sumatera Barat,Active
+SELL00091,Outlet Maju 91,Penjual_91,2018-01-25,4.8,Official Store,Tangerang,Banten,Active
+SELL00092,Outlet Abadi 92,Penjual_92,2018-12-20,4.9,Official Store,Mamuju,Sulawesi Barat,Active
+SELL00093,Toko Abadi 93,Penjual_93,2018-05-04,3.5,New Seller,Batam,Kepulauan Riau,Active
+SELL00094,Outlet Sejahtera 94,Penjual_94,2018-06-18,3.8,Regular Seller,Tangerang,Banten,Active
+SELL00095,Store Jaya 95,Penjual_95,2018-11-15,3.5,New Seller,Makassar,,Active
+SELL00096,Toko Abadi 96,Penjual_96,2022-02-03,3.1,New Seller,Padang,Sumatera Barat,Active
+SELL00097,Outlet Maju 97,Penjual_97,2019-09-26,4.1,Regular Seller,Medan,Sumatera Utara,Active
+SELL00098,Toko Jaya 98,Penjual_98,2019-12-12,4.5,Power Merchant,Kendari,Sulawesi Tenggara,Active
+SELL00099,BAZAR MAKMUR 99,Penjual_99,2018-03-02,3.6,New Seller,Palangkaraya,Kalimantan Tengah,Active
+SELL00100,Toko Sejahtera 100,Penjual_100,2020-01-08,4.6,Power Merchant,Medan,Sumatera Utara,Active
+SELL00001,Medis Sehat 1,Dina Anggraini,2020-06-13,4,Regular Seller,Kediri,Jawa Timur,Active
+SELL00002,Healthy Shop 2,Yudi Mahendra,2023-11-23,2.8,New Seller,Yogyakarta,Jawa Timur,Active
+SELL00003,Agro Mandiri 3,Lina Wijaya,2019-04-05,1.2,New Seller,Bogor,Jawa Barat,Active
+SELL00004,Dapur Sehat 4,Candra Utama,2019-09-06,1.7,New Seller,Depok,Jawa Barat,Active
+SELL00005,Elektronik Murah 5,Oscar Kusuma,2020-04-21,3.9,Regular Seller,Jayapura,Papua,Active
+SELL00006,Fitness Pro 6,Citra Utama,2018-08-16,3.5,New Seller,Manokwari,Papua Barat,Active
+SELL00007,Agro Mandiri 7,Nanda Suryadi,2018-08-25,3.2,New Seller,Kediri,Jawa Timur,Active
+SELL00008,Snack Station 8,Zahra Wati,2018-03-31,2.6,New Seller,Bandung,Jawa Barat,Active
+SELL00009,Agro Mandiri 9,Xena Nugroho,2018-10-27,1.2,New Seller,Manado,Sulawesi Utara,Active
+SELL00010,Rumah Indah 10,Wahyu Wijaya,2018-09-04,4.7,Official Store,Tangerang,Banten,Active
+SELL00011,Fashion Store Bandung 11,Dina Anggraini,2021-03-21,3.5,New Seller,Pekalongan,Jawa Timur,Active
+SELL00012,Batik Nusantara 12,Eko Handoko,2022-04-16,2.8,New Seller,Mamuju,Sulawesi Barat,Active
+SELL00013,Elektronik Murah 13,Mawar Wijaya,2019-06-29,3.6,New Seller,Manado,Sulawesi Utara,Active
+SELL00014,Rumah Indah 14,Dewi Hidayat,2022-05-29,3.1,New Seller,Magelang,Jawa Timur,Active
+SELL00015,Medis Sehat 15,Hani Pratama,2018-04-04,4.9,Official Store,Ambon,Maluku,Active
+SELL00016,,Vina Dewi,2023-12-19,2.5,New Seller,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+SELL00017,Batik Nusantara 17,Hani Suryadi,2019-09-28,2.1,New Seller,Magelang,Jawa Timur,Active
+SELL00018,Fashion Store Bandung 18,Yudi Kusuma,2022-09-14,3.5,New Seller,Surabaya,Jawa Timur,Active
+SELL00019,Healthy Shop 19,Hani Nugroho,2019-02-18,3.4,New Seller,Kupang,Nusa Tenggara Timur,Active
+SELL00020,Tech Galaxy 20,Tono Santoso,2018-07-01,2.6,New Seller,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+SELL00021,Medis Sehat 21,Reza Nugroho,2030-01-01,1.6,New Seller,Samarinda,Kalimantan Timur,Active
+SELL00022,Gadget World 22,Hani Setiawan,2021-08-06,1.9,New Seller,Batam,Kepulauan Riau,Active
+SELL00023,Tech Galaxy 23,Vina Utama,2022-08-21,2.2,New Seller,Jakarta Selatan,DKI Jakarta,Active
+SELL00024,Snack Station 24,Reza Setiawan,2019-12-19,3.5,New Seller,Mataram,Nusa Tenggara Barat,Active
+SELL00025,Fashion Store Bandung 25,Reza Anggraini,2021-11-11,4.8,Official Store,Blitar,Jawa Timur,Active
+SELL00026,Gadget World 26,Mawar Utama,2022-09-02,2.6,New Seller,,,Active
+SELL00027,Medis Sehat 27,Mawar Hidayat,2023-04-24,2,New Seller,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+SELL00028,Fitness Pro 28,Joko Rahayu,2018-08-25,3.2,New Seller,Denpasar,Bali,Active
+SELL00029,Sport Center 29,Reza Utama,2022-05-10,2,New Seller,Banda Aceh,Aceh,Active
+SELL00030,Fitness Pro 30,Kartini Wijaya,2022-02-28,1.4,New Seller,Magelang,Jawa Timur,Active
+SELL00031,Fashion Store Bandung 31,Arif Nugroho,2021-01-04,2.5,New Seller,Cirebon,Jawa Barat,Active
+SELL00032,Healthy Shop 32,Tono Santoso,2020-02-10,4.2,Regular Seller,Tasikmalaya,Jawa Barat,Active
+SELL00033,Dapur Sehat 33,Xena Dewi,2023-05-18,1.8,New Seller,Palu,Sulawesi Tengah,Active
+SELL00034,Dapur Sehat 34,Joko Pratama,2020-02-18,4.8,Official Store,Padang,Sumatera Barat,Active
+SELL00035,Tech Galaxy 35,Xena Anggraini,2020-04-17,2.6,New Seller,Pontianak,Kalimantan Barat,Active
+SELL00036,Medis Sehat 36,Reza Lestari,2021-03-05,2.5,New Seller,Bekasi,Jawa Barat,Active
+SELL00037,Natura Herbal 37,Umi Saputra,2020-12-07,2.4,New Seller,Jayapura,Papua,Active
+SELL00038,Snack Station 38,Oscar Kusuma,2023-04-08,4,Regular Seller,Makassar,,Active
+SELL00039,Batik Nusantara 39,Dina Nugroho,2021-07-05,2.7,New Seller,Cimahi,Jawa Barat,Active
+SELL00040,Snack Station 40,Bella Sari,2019-08-21,1.1,New Seller,Bogor,Jawa Barat,Active
+SELL00041,Agro Mandiri 41,Dina Setiawan,2022-09-07,2.2,New Seller,,Jambi,Active
+SELL00042,Vitamin Plus 42,Kartini Sari,2020-10-03,3,New Seller,Mojokerto,Jawa Timur,Active
+SELL00043,Mode Trendy 43,Vina Lestari,2023-06-25,4.9,Official Store,Mojokerto,Jawa Timur,Active
+SELL00044,Fitness Pro 44,Xena Anggraini,2019-11-21,3.9,Regular Seller,Manado,Sulawesi Utara,Active
+SELL00045,Snack Station 45,Fitri Rahayu,2023-06-24,1.7,New Seller,Bekasi,Jawa Barat,Active
+SELL00046,Otomotif Jaya 46,Umi Santoso,2018-05-19,4.4,Power Merchant,Tangerang,Banten,Active
+SELL00047,Medis Sehat 47,Arif Santoso,2018-01-27,2.6,New Seller,Malang,Jawa Timur,Active
+SELL00048,Hijab Center 48,Hani Wijaya,2019-09-11,1,New Seller,Manokwari,Papua Barat,Active
+SELL00049,Fashion Store Bandung 49,Oscar Saputra,2023-06-03,3.6,New Seller,Surabaya,Jawa Timur,Active
+SELL00050,Rumah Indah 50,Andi Dewi,2022-08-12,1,New Seller,Depok,Jawa Barat,Active
+SELL00051,Rumah Indah 51,Xena Putra,2021-03-20,1.1,New Seller,Madiun,Jawa Timur,Active
+SELL00052,Buku Pintar 52,Vina Handoko,2019-03-15,4.7,Official Store,Depok,Jawa Barat,Active
+SELL00053,Dapur Sehat 53,Eko Sari,2023-11-27,2,New Seller,Manado,Sulawesi Utara,Active
+SELL00054,Healthy Shop 54,Irfan Permata,2022-03-09,4.8,Official Store,Ambon,Maluku,Active
+SELL00055,Hijab Center 55,Sari Sari,2020-07-14,2.2,New Seller,Medan,Sumatera Utara,Active
+SELL00056,Healthy Shop 56,Umi Santoso,2022-07-19,2.5,New Seller,Bogor,Jawa Barat,Active
+SELL00057,Travel Gear 57,Putri Santoso,2018-02-08,3.8,Regular Seller,Medan,Sumatera Utara,Active
+SELL00058,Travel Gear 58,Putri Handoko,2021-09-18,3.3,New Seller,Palembang,Sumatera Selatan,Active
+SELL00059,Fashion Store Bandung 59,Candra Utama,2020-07-30,1.8,New Seller,Madiun,Jawa Timur,Active
+SELL00060,Hobby Land 60,Candra Setiawan,2021-01-15,1.2,New Seller,Tangerang,Banten,Active
+SELL00061,Rumah Indah 61,Vina Putra,2018-05-15,1.7,New Seller,Makassar,,Active
+SELL00062,Agro Mandiri 62,Andi Nugroho,2019-08-14,4,Regular Seller,Yogyakarta,Jawa Timur,Active
+SELL00063,Healthy Shop 63,Arif Permata,2021-05-10,1.6,New Seller,Pontianak,Kalimantan Barat,Active
+SELL00064,Elektronik Murah 64,Sari Permata,2021-09-20,2.5,New Seller,Solo,Jawa Timur,Active
+SELL00065,Otomotif Jaya 65,Eko Wijaya,2021-11-17,1.2,New Seller,Mataram,Nusa Tenggara Barat,Active
+SELL00066,Gadget World 66,Hani Wijaya,2022-06-13,4.9,Official Store,Makassar,,Active
+SELL00067,Fitness Pro 67,Andi Putra,2023-07-03,1.9,New Seller,Bogor,Jawa Barat,Active
+SELL00068,Buku Pintar 68,Mawar Handoko,2022-04-06,1.3,New Seller,Sukabumi,Jawa Barat,Active
+SELL00069,Hijab Center 69,Joko Sari,2018-10-29,1.3,New Seller,Batam,Kepulauan Riau,Active
+SELL00070,Snack Station 70,Mawar Rahayu,2022-05-15,2.3,New Seller,Palembang,Sumatera Selatan,Active
+SELL00071,Natura Herbal 71,Citra Pratama,2022-12-27,2.4,New Seller,Banjarmasin,Kalimantan Selatan,Active
+SELL00072,Healthy Shop 72,Dewi Rahayu,2020-02-07,2.7,New Seller,Bogor,Jawa Barat,Active
+SELL00073,Kecantikan Alami 73,Reza Utama,2019-02-28,1.1,New Seller,Manado,Sulawesi Utara,Active
+SELL00074,Pet Paradise 74,Reza Wijaya,2021-08-21,4.5,Power Merchant,Bandung,Jawa Barat,Active
+SELL00075,Vitamin Plus 75,Joko Handoko,2018-12-13,3.9,Regular Seller,Bogor,Jawa Barat,Active
+SELL00076,Agro Mandiri 76,Candra Sari,2023-11-05,1.7,New Seller,Mamuju,Sulawesi Barat,Active
+SELL00077,Mode Trendy 77,Fitri Rahayu,2021-05-18,2.1,New Seller,Batam,Kepulauan Riau,Active
+SELL00078,Kecantikan Alami 78,Citra Hidayat,2021-02-04,2.7,New Seller,Ternate,Maluku Utara,Active
+SELL00079,Batik Nusantara 79,Zahra Wijaya,2020-10-27,4.8,Official Store,Magelang,Jawa Timur,Active
+SELL00080,Pet Paradise 80,Umi Anggraini,2020-03-11,2.8,New Seller,Pekanbaru,Riau,Active
+SELL00081,Vitamin Plus 81,Joko Pratama,2021-09-22,4.4,Power Merchant,Mamuju,Sulawesi Barat,Active
+SELL00082,Fitness Pro 82,Zahra Lestari,2021-10-03,2.7,New Seller,Mojokerto,Jawa Timur,Active
+SELL00083,Natura Herbal 83,Tono Rahayu,2021-08-06,3.4,New Seller,Madiun,Jawa Timur,Active
+SELL00084,Gadget World 84,Guntur Anggraini,2019-12-29,4.9,Official Store,Makassar,,Active
+SELL00085,Agro Mandiri 85,Joko Anggraini,2020-09-19,2.3,New Seller,Banjarmasin,Kalimantan Selatan,Active
+SELL00086,Batik Nusantara 86,Arif Permata,2019-04-12,4.7,Official Store,,Jambi,Active
+SELL00087,Buku Pintar 87,Sari Dewi,2018-04-21,4.8,Official Store,Ambon,Maluku,Active
+SELL00088,Fitness Pro 88,Wahyu Nugroho,2021-04-08,4.3,Power Merchant,Tangerang,Banten,Active
+SELL00089,Elektronik Murah 89,Arif Handoko,2023-08-08,1.6,New Seller,Tarakan,Kalimantan Utara,Active
+SELL00090,Elektronik Murah 90,Hani Putra,2019-09-24,3.9,Regular Seller,Mamuju,Sulawesi Barat,Active
+SELL00091,Pet Paradise 91,Citra Suryadi,2023-05-17,3.3,New Seller,Bekasi,Jawa Barat,Active
+SELL00092,Rumah Indah 92,Qori Handoko,2018-05-31,4.2,Regular Seller,Kendari,Sulawesi Tenggara,Active
+SELL00093,Pet Paradise 93,Wahyu Dewi,2018-12-15,1.4,New Seller,Pontianak,Kalimantan Barat,Active
+SELL00094,Buku Pintar 94,Vina Saputra,2018-07-01,3.3,New Seller,Mojokerto,Jawa Timur,Active
+SELL00095,Medis Sehat 95,Vina Permata,2021-09-20,4.9,Official Store,Mataram,Nusa Tenggara Barat,Active
+SELL00096,Beauty Corner 96,Dewi Pratama,2020-11-25,1.9,New Seller,Solo,Jawa Timur,Active
+SELL00097,Agro Mandiri 97,Qori Dewi,2020-06-24,2.8,New Seller,Gorontalo,Gorontalo,Active
+SELL00098,Hijab Center 98,Oscar Setiawan,2023-08-12,1.6,New Seller,Surabaya,Jawa Timur,Active
+SELL00099,Natura Herbal 99,Putri Kusuma,2022-08-31,4.7,Official Store,Medan,Sumatera Utara,Active
+SELL00100,Batik Nusantara 100,Dewi Rahayu,2021-07-01,2.4,New Seller,Banda Aceh,Aceh,Active

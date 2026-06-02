@@ -1,0 +1,859 @@
+﻿address_id,address_line,house_number,postal_code,area_id,district,city,province
+ADDR000001,Jl. Pattimura No.133,133,44959,AREA00024,Kec. Bukit Batu,Surabaya,Jawa Timur
+ADDR000002,Jl. Sudirman No.187,187,65640,AREA00006,Kec. Sukasari,Pontianak,Kalimantan Barat
+ADDR000003,Jl. Pahlawan No.155,155,33652,AREA00028,Kec. Rakumpit,Mojokerto,Jawa Timur
+ADDR000004,Jl. Sudirman No.83,83,23447,AREA00019,Kec. Andir,Medan,Sumatera Utara
+ADDR000005,Jl. Kebon Sirih No.170,170,48750,AREA00021,Kec. Sumur Bandung,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000006,Jl. Gatot Subroto No.155,155,65851,AREA00029,Kec. Sabangau,Madiun,Jawa Timur
+ADDR000007,Jl. Merdeka No.90,90,68606,AREA00029,Kec. Sabangau,Madiun,Jawa Timur
+ADDR000008,Jl. Kebon Sirih No.158,158,67008,AREA00023,Kec. Bandung Kidul,Cirebon,Jawa Barat
+ADDR000009,Jl. Raya Bogor No.20,20,97973,AREA00004,Kec. Cicendo,Solo,Jawa Timur
+ADDR000010,Jl. Pattimura No.94,94,77251,AREA00026,Kec. Menteng,,Jambi
+ADDR000011,Jl. Imam Bonjol No.8,8,28714,AREA00011,Kec. Gedebage,Kediri,Jawa Timur
+ADDR000012,Jl. Sudirman No.9,9,26545,AREA00029,Kec. Sabangau,Madiun,Jawa Timur
+ADDR000013,Jl. Pemuda No.200,200,94562,AREA00016,Kec. Bojongloa Kaler,Mataram,Nusa Tenggara Barat
+ADDR000014,Jl. Merdeka No.99,99,84349,AREA00024,Kec. Bukit Batu,Surabaya,Jawa Timur
+ADDR000015,Jl. Pemuda No.174,174,68972,AREA00010,Kec. Arcamanik,Palembang,Sumatera Selatan
+ADDR000016,Jl. Veteran No.114,114,20077,AREA00024,Kec. Bukit Batu,Surabaya,Jawa Timur
+ADDR000017,Jl. Diponegoro No.136,136,58096,AREA00009,Kec. Ujungberung,Solo,Jawa Timur
+ADDR000018,Jl. HR Rasuna Said No.167,167,46528,AREA00021,Kec. Sumur Bandung,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000019,Jl. Ahmad Yani No.7,7,34385,AREA00008,Kec. Cibiru,Pekanbaru,Riau
+ADDR000020,Jl. Sudirman No.100,100,,AREA00034,Kec. Cicendo,Tasikmalaya,Jawa Barat
+ADDR000021,Jl. MT Haryono No.199,199,44116,AREA00017,Kec. Bojongloa Kidul,Semarang,Jawa Timur
+ADDR000022,Jl. Kebon Sirih No.55,55,90199,AREA00029,Kec. Sabangau,Madiun,Jawa Timur
+ADDR000023,Jl. Gatot Subroto No.52,52,26074,AREA00032,Kec. Coblong,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000024,Jl. Hayam Wuruk No.116,116,32630,AREA00005,Kec. Antapani,Banjarmasin,Kalimantan Selatan
+ADDR000025,Jl. Imam Bonjol No.23,23,,AREA00029,Kec. Sabangau,Madiun,Jawa Timur
+ADDR000026,Jl. MT Haryono No.171,171,55537,AREA00021,Kec. Sumur Bandung,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000027,Jl. Kebon Sirih No.141,141,81063,AREA00005,Kec. Antapani,Banjarmasin,Kalimantan Selatan
+ADDR000028,Jl. Gatot Subroto No.41,41,93584,AREA00020,Kec. Cidadap,Banda Aceh,Aceh
+ADDR000029,Jl. Sudirman No.131,131,39391,AREA00024,Kec. Bukit Batu,Surabaya,Jawa Timur
+ADDR000030,Jl. Pattimura No.36,-,41029,AREA00013,Kec. Batununggal,Bekasi,Jawa Barat
+ADDR000031,Jl. Pahlawan No.7,7,57303,AREA00032,Kec. Coblong,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000032,Jl. Gatot Subroto No.120,120,82305,AREA00024,Kec. Bukit Batu,Surabaya,Jawa Timur
+ADDR000033,Jl. Diponegoro No.17,17,50539,AREA00006,Kec. Sukasari,Pontianak,Kalimantan Barat
+ADDR000034,Jl. Pattimura No.135,135,63843,AREA00031,Kec. Cibeunying,Denpasar,Bali
+ADDR000035,,148,19666,AREA00027,Kec. Pahandut,Yogyakarta,Jawa Timur
+ADDR000036,Jl. Ahmad Yani No.165,165,19720,AREA00021,Kec. Sumur Bandung,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000037,Jl. Pemuda No.175,175,77811,AREA00030,Kec. Bengkayang,Bekasi,Jawa Barat
+ADDR000038,Jl. Raya Bogor No.200,200,82260,AREA00009,Kec. Ujungberung,Solo,Jawa Timur
+ADDR000039,Jl. Diponegoro No.197,197,26912,AREA00012,Kec. Kiaracondong,Solo,Jawa Timur
+ADDR000040,Jl. Pahlawan No.15,15
+ADDR000041,Jl. Gatot Subroto No.78,78,31581,AREA00010,Kec. Arcamanik,Palembang,Sumatera Selatan
+ADDR000042,Jl. Pemuda No.182,182,39552,AREA00021,Kec. Sumur Bandung,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000043,Jl. Kebon Sirih No.73,73,20336,AREA00034,Kec. Cicendo,Tasikmalaya,Jawa Barat
+ADDR000044,Jl. Kebon Sirih No.163,163,82199,AREA00013,Kec. Batununggal,Bekasi,Jawa Barat
+ADDR000045,Jl. Veteran No.161,161,49691,AREA00009,Kec. Ujungberung,Solo,Jawa Timur
+ADDR000046,Jl. Gatot Subroto No.129,129,94015,AREA00006,Kec. Sukasari,Pontianak,Kalimantan Barat
+ADDR000047,Jl. Veteran No.44,44,96341,AREA00010,Kec. Arcamanik,Palembang,Sumatera Selatan
+ADDR000048,Jl. Imam Bonjol No.145,145,15399,AREA00022,Kec. Lengkong,Manokwari,Papua Barat
+ADDR000049,Jl. Raya Bogor No.21,21,15958,AREA00002,Kec. Coblong,Padang,Sumatera Barat
+ADDR000050,jl. pattimura no.167,167,,AREA00017,Kec. Bojongloa Kidul,Semarang,Jawa Timur
+ADDR000051,Jl. Merdeka No.159,159,93753,AREA00027,Kec. Pahandut,Yogyakarta,Jawa Timur
+ADDR000052,Jl. Kebon Sirih No.161,161,81509,AREA00032,Kec. Coblong,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000053,Jl. Pattimura No.124,124,42096,AREA00020,Kec. Cidadap,Banda Aceh,Aceh
+ADDR000054,Jl. Sudirman No.77,77,69446,AREA00026,Kec. Menteng,,Jambi
+ADDR000055,Jl. Diponegoro No.41,41,67619,AREA00004,Kec. Cicendo,Solo,Jawa Timur
+ADDR000056,Jl. Pemuda No.119,119,36741,AREA00031,Kec. Cibeunying,Denpasar,Bali
+ADDR000057,Jl. MT Haryono No.81,81,51853,AREA00010,Kec. Arcamanik,Palembang,Sumatera Selatan
+ADDR000058,Jl. Pattimura No.103,103,27139,AREA00023,Kec. Bandung Kidul,Cirebon,Jawa Barat
+ADDR000059,Jl. Sudirman No.132,132,83616,AREA00024,Kec. Bukit Batu,Surabaya,Jawa Timur
+ADDR000060,Jl. Sudirman No.62,-,,AREA00021,Kec. Sumur Bandung,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000061,Jl. Gatot Subroto No.116,116,42495,AREA00018,Kec. Bandung Kulon,Surabaya,Jawa Timur
+ADDR000062,Jl. Diponegoro No.13,13,48038,AREA00007,Kec. Mandalajati,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000063,Jl. Imam Bonjol No.64,64,30932,AREA00027,Kec. Pahandut,Yogyakarta,Jawa Timur
+ADDR000064,Jl. HR Rasuna Said No.148,148,50988,AREA00021,Kec. Sumur Bandung,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000065,Jl. Ahmad Yani No.128,128,77466,AREA00011,Kec. Gedebage,Kediri,Jawa Timur
+ADDR000066,Jl. Merdeka No.79,79,75191,AREA00032,Kec. Coblong,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000067,Jl. Ahmad Yani No.101,101,76249,AREA00006,Kec. Sukasari,Pontianak,Kalimantan Barat
+ADDR000068,Jl. Pemuda No.56,56,86460,AREA00016,Kec. Bojongloa Kaler,Mataram,Nusa Tenggara Barat
+ADDR000069,Jl. Ahmad Yani No.13,13,46877,AREA00004,Kec. Cicendo,Solo,Jawa Timur
+ADDR000070,,74,80345,AREA00031,Kec. Cibeunying,Denpasar,Bali
+ADDR000071,Jl. Hayam Wuruk No.111,111,27555,AREA00007,Kec. Mandalajati,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000072,Jl. Pattimura No.187,187,57943,AREA00017,Kec. Bojongloa Kidul,Semarang,Jawa Timur
+ADDR000073,Jl. Diponegoro No.94,94,15930,AREA00026,Kec. Menteng,,Jambi
+ADDR000074,Jl. HR Rasuna Said No.146,146,83638,AREA00004,Kec. Cicendo,Solo,Jawa Timur
+ADDR000075,Jl. Sudirman No.142,142,,AREA00024,Kec. Bukit Batu,Surabaya,Jawa Timur
+ADDR000076,Jl. Pattimura No.130,130,69028,AREA00025,Kec. Jekan Raya,Bogor,Jawa Barat
+ADDR000077,Jl. Veteran No.160,160,99181,AREA00018,Kec. Bandung Kulon,Surabaya,Jawa Timur
+ADDR000078,Jl. Diponegoro No.33,33,22672,AREA00008,Kec. Cibiru,Pekanbaru,Riau
+ADDR000079,Jl. Pemuda No.87,87,83116,AREA00024,Kec. Bukit Batu,Surabaya,Jawa Timur
+ADDR000080,Jl. Pahlawan No.51,51
+ADDR000081,Jl. Merdeka No.129,129,15276,AREA00026,Kec. Menteng,,Jambi
+ADDR000082,Jl. Pattimura No.36,36,53652,AREA00003,Kec. Buahbatu,Surabaya,Jawa Timur
+ADDR000083,Jl. Gatot Subroto No.133,133,69898,AREA00031,Kec. Cibeunying,Denpasar,Bali
+ADDR000084,Jl. Hayam Wuruk No.36,36,52987,AREA00033,Kec. Buahbatu,Kupang,Nusa Tenggara Timur
+ADDR000085,Jl. Veteran No.42,42,61505,AREA00021,Kec. Sumur Bandung,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000086,Jl. Pahlawan No.152,152,54089,AREA00020,Kec. Cidadap,Banda Aceh,Aceh
+ADDR000087,Jl. MT Haryono No.137,137,74205,AREA00033,Kec. Buahbatu,Kupang,Nusa Tenggara Timur
+ADDR000088,Jl. Pemuda No.122,122,12180,AREA00020,Kec. Cidadap,Banda Aceh,Aceh
+ADDR000089,Jl. Diponegoro No.173,173,24366,AREA00022,Kec. Lengkong,Manokwari,Papua Barat
+ADDR000090,Jl. Merdeka No.186,-,92478,AREA00020,Kec. Cidadap,Banda Aceh,Aceh
+ADDR000091,Jl. Pattimura No.68,68,95929,AREA00031,Kec. Cibeunying,Denpasar,Bali
+ADDR000092,Jl. Veteran No.185,185,16731,AREA00015,Kec. Astana Anyar,Tasikmalaya,Jawa Barat
+ADDR000093,Jl. Raya Bogor No.44,44,78712,AREA00031,Kec. Cibeunying,Denpasar,Bali
+ADDR000094,Jl. HR Rasuna Said No.38,38,99224,AREA00025,Kec. Jekan Raya,Bogor,Jawa Barat
+ADDR000095,Jl. HR Rasuna Said No.147,147,24404,AREA00003,Kec. Buahbatu,Surabaya,Jawa Timur
+ADDR000096,Jl. Diponegoro No.113,113,51116,AREA00002,Kec. Coblong,Padang,Sumatera Barat
+ADDR000097,Jl. Diponegoro No.106,106,36724,AREA00010,Kec. Arcamanik,Palembang,Sumatera Selatan
+ADDR000098,Jl. Hayam Wuruk No.199,199,90147,AREA00033,Kec. Buahbatu,Kupang,Nusa Tenggara Timur
+ADDR000099,Jl. MT Haryono No.189,189,18163,AREA00031,Kec. Cibeunying,Denpasar,Bali
+ADDR000100,jl. pahlawan no.133,133,,AREA00009,Kec. Ujungberung,Solo,Jawa Timur
+ADDR000101,Jl. Pahlawan No.170,170,72701,AREA00021,Kec. Sumur Bandung,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000102,Jl. Ahmad Yani No.81,81,32699,AREA00025,Kec. Jekan Raya,Bogor,Jawa Barat
+ADDR000103,Jl. Raya Bogor No.140,140,56437,AREA00022,Kec. Lengkong,Manokwari,Papua Barat
+ADDR000104,Jl. HR Rasuna Said No.157,157,73462,AREA00017,Kec. Bojongloa Kidul,Semarang,Jawa Timur
+ADDR000105,,72,83149,AREA00016,Kec. Bojongloa Kaler,Mataram,Nusa Tenggara Barat
+ADDR000106,Jl. MT Haryono No.77,77,47880,AREA00015,Kec. Astana Anyar,Tasikmalaya,Jawa Barat
+ADDR000107,Jl. Pemuda No.177,177,74094,AREA00014,Kec. Regol,Medan,Sumatera Utara
+ADDR000108,Jl. Hayam Wuruk No.90,90,83464,AREA00031,Kec. Cibeunying,Denpasar,Bali
+ADDR000109,Jl. Veteran No.74,74,25974,AREA00018,Kec. Bandung Kulon,Surabaya,Jawa Timur
+ADDR000110,Jl. Pattimura No.102,102,55237,AREA00025,Kec. Jekan Raya,Bogor,Jawa Barat
+ADDR000111,Jl. Kebon Sirih No.75,75,15513,AREA00010,Kec. Arcamanik,Palembang,Sumatera Selatan
+ADDR000112,Jl. Raya Bogor No.89,89,67983,AREA00006,Kec. Sukasari,Pontianak,Kalimantan Barat
+ADDR000113,Jl. HR Rasuna Said No.192,192,72793,AREA00017,Kec. Bojongloa Kidul,Semarang,Jawa Timur
+ADDR000114,Jl. Hayam Wuruk No.138,138,45537,AREA00013,Kec. Batununggal,Bekasi,Jawa Barat
+ADDR000115,Jl. Veteran No.36,36,24316,AREA00018,Kec. Bandung Kulon,Surabaya,Jawa Timur
+ADDR000116,Jl. Raya Bogor No.63,63,16653,AREA00016,Kec. Bojongloa Kaler,Mataram,Nusa Tenggara Barat
+ADDR000117,Jl. HR Rasuna Said No.58,58,93616,AREA00034,Kec. Cicendo,Tasikmalaya,Jawa Barat
+ADDR000118,Jl. Pemuda No.26,26,64172,AREA00004,Kec. Cicendo,Solo,Jawa Timur
+ADDR000119,Jl. Pattimura No.26,26,99285,AREA00031,Kec. Cibeunying,Denpasar,Bali
+ADDR000120,Jl. Hayam Wuruk No.2,-
+ADDR000121,Jl. Hayam Wuruk No.105,105,95575,AREA00011,Kec. Gedebage,Kediri,Jawa Timur
+ADDR000122,Jl. HR Rasuna Said No.123,123,95267,AREA00031,Kec. Cibeunying,Denpasar,Bali
+ADDR000123,Jl. Raya Bogor No.83,83,47409,AREA00019,Kec. Andir,Medan,Sumatera Utara
+ADDR000124,Jl. Raya Bogor No.197,197,21725,AREA00004,Kec. Cicendo,Solo,Jawa Timur
+ADDR000125,Jl. Hayam Wuruk No.137,137,,AREA00015,Kec. Astana Anyar,Tasikmalaya,Jawa Barat
+ADDR000126,Jl. Hayam Wuruk No.107,107,33040,AREA00012,Kec. Kiaracondong,Solo,Jawa Timur
+ADDR000127,Jl. Gatot Subroto No.102,102,74930,AREA00003,Kec. Buahbatu,Surabaya,Jawa Timur
+ADDR000128,Jl. Kebon Sirih No.10,10,11214,AREA00019,Kec. Andir,Medan,Sumatera Utara
+ADDR000129,Jl. Ahmad Yani No.86,86,47298,AREA00007,Kec. Mandalajati,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000130,Jl. Imam Bonjol No.127,127,27589,AREA00034,Kec. Cicendo,Tasikmalaya,Jawa Barat
+ADDR000131,Jl. HR Rasuna Said No.120,120,45761,AREA00033,Kec. Buahbatu,Kupang,Nusa Tenggara Timur
+ADDR000132,Jl. MT Haryono No.85,85,31298,AREA00008,Kec. Cibiru,Pekanbaru,Riau
+ADDR000133,Jl. MT Haryono No.166,166,43720,AREA00030,Kec. Bengkayang,Bekasi,Jawa Barat
+ADDR000134,Jl. Pattimura No.4,4,54185,AREA00012,Kec. Kiaracondong,Solo,Jawa Timur
+ADDR000135,Jl. Pattimura No.146,146,98395,AREA00019,Kec. Andir,Medan,Sumatera Utara
+ADDR000136,Jl. Imam Bonjol No.45,45,90079,AREA00013,Kec. Batununggal,Bekasi,Jawa Barat
+ADDR000137,Jl. Pemuda No.110,110,77538,AREA00026,Kec. Menteng,,Jambi
+ADDR000138,Jl. Sudirman No.103,103,97720,AREA00006,Kec. Sukasari,Pontianak,Kalimantan Barat
+ADDR000139,Jl. Pemuda No.36,36,72580,AREA00012,Kec. Kiaracondong,Solo,Jawa Timur
+ADDR000140,,2,,AREA00016,Kec. Bojongloa Kaler,Mataram,Nusa Tenggara Barat
+ADDR000141,Jl. Pemuda No.115,115,44995,AREA00016,Kec. Bojongloa Kaler,Mataram,Nusa Tenggara Barat
+ADDR000142,Jl. Merdeka No.150,150,85088,AREA00020,Kec. Cidadap,Banda Aceh,Aceh
+ADDR000143,Jl. MT Haryono No.168,168,57127,AREA00017,Kec. Bojongloa Kidul,Semarang,Jawa Timur
+ADDR000144,Jl. Sudirman No.16,16,97528,AREA00016,Kec. Bojongloa Kaler,Mataram,Nusa Tenggara Barat
+ADDR000145,Jl. Diponegoro No.79,79,30934,AREA00030,Kec. Bengkayang,Bekasi,Jawa Barat
+ADDR000146,Jl. MT Haryono No.181,181,50760,AREA00033,Kec. Buahbatu,Kupang,Nusa Tenggara Timur
+ADDR000147,Jl. Pemuda No.164,164,48671,AREA00008,Kec. Cibiru,Pekanbaru,Riau
+ADDR000148,Jl. Ahmad Yani No.57,57,27507,AREA00015,Kec. Astana Anyar,Tasikmalaya,Jawa Barat
+ADDR000149,Jl. Pemuda No.117,117,89395,AREA00010,Kec. Arcamanik,Palembang,Sumatera Selatan
+ADDR000150,jl. hayam wuruk no.180,-,,AREA00027,Kec. Pahandut,Yogyakarta,Jawa Timur
+ADDR000151,Jl. Pattimura No.194,194,80453,AREA00031,Kec. Cibeunying,Denpasar,Bali
+ADDR000152,Jl. Raya Bogor No.196,196,42435,AREA00014,Kec. Regol,Medan,Sumatera Utara
+ADDR000153,Jl. Pahlawan No.135,135,68556,AREA00006,Kec. Sukasari,Pontianak,Kalimantan Barat
+ADDR000154,Jl. Sudirman No.20,20,83946,AREA00024,Kec. Bukit Batu,Surabaya,Jawa Timur
+ADDR000155,Jl. HR Rasuna Said No.141,141,76255,AREA00004,Kec. Cicendo,Solo,Jawa Timur
+ADDR000156,Jl. Imam Bonjol No.43,43,53007,AREA00010,Kec. Arcamanik,Palembang,Sumatera Selatan
+ADDR000157,Jl. Raya Bogor No.114,114,25235,AREA00034,Kec. Cicendo,Tasikmalaya,Jawa Barat
+ADDR000158,Jl. Ahmad Yani No.184,184,86434,AREA00014,Kec. Regol,Medan,Sumatera Utara
+ADDR000159,Jl. Pattimura No.131,131,68390,AREA00006,Kec. Sukasari,Pontianak,Kalimantan Barat
+ADDR000160,Jl. Pahlawan No.117,117
+ADDR000161,Jl. Merdeka No.117,117,83912,AREA00027,Kec. Pahandut,Yogyakarta,Jawa Timur
+ADDR000162,Jl. MT Haryono No.173,173,50392,AREA00030,Kec. Bengkayang,Bekasi,Jawa Barat
+ADDR000163,Jl. Imam Bonjol No.102,102,43352,AREA00002,Kec. Coblong,Padang,Sumatera Barat
+ADDR000164,Jl. Veteran No.191,191,38560,AREA00001,Kec. Cibeunying,Malang,Jawa Timur
+ADDR000165,Jl. Pemuda No.12,12,65534,AREA00005,Kec. Antapani,Banjarmasin,Kalimantan Selatan
+ADDR000166,Jl. Hayam Wuruk No.139,139,17897,AREA00005,Kec. Antapani,Banjarmasin,Kalimantan Selatan
+ADDR000167,Jl. Kebon Sirih No.121,121,14159,AREA00005,Kec. Antapani,Banjarmasin,Kalimantan Selatan
+ADDR000168,Jl. Pattimura No.47,47,27750,AREA00027,Kec. Pahandut,Yogyakarta,Jawa Timur
+ADDR000169,Jl. Ahmad Yani No.96,96,60132,AREA00027,Kec. Pahandut,Yogyakarta,Jawa Timur
+ADDR000170,Jl. Raya Bogor No.97,97,20518,AREA00025,Kec. Jekan Raya,Bogor,Jawa Barat
+ADDR000171,Jl. Sudirman No.168,168,55582,AREA00009,Kec. Ujungberung,Solo,Jawa Timur
+ADDR000172,Jl. Pahlawan No.138,138,61518,AREA00012,Kec. Kiaracondong,Solo,Jawa Timur
+ADDR000173,Jl. Imam Bonjol No.187,187,39188,AREA00009,Kec. Ujungberung,Solo,Jawa Timur
+ADDR000174,Jl. Kebon Sirih No.194,194,12979,AREA00001,Kec. Cibeunying,Malang,Jawa Timur
+ADDR000175,,173,,AREA00030,Kec. Bengkayang,Bekasi,Jawa Barat
+ADDR000176,Jl. Ahmad Yani No.59,59,42441,AREA00025,Kec. Jekan Raya,Bogor,Jawa Barat
+ADDR000177,Jl. HR Rasuna Said No.40,40,46129,AREA00023,Kec. Bandung Kidul,Cirebon,Jawa Barat
+ADDR000178,Jl. Diponegoro No.9,9,96533,AREA00008,Kec. Cibiru,Pekanbaru,Riau
+ADDR000179,Jl. Sudirman No.62,62,37011,AREA00002,Kec. Coblong,Padang,Sumatera Barat
+ADDR000180,Jl. Ahmad Yani No.153,-,,AREA00007,Kec. Mandalajati,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000181,Jl. Diponegoro No.63,63,15798,AREA00004,Kec. Cicendo,Solo,Jawa Timur
+ADDR000182,Jl. HR Rasuna Said No.60,60,80747,AREA00029,Kec. Sabangau,Madiun,Jawa Timur
+ADDR000183,Jl. Kebon Sirih No.36,36,76046,AREA00004,Kec. Cicendo,Solo,Jawa Timur
+ADDR000184,Jl. Pemuda No.188,188,85511,AREA00015,Kec. Astana Anyar,Tasikmalaya,Jawa Barat
+ADDR000185,Jl. Hayam Wuruk No.61,61,49552,AREA00021,Kec. Sumur Bandung,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000186,Jl. HR Rasuna Said No.170,170,78321,AREA00010,Kec. Arcamanik,Palembang,Sumatera Selatan
+ADDR000187,Jl. Merdeka No.77,77,46064,AREA00027,Kec. Pahandut,Yogyakarta,Jawa Timur
+ADDR000188,Jl. Diponegoro No.161,161,98965,AREA00012,Kec. Kiaracondong,Solo,Jawa Timur
+ADDR000189,Jl. Raya Bogor No.13,13,55143,AREA00032,Kec. Coblong,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000190,Jl. MT Haryono No.135,135,51777,AREA00025,Kec. Jekan Raya,Bogor,Jawa Barat
+ADDR000191,Jl. Kebon Sirih No.105,105,29558,AREA00027,Kec. Pahandut,Yogyakarta,Jawa Timur
+ADDR000192,Jl. Ahmad Yani No.48,48,80507,AREA00025,Kec. Jekan Raya,Bogor,Jawa Barat
+ADDR000193,Jl. Imam Bonjol No.58,58,49418,AREA00016,Kec. Bojongloa Kaler,Mataram,Nusa Tenggara Barat
+ADDR000194,Jl. Pahlawan No.119,119,17552,AREA00010,Kec. Arcamanik,Palembang,Sumatera Selatan
+ADDR000195,Jl. Pahlawan No.107,107,83044,AREA00027,Kec. Pahandut,Yogyakarta,Jawa Timur
+ADDR000196,Jl. Kebon Sirih No.100,100,41831,AREA00009,Kec. Ujungberung,Solo,Jawa Timur
+ADDR000197,Jl. Sudirman No.85,85,94765,AREA00014,Kec. Regol,Medan,Sumatera Utara
+ADDR000198,Jl. Pahlawan No.95,95,22119,AREA00029,Kec. Sabangau,Madiun,Jawa Timur
+ADDR000199,Jl. Diponegoro No.14,14,45187,AREA00013,Kec. Batununggal,Bekasi,Jawa Barat
+ADDR000200,jl. pattimura no.19,19
+ADDR000201,Jl. Imam Bonjol No.123,123,37379,AREA00014,Kec. Regol,Medan,Sumatera Utara
+ADDR000202,Jl. HR Rasuna Said No.78,78,12009,AREA00022,Kec. Lengkong,Manokwari,Papua Barat
+ADDR000203,Jl. MT Haryono No.190,190,25376,AREA00013,Kec. Batununggal,Bekasi,Jawa Barat
+ADDR000204,Jl. MT Haryono No.63,63,89220,AREA00031,Kec. Cibeunying,Denpasar,Bali
+ADDR000205,Jl. Pahlawan No.102,102,41369,AREA00014,Kec. Regol,Medan,Sumatera Utara
+ADDR000206,Jl. Diponegoro No.199,199,47101,AREA00021,Kec. Sumur Bandung,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000207,Jl. Pemuda No.137,137,95029,AREA00030,Kec. Bengkayang,Bekasi,Jawa Barat
+ADDR000208,Jl. Pahlawan No.67,67,57139,AREA00020,Kec. Cidadap,Banda Aceh,Aceh
+ADDR000209,Jl. Pattimura No.120,120,22924,AREA00032,Kec. Coblong,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000210,,-,51973,AREA00031,Kec. Cibeunying,Denpasar,Bali
+ADDR000211,Jl. Diponegoro No.95,95,51015,AREA00014,Kec. Regol,Medan,Sumatera Utara
+ADDR000212,Jl. MT Haryono No.145,145,39002,AREA00003,Kec. Buahbatu,Surabaya,Jawa Timur
+ADDR000213,Jl. Pahlawan No.5,5,44180,AREA00010,Kec. Arcamanik,Palembang,Sumatera Selatan
+ADDR000214,Jl. HR Rasuna Said No.76,76,29976,AREA00027,Kec. Pahandut,Yogyakarta,Jawa Timur
+ADDR000215,Jl. Veteran No.59,59,59786,AREA00022,Kec. Lengkong,Manokwari,Papua Barat
+ADDR000216,Jl. Raya Bogor No.128,128,82173,AREA00016,Kec. Bojongloa Kaler,Mataram,Nusa Tenggara Barat
+ADDR000217,Jl. MT Haryono No.66,66,74044,AREA00022,Kec. Lengkong,Manokwari,Papua Barat
+ADDR000218,Jl. MT Haryono No.118,118,32050,AREA00032,Kec. Coblong,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000219,Jl. MT Haryono No.44,44,28344,AREA00023,Kec. Bandung Kidul,Cirebon,Jawa Barat
+ADDR000220,Jl. Raya Bogor No.48,48,,AREA00032,Kec. Coblong,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000221,Jl. Imam Bonjol No.135,135,14433,AREA00004,Kec. Cicendo,Solo,Jawa Timur
+ADDR000222,Jl. Pattimura No.172,172,16358,AREA00005,Kec. Antapani,Banjarmasin,Kalimantan Selatan
+ADDR000223,Jl. Imam Bonjol No.106,106,28021,AREA00001,Kec. Cibeunying,Malang,Jawa Timur
+ADDR000224,Jl. Merdeka No.18,18,29795,AREA00015,Kec. Astana Anyar,Tasikmalaya,Jawa Barat
+ADDR000225,Jl. Pemuda No.130,130,,AREA00014,Kec. Regol,Medan,Sumatera Utara
+ADDR000226,Jl. Raya Bogor No.159,159,93588,AREA00004,Kec. Cicendo,Solo,Jawa Timur
+ADDR000227,Jl. Merdeka No.169,169,73944,AREA00031,Kec. Cibeunying,Denpasar,Bali
+ADDR000228,Jl. Diponegoro No.137,137,82305,AREA00001,Kec. Cibeunying,Malang,Jawa Timur
+ADDR000229,Jl. MT Haryono No.5,5,79391,AREA00001,Kec. Cibeunying,Malang,Jawa Timur
+ADDR000230,Jl. Merdeka No.138,138,47576,AREA00018,Kec. Bandung Kulon,Surabaya,Jawa Timur
+ADDR000231,Jl. Diponegoro No.179,179,98346,AREA00033,Kec. Buahbatu,Kupang,Nusa Tenggara Timur
+ADDR000232,Jl. Pahlawan No.28,28,22624,AREA00012,Kec. Kiaracondong,Solo,Jawa Timur
+ADDR000233,Jl. Veteran No.62,62,35156,AREA00010,Kec. Arcamanik,Palembang,Sumatera Selatan
+ADDR000234,Jl. Kebon Sirih No.65,65,56457,AREA00034,Kec. Cicendo,Tasikmalaya,Jawa Barat
+ADDR000235,Jl. Diponegoro No.21,21,58896,AREA00026,Kec. Menteng,,Jambi
+ADDR000236,Jl. MT Haryono No.145,145,41877,AREA00030,Kec. Bengkayang,Bekasi,Jawa Barat
+ADDR000237,Jl. Imam Bonjol No.77,77,99658,AREA00015,Kec. Astana Anyar,Tasikmalaya,Jawa Barat
+ADDR000238,Jl. Pattimura No.168,168,95182,AREA00006,Kec. Sukasari,Pontianak,Kalimantan Barat
+ADDR000239,Jl. Diponegoro No.24,24,63120,AREA00003,Kec. Buahbatu,Surabaya,Jawa Timur
+ADDR000240,Jl. Merdeka No.142,-
+ADDR000241,Jl. Sudirman No.180,180,32463,AREA00001,Kec. Cibeunying,Malang,Jawa Timur
+ADDR000242,Jl. Pattimura No.112,112,94529,AREA00032,Kec. Coblong,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000243,Jl. Hayam Wuruk No.145,145,22499,AREA00022,Kec. Lengkong,Manokwari,Papua Barat
+ADDR000244,Jl. HR Rasuna Said No.11,11,40115,AREA00034,Kec. Cicendo,Tasikmalaya,Jawa Barat
+ADDR000245,,70,16102,AREA00031,Kec. Cibeunying,Denpasar,Bali
+ADDR000246,Jl. Hayam Wuruk No.176,176,46749,AREA00005,Kec. Antapani,Banjarmasin,Kalimantan Selatan
+ADDR000247,Jl. Merdeka No.46,46,51220,AREA00003,Kec. Buahbatu,Surabaya,Jawa Timur
+ADDR000248,Jl. Pattimura No.151,151,28899,AREA00014,Kec. Regol,Medan,Sumatera Utara
+ADDR000249,Jl. Gatot Subroto No.20,20,49226,AREA00026,Kec. Menteng,,Jambi
+ADDR000250,jl. raya bogor no.146,146,,AREA00016,Kec. Bojongloa Kaler,Mataram,Nusa Tenggara Barat
+ADDR000251,Jl. Pattimura No.99,99,28343,AREA00022,Kec. Lengkong,Manokwari,Papua Barat
+ADDR000252,Jl. Merdeka No.129,129,55332,AREA00006,Kec. Sukasari,Pontianak,Kalimantan Barat
+ADDR000253,Jl. Imam Bonjol No.112,112,40427,AREA00007,Kec. Mandalajati,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000254,Jl. Pattimura No.88,88,89320,AREA00005,Kec. Antapani,Banjarmasin,Kalimantan Selatan
+ADDR000255,Jl. Merdeka No.199,199,52778,AREA00026,Kec. Menteng,,Jambi
+ADDR000256,Jl. HR Rasuna Said No.116,116,74304,AREA00018,Kec. Bandung Kulon,Surabaya,Jawa Timur
+ADDR000257,Jl. Diponegoro No.142,142,59207,AREA00023,Kec. Bandung Kidul,Cirebon,Jawa Barat
+ADDR000258,Jl. Raya Bogor No.175,175,86791,AREA00012,Kec. Kiaracondong,Solo,Jawa Timur
+ADDR000259,Jl. Kebon Sirih No.22,22,91083,AREA00025,Kec. Jekan Raya,Bogor,Jawa Barat
+ADDR000260,Jl. Sudirman No.183,183,,AREA00016,Kec. Bojongloa Kaler,Mataram,Nusa Tenggara Barat
+ADDR000261,Jl. MT Haryono No.40,40,59807,AREA00018,Kec. Bandung Kulon,Surabaya,Jawa Timur
+ADDR000262,Jl. Pemuda No.190,190,61068,AREA00010,Kec. Arcamanik,Palembang,Sumatera Selatan
+ADDR000263,Jl. Merdeka No.28,28,21995,AREA00024,Kec. Bukit Batu,Surabaya,Jawa Timur
+ADDR000264,Jl. Pattimura No.114,114,57175,AREA00020,Kec. Cidadap,Banda Aceh,Aceh
+ADDR000265,Jl. Sudirman No.27,27,27367,AREA00018,Kec. Bandung Kulon,Surabaya,Jawa Timur
+ADDR000266,Jl. Pahlawan No.111,111,68830,AREA00012,Kec. Kiaracondong,Solo,Jawa Timur
+ADDR000267,Jl. Merdeka No.105,105,23538,AREA00033,Kec. Buahbatu,Kupang,Nusa Tenggara Timur
+ADDR000268,Jl. Sudirman No.91,91,82642,AREA00006,Kec. Sukasari,Pontianak,Kalimantan Barat
+ADDR000269,Jl. Kebon Sirih No.99,99,11617,AREA00021,Kec. Sumur Bandung,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000270,Jl. MT Haryono No.100,-,21101,AREA00027,Kec. Pahandut,Yogyakarta,Jawa Timur
+ADDR000271,Jl. Gatot Subroto No.147,147,78302,AREA00016,Kec. Bojongloa Kaler,Mataram,Nusa Tenggara Barat
+ADDR000272,Jl. Kebon Sirih No.44,44,28198,AREA00025,Kec. Jekan Raya,Bogor,Jawa Barat
+ADDR000273,Jl. Gatot Subroto No.69,69,74634,AREA00020,Kec. Cidadap,Banda Aceh,Aceh
+ADDR000274,Jl. Kebon Sirih No.43,43,66973,AREA00005,Kec. Antapani,Banjarmasin,Kalimantan Selatan
+ADDR000275,Jl. Pattimura No.77,77,,AREA00027,Kec. Pahandut,Yogyakarta,Jawa Timur
+ADDR000276,Jl. HR Rasuna Said No.93,93,42990,AREA00005,Kec. Antapani,Banjarmasin,Kalimantan Selatan
+ADDR000277,Jl. HR Rasuna Said No.153,153,90828,AREA00032,Kec. Coblong,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000278,Jl. Kebon Sirih No.28,28,27758,AREA00030,Kec. Bengkayang,Bekasi,Jawa Barat
+ADDR000279,Jl. Imam Bonjol No.102,102,53544,AREA00001,Kec. Cibeunying,Malang,Jawa Timur
+ADDR000280,,85
+ADDR000281,Jl. Gatot Subroto No.167,167,87908,AREA00028,Kec. Rakumpit,Mojokerto,Jawa Timur
+ADDR000282,Jl. MT Haryono No.83,83,89064,AREA00020,Kec. Cidadap,Banda Aceh,Aceh
+ADDR000283,Jl. Gatot Subroto No.123,123,51180,AREA00013,Kec. Batununggal,Bekasi,Jawa Barat
+ADDR000284,Jl. MT Haryono No.82,82,48200,AREA00026,Kec. Menteng,,Jambi
+ADDR000285,Jl. Pemuda No.148,148,41775,AREA00032,Kec. Coblong,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000286,Jl. Pemuda No.72,72,61502,AREA00025,Kec. Jekan Raya,Bogor,Jawa Barat
+ADDR000287,Jl. Veteran No.145,145,36188,AREA00008,Kec. Cibiru,Pekanbaru,Riau
+ADDR000288,Jl. Merdeka No.175,175,82102,AREA00012,Kec. Kiaracondong,Solo,Jawa Timur
+ADDR000289,Jl. Ahmad Yani No.182,182,37479,AREA00030,Kec. Bengkayang,Bekasi,Jawa Barat
+ADDR000290,Jl. Imam Bonjol No.178,178,19064,AREA00019,Kec. Andir,Medan,Sumatera Utara
+ADDR000291,Jl. Gatot Subroto No.173,173,75444,AREA00027,Kec. Pahandut,Yogyakarta,Jawa Timur
+ADDR000292,Jl. Raya Bogor No.62,62,43119,AREA00020,Kec. Cidadap,Banda Aceh,Aceh
+ADDR000293,Jl. Pattimura No.184,184,65460,AREA00010,Kec. Arcamanik,Palembang,Sumatera Selatan
+ADDR000294,Jl. Veteran No.19,19,68860,AREA00025,Kec. Jekan Raya,Bogor,Jawa Barat
+ADDR000295,Jl. Pahlawan No.150,150,62534,AREA00031,Kec. Cibeunying,Denpasar,Bali
+ADDR000296,Jl. Pahlawan No.178,178,64827,AREA00033,Kec. Buahbatu,Kupang,Nusa Tenggara Timur
+ADDR000297,Jl. Veteran No.93,93,80373,AREA00003,Kec. Buahbatu,Surabaya,Jawa Timur
+ADDR000298,Jl. Raya Bogor No.28,28,42536,AREA00006,Kec. Sukasari,Pontianak,Kalimantan Barat
+ADDR000299,Jl. Veteran No.43,43,94803,AREA00023,Kec. Bandung Kidul,Cirebon,Jawa Barat
+ADDR000300,jl. raya bogor no.145,-,,AREA00003,Kec. Buahbatu,Surabaya,Jawa Timur
+ADDR000301,Jl. Pattimura No.193,193,53463,AREA00026,Kec. Menteng,,Jambi
+ADDR000302,Jl. Sudirman No.28,28,11382,AREA00028,Kec. Rakumpit,Mojokerto,Jawa Timur
+ADDR000303,Jl. MT Haryono No.57,57,76935,AREA00017,Kec. Bojongloa Kidul,Semarang,Jawa Timur
+ADDR000304,Jl. MT Haryono No.143,143,86089,AREA00034,Kec. Cicendo,Tasikmalaya,Jawa Barat
+ADDR000305,Jl. Diponegoro No.115,115,59036,AREA00015,Kec. Astana Anyar,Tasikmalaya,Jawa Barat
+ADDR000306,Jl. Veteran No.198,198,99070,AREA00030,Kec. Bengkayang,Bekasi,Jawa Barat
+ADDR000307,Jl. Merdeka No.39,39,55215,AREA00033,Kec. Buahbatu,Kupang,Nusa Tenggara Timur
+ADDR000308,Jl. Diponegoro No.27,27,48722,AREA00031,Kec. Cibeunying,Denpasar,Bali
+ADDR000309,Jl. Pemuda No.30,30,28569,AREA00006,Kec. Sukasari,Pontianak,Kalimantan Barat
+ADDR000310,Jl. Pattimura No.88,88,69681,AREA00020,Kec. Cidadap,Banda Aceh,Aceh
+ADDR000311,Jl. Pemuda No.134,134,73298,AREA00014,Kec. Regol,Medan,Sumatera Utara
+ADDR000312,Jl. MT Haryono No.25,25,67431,AREA00031,Kec. Cibeunying,Denpasar,Bali
+ADDR000313,Jl. Kebon Sirih No.82,82,18804,AREA00029,Kec. Sabangau,Madiun,Jawa Timur
+ADDR000314,Jl. Merdeka No.182,182,25084,AREA00003,Kec. Buahbatu,Surabaya,Jawa Timur
+ADDR000315,,166,24334,AREA00022,Kec. Lengkong,Manokwari,Papua Barat
+ADDR000316,Jl. Pahlawan No.190,190,41970,AREA00011,Kec. Gedebage,Kediri,Jawa Timur
+ADDR000317,Jl. Pemuda No.142,142,30989,AREA00012,Kec. Kiaracondong,Solo,Jawa Timur
+ADDR000318,Jl. Pattimura No.119,119,40389,AREA00028,Kec. Rakumpit,Mojokerto,Jawa Timur
+ADDR000319,Jl. Gatot Subroto No.162,162,34176,AREA00026,Kec. Menteng,,Jambi
+ADDR000320,Jl. MT Haryono No.102,102
+ADDR000321,Jl. Diponegoro No.116,116,87621,AREA00013,Kec. Batununggal,Bekasi,Jawa Barat
+ADDR000322,Jl. HR Rasuna Said No.2,2,38153,AREA00025,Kec. Jekan Raya,Bogor,Jawa Barat
+ADDR000323,Jl. Veteran No.193,193,18200,AREA00018,Kec. Bandung Kulon,Surabaya,Jawa Timur
+ADDR000324,Jl. Pemuda No.138,138,34505,AREA00007,Kec. Mandalajati,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000325,Jl. Sudirman No.51,51,,AREA00021,Kec. Sumur Bandung,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000326,Jl. Pahlawan No.172,172,74157,AREA00017,Kec. Bojongloa Kidul,Semarang,Jawa Timur
+ADDR000327,Jl. Veteran No.153,153,60939,AREA00021,Kec. Sumur Bandung,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000328,Jl. Pemuda No.151,151,24972,AREA00026,Kec. Menteng,,Jambi
+ADDR000329,Jl. Gatot Subroto No.118,118,90918,AREA00023,Kec. Bandung Kidul,Cirebon,Jawa Barat
+ADDR000330,Jl. Sudirman No.158,-,87354,AREA00020,Kec. Cidadap,Banda Aceh,Aceh
+ADDR000331,Jl. HR Rasuna Said No.81,81,25448,AREA00009,Kec. Ujungberung,Solo,Jawa Timur
+ADDR000332,Jl. Pemuda No.30,30,33992,AREA00020,Kec. Cidadap,Banda Aceh,Aceh
+ADDR000333,Jl. Diponegoro No.131,131,60916,AREA00010,Kec. Arcamanik,Palembang,Sumatera Selatan
+ADDR000334,Jl. Diponegoro No.148,148,60293,AREA00009,Kec. Ujungberung,Solo,Jawa Timur
+ADDR000335,Jl. Pahlawan No.125,125,93296,AREA00012,Kec. Kiaracondong,Solo,Jawa Timur
+ADDR000336,Jl. Ahmad Yani No.143,143,31871,AREA00012,Kec. Kiaracondong,Solo,Jawa Timur
+ADDR000337,Jl. Pemuda No.36,36,34523,AREA00019,Kec. Andir,Medan,Sumatera Utara
+ADDR000338,Jl. Imam Bonjol No.159,159,17026,AREA00029,Kec. Sabangau,Madiun,Jawa Timur
+ADDR000339,Jl. Gatot Subroto No.3,3,73518,AREA00023,Kec. Bandung Kidul,Cirebon,Jawa Barat
+ADDR000340,Jl. Pahlawan No.99,99,,AREA00013,Kec. Batununggal,Bekasi,Jawa Barat
+ADDR000341,Jl. Ahmad Yani No.105,105,99744,AREA00032,Kec. Coblong,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000342,Jl. Ahmad Yani No.182,182,68176,AREA00027,Kec. Pahandut,Yogyakarta,Jawa Timur
+ADDR000343,Jl. Merdeka No.22,22,84107,AREA00011,Kec. Gedebage,Kediri,Jawa Timur
+ADDR000344,Jl. Kebon Sirih No.75,75,14285,AREA00015,Kec. Astana Anyar,Tasikmalaya,Jawa Barat
+ADDR000345,Jl. Gatot Subroto No.138,138,47836,AREA00015,Kec. Astana Anyar,Tasikmalaya,Jawa Barat
+ADDR000346,Jl. Pahlawan No.145,145,74921,AREA00030,Kec. Bengkayang,Bekasi,Jawa Barat
+ADDR000347,Jl. Sudirman No.29,29,85066,AREA00033,Kec. Buahbatu,Kupang,Nusa Tenggara Timur
+ADDR000348,Jl. Imam Bonjol No.199,199,81186,AREA00018,Kec. Bandung Kulon,Surabaya,Jawa Timur
+ADDR000349,Jl. Pattimura No.139,139,15453,AREA00024,Kec. Bukit Batu,Surabaya,Jawa Timur
+ADDR000350,,140,,AREA00029,Kec. Sabangau,Madiun,Jawa Timur
+ADDR000351,Jl. Pattimura No.189,189,95678,AREA00007,Kec. Mandalajati,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000352,Jl. Ahmad Yani No.77,77,14224,AREA00016,Kec. Bojongloa Kaler,Mataram,Nusa Tenggara Barat
+ADDR000353,Jl. Ahmad Yani No.90,90,21401,AREA00017,Kec. Bojongloa Kidul,Semarang,Jawa Timur
+ADDR000354,Jl. HR Rasuna Said No.199,199,41056,AREA00008,Kec. Cibiru,Pekanbaru,Riau
+ADDR000355,Jl. Raya Bogor No.182,182,89988,AREA00023,Kec. Bandung Kidul,Cirebon,Jawa Barat
+ADDR000356,Jl. Gatot Subroto No.43,43,90760,AREA00028,Kec. Rakumpit,Mojokerto,Jawa Timur
+ADDR000357,Jl. Veteran No.53,53,17780,AREA00014,Kec. Regol,Medan,Sumatera Utara
+ADDR000358,Jl. Veteran No.137,137,46842,AREA00023,Kec. Bandung Kidul,Cirebon,Jawa Barat
+ADDR000359,Jl. Kebon Sirih No.83,83,48356,AREA00011,Kec. Gedebage,Kediri,Jawa Timur
+ADDR000360,Jl. Imam Bonjol No.132,-
+ADDR000361,Jl. Hayam Wuruk No.35,35,63948,AREA00007,Kec. Mandalajati,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000362,Jl. Gatot Subroto No.71,71,95969,AREA00004,Kec. Cicendo,Solo,Jawa Timur
+ADDR000363,Jl. MT Haryono No.64,64,29168,AREA00009,Kec. Ujungberung,Solo,Jawa Timur
+ADDR000364,Jl. Diponegoro No.64,64,98635,AREA00021,Kec. Sumur Bandung,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000365,Jl. Raya Bogor No.37,37,85684,AREA00032,Kec. Coblong,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000366,Jl. Diponegoro No.161,161,64293,AREA00018,Kec. Bandung Kulon,Surabaya,Jawa Timur
+ADDR000367,Jl. Pattimura No.20,20,93050,AREA00029,Kec. Sabangau,Madiun,Jawa Timur
+ADDR000368,Jl. MT Haryono No.104,104,77582,AREA00006,Kec. Sukasari,Pontianak,Kalimantan Barat
+ADDR000369,Jl. Ahmad Yani No.178,178,58374,AREA00018,Kec. Bandung Kulon,Surabaya,Jawa Timur
+ADDR000370,Jl. Merdeka No.84,84,86278,AREA00032,Kec. Coblong,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000371,Jl. Raya Bogor No.188,188,70089,AREA00006,Kec. Sukasari,Pontianak,Kalimantan Barat
+ADDR000372,Jl. Diponegoro No.17,17,80048,AREA00023,Kec. Bandung Kidul,Cirebon,Jawa Barat
+ADDR000373,Jl. Ahmad Yani No.110,110,37767,AREA00014,Kec. Regol,Medan,Sumatera Utara
+ADDR000374,Jl. Pemuda No.83,83,47171,AREA00018,Kec. Bandung Kulon,Surabaya,Jawa Timur
+ADDR000375,Jl. Pattimura No.145,145,,AREA00009,Kec. Ujungberung,Solo,Jawa Timur
+ADDR000376,Jl. Merdeka No.175,175,16345,AREA00022,Kec. Lengkong,Manokwari,Papua Barat
+ADDR000377,Jl. Merdeka No.161,161,70238,AREA00007,Kec. Mandalajati,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000378,Jl. Ahmad Yani No.41,41,67840,AREA00008,Kec. Cibiru,Pekanbaru,Riau
+ADDR000379,Jl. MT Haryono No.110,110,36518,AREA00001,Kec. Cibeunying,Malang,Jawa Timur
+ADDR000380,Jl. Gatot Subroto No.167,167,,AREA00009,Kec. Ujungberung,Solo,Jawa Timur
+ADDR000381,Jl. Pemuda No.24,24,95798,AREA00018,Kec. Bandung Kulon,Surabaya,Jawa Timur
+ADDR000382,Jl. Raya Bogor No.22,22,58738,AREA00017,Kec. Bojongloa Kidul,Semarang,Jawa Timur
+ADDR000383,Jl. Raya Bogor No.14,14,61949,AREA00011,Kec. Gedebage,Kediri,Jawa Timur
+ADDR000384,Jl. Diponegoro No.186,186,40689,AREA00020,Kec. Cidadap,Banda Aceh,Aceh
+ADDR000385,,181,22475,AREA00006,Kec. Sukasari,Pontianak,Kalimantan Barat
+ADDR000386,Jl. Gatot Subroto No.123,123,20215,AREA00014,Kec. Regol,Medan,Sumatera Utara
+ADDR000387,Jl. Ahmad Yani No.133,133,99126,AREA00015,Kec. Astana Anyar,Tasikmalaya,Jawa Barat
+ADDR000388,Jl. Imam Bonjol No.3,3,55032,AREA00001,Kec. Cibeunying,Malang,Jawa Timur
+ADDR000389,Jl. Ahmad Yani No.109,109,27324,AREA00008,Kec. Cibiru,Pekanbaru,Riau
+ADDR000390,Jl. Sudirman No.59,-,60209,AREA00005,Kec. Antapani,Banjarmasin,Kalimantan Selatan
+ADDR000391,Jl. Pemuda No.27,27,51071,AREA00007,Kec. Mandalajati,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000392,Jl. Pattimura No.36,36,60164,AREA00020,Kec. Cidadap,Banda Aceh,Aceh
+ADDR000393,Jl. Gatot Subroto No.165,165,98753,AREA00009,Kec. Ujungberung,Solo,Jawa Timur
+ADDR000394,Jl. Merdeka No.136,136,83831,AREA00005,Kec. Antapani,Banjarmasin,Kalimantan Selatan
+ADDR000395,Jl. MT Haryono No.113,113,56030,AREA00011,Kec. Gedebage,Kediri,Jawa Timur
+ADDR000396,Jl. Hayam Wuruk No.161,161,29840,AREA00014,Kec. Regol,Medan,Sumatera Utara
+ADDR000397,Jl. Ahmad Yani No.158,158,99989,AREA00027,Kec. Pahandut,Yogyakarta,Jawa Timur
+ADDR000398,Jl. Gatot Subroto No.23,23,23168,AREA00014,Kec. Regol,Medan,Sumatera Utara
+ADDR000399,Jl. Pemuda No.151,151,60335,AREA00008,Kec. Cibiru,Pekanbaru,Riau
+ADDR000400,jl. hr rasuna said no.81,81
+ADDR000542,Jl. Merdeka No.150,150,85088,AREA00020,Kec. Cidadap,Banda Aceh,Aceh
+ADDR000731,Jl. HR Rasuna Said No.81,81,25448,AREA00009,Kec. Ujungberung,Solo,Jawa Timur
+ADDR000444,Jl. Kebon Sirih No.163,163,82199,AREA00013,Kec. Batununggal,Bekasi,Jawa Barat
+ADDR000528,Jl. Kebon Sirih No.10,10,11214,AREA00019,Kec. Andir,Medan,Sumatera Utara
+ADDR000684,Jl. MT Haryono No.82,82,48200,AREA00026,Kec. Menteng,,Jambi
+ADDR000708,Jl. Diponegoro No.27,27,48722,AREA00031,Kec. Cibeunying,Denpasar,Bali
+ADDR000770,Jl. Merdeka No.84,84,86278,AREA00032,Kec. Coblong,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000712,Jl. MT Haryono No.25,25,67431,AREA00031,Kec. Cibeunying,Denpasar,Bali
+ADDR000001,Jl. Pahlawan No.7,63,23434,AREA00087,Kec. Pahandut,Banda Aceh,Aceh
+ADDR000002,Jl. Kenanga No.23,9,,AREA00028,Kec. Rakumpit,Mojokerto,Jawa Timur
+ADDR000003,Jl. Mawar No.7,184,81426,AREA00054,Kec. Bukit Batu,Palangkaraya,Kalimantan Tengah
+ADDR000004,Jl. Mawar No.72,2,30926,AREA00090,Kec. Bengkayang,Madiun,Jawa Timur
+ADDR000005,Jl. Gatot Subroto No.40,196,22156,AREA00049,Kec. Andir,Mamuju,Sulawesi Barat
+ADDR000006,Jl. Ahmad Yani No.155,12,80284,AREA00016,Kec. Bojongloa Kaler,Mataram,Nusa Tenggara Barat
+ADDR000007,Jl. Veteran No.21,161,57400,AREA00074,Kec. Regol,Pekalongan,Jawa Timur
+ADDR000008,Jl. Pahlawan No.12,198,20458,AREA00030,Kec. Bengkayang,Bekasi,Jawa Barat
+ADDR000009,Jl. Veteran No.72,94,56566,AREA00027,Kec. Pahandut,Yogyakarta,Jawa Timur
+ADDR000010,Jl. Pahlawan No.156,137,31417,AREA00060,Kec. Bengkayang,Mamuju,Sulawesi Barat
+ADDR000011,Jl. Kenanga No.57,197,40021,AREA00005,Kec. Antapani,Banjarmasin,Kalimantan Selatan
+ADDR000012,Jl. Veteran No.69,146,51245,AREA00028,Kec. Rakumpit,Mojokerto,Jawa Timur
+ADDR000013,Jl. Veteran No.165,68,83579,AREA00069,Kec. Ujungberung,Yogyakarta,Jawa Timur
+ADDR000014,Jl. Mawar No.110,103,28131,AREA00066,Kec. Sukasari,Kendari,Sulawesi Tenggara
+ADDR000015,jl. merdeka no.29,41,65333,AREA00077,Kec. Bojongloa Kidul,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000016,Jl. Cendana No.136,142,11504,AREA00088,Kec. Rakumpit,Blitar,Jawa Timur
+ADDR000017,Jl. Kenanga No.193,165,48469,AREA00056,Kec. Menteng,Magelang,Jawa Timur
+ADDR000018,Jl. Merdeka No.185,68,33416,AREA00065,Kec. Antapani,Sukabumi,Jawa Barat
+ADDR000019,Jl. Gatot Subroto No.164,51,31174,AREA00070,Kec. Arcamanik,Tangerang,Banten
+ADDR000020,Jl. Kenanga No.1,126,,AREA00047,Kec. Bojongloa Kidul,Palembang,Sumatera Selatan
+ADDR000021,Jl. Gatot Subroto No.62,146,21226,AREA00094,Kec. Cicendo,Cirebon,Jawa Barat
+ADDR000022,Jl. Pahlawan No.195,33,72296,AREA00071,Kec. Gedebage,Semarang,Jawa Timur
+ADDR000023,Jl. Kenanga No.156,55,36365,AREA00092,Kec. Coblong,Mojokerto,Jawa Timur
+ADDR000024,Jl. Ahmad Yani No.113,116,39451,AREA00009,Kec. Ujungberung,Solo,Jawa Timur
+ADDR000025,Jl. Mawar No.142,57,,AREA00091,Kec. Cibeunying,Kediri,Jawa Timur
+ADDR000026,Jl. Diponegoro No.18,85,41195,AREA00036,Kec. Sukasari,Bandung,Jawa Barat
+ADDR000027,Jl. Diponegoro No.139,147,41850,AREA00061,Kec. Cibeunying
+ADDR000028,Jl. Diponegoro No.25,111,63883,AREA00060,Kec. Bengkayang,Mamuju,Sulawesi Barat
+ADDR000029,Jl. Merdeka No.173,166,62772,AREA00094,Kec. Cicendo,Cirebon,Jawa Barat
+ADDR000030,Jl. Pahlawan No.64,138,65296,AREA00024,Kec. Bukit Batu,Surabaya,Jawa Timur
+ADDR000031,Jl. Diponegoro No.20,141,95477,AREA00070,Kec. Arcamanik,Tangerang,Banten
+ADDR000032,Jl. Pahlawan No.193,43,73092,AREA00028,Kec. Rakumpit,Mojokerto,Jawa Timur
+ADDR000033,Jl. Merdeka No.43,100,69638,AREA00037,Kec. Mandalajati,SALATIGA,Jawa Timur
+ADDR000034,Jl. Kenanga No.170,40,38534,AREA00008,Kec. Cibiru,Pekanbaru,Riau
+ADDR000035,Jl. Kenanga No.16,15,72493,AREA00065,Kec. Antapani,Sukabumi,Jawa Barat
+ADDR000036,Jl. Kenanga No.41,131,34356,AREA00009,Kec. Ujungberung,Solo,Jawa Timur
+ADDR000037,Jl. Diponegoro No.104,146,87924,AREA00006,Kec. Sukasari,Pontianak,Kalimantan Barat
+ADDR000038,Jl. Veteran No.169,134,44179,AREA00027,Kec. Pahandut,Yogyakarta,Jawa Timur
+ADDR000039,Jl. Ahmad Yani No.62,34,49321,AREA00059,Kec. Sabangau,Padang,Sumatera Barat
+ADDR000040,Jl. Pahlawan No.3,145,19602,AREA00069,Kec. Ujungberung,Yogyakarta,Jawa Timur
+ADDR000041,Jl. Gatot Subroto No.34,18,58434,AREA00037,Kec. Mandalajati,SALATIGA,Jawa Timur
+ADDR000042,Jl. Kenanga No.181,168,97538,AREA00071,Kec. Gedebage,Semarang,Jawa Timur
+ADDR000043,Jl. Pahlawan No.35,28,30374,AREA00035,Kec. Antapani,Banjarmasin,Kalimantan Selatan
+ADDR000044,Jl. Diponegoro No.184,176,44600,AREA00065,Kec. Antapani,Sukabumi,Jawa Barat
+ADDR000045,Jl. Merdeka No.24,71,53719,AREA00099,Kec. Ujungberung,Pontianak,Kalimantan Barat
+ADDR000046,Jl. Gatot Subroto No.42,142,83519,AREA00002,Kec. Coblong,Padang,Sumatera Barat
+ADDR000047,Jl. Sudirman No.140,-,82420,AREA00019,Kec. Andir,Medan,Sumatera Utara
+ADDR000048,Jl. Merdeka No.79,11,37535,AREA00088,Kec. Rakumpit,Blitar,Jawa Timur
+ADDR000049,Jl. Pahlawan No.91,105,30257,AREA00031,Kec. Cibeunying,Denpasar,Bali
+ADDR000050,Jl. Sudirman No.106,-,53540,AREA00053,Kec. Bandung Kidul,Cirebon,Jawa Barat
+ADDR000051,Jl. Diponegoro No.69,180,15075,AREA00061,Kec. Cibeunying
+ADDR000052,Jl. Cendana No.90,59,96511,AREA00025,Kec. Jekan Raya,Bogor,Jawa Barat
+ADDR000053,Jl. Gatot Subroto No.18,72,76768,AREA00052,Kec. Lengkong,Manado,Sulawesi Utara
+ADDR000054,Jl. Kenanga No.85,30,44237,AREA00023,Kec. Bandung Kidul,Cirebon,Jawa Barat
+ADDR000055,Jl. Gatot Subroto No.10,112,51114,AREA00056,Kec. Menteng,Magelang,Jawa Timur
+ADDR000056,Jl. Kenanga No.30,148,15817,AREA00091,Kec. Cibeunying,Kediri,Jawa Timur
+ADDR000057,Jl. Kenanga No.138,190,35825,AREA00047,Kec. Bojongloa Kidul,Palembang,Sumatera Selatan
+ADDR000058,Jl. Ahmad Yani No.160,32,49363,AREA00065,Kec. Antapani,Sukabumi,Jawa Barat
+ADDR000059,Jl. Veteran No.84,76,35144,AREA00054,Kec. Bukit Batu,Palangkaraya,Kalimantan Tengah
+ADDR000060,Jl. Veteran No.174,45,49446,AREA00052,Kec. Lengkong,Manado,Sulawesi Utara
+ADDR000061,Jl. Merdeka No.78,111,89516,AREA00084,Kec. Bukit Batu,Bandar Lampung,Lampung
+ADDR000062,Jl. Cendana No.114,131,32241,AREA00085,Kec. Jekan Raya,Kendari,Sulawesi Tenggara
+ADDR000063,Jl. Kenanga No.170,86,40784,AREA00087,Kec. Pahandut,Banda Aceh,Aceh
+ADDR000064,Jl. Diponegoro No.38,-,72277,AREA00079,Kec. Andir,Mamuju,Sulawesi Barat
+ADDR000065,Jl. Pahlawan No.117,162,60328,AREA00064,Kec. Cicendo,Malang,Jawa Timur
+ADDR000066,Jl. Sudirman No.168,193,23970,AREA00100,Kec. Arcamanik,Bandar Lampung,Lampung
+ADDR000067,Jl. Sudirman No.179,13,25906,AREA00059,Kec. Sabangau,Padang,Sumatera Barat
+ADDR000068,Jl. Cendana No.171,144,68008,AREA00079,Kec. Andir,Mamuju,Sulawesi Barat
+ADDR000069,Jl. Kenanga No.110,141,30861,AREA00096,Kec. Sukasari,Bandar Lampung,Lampung
+ADDR000070,Jl. Cendana No.67,164,78327,AREA00063,Kec. Buahbatu,Samarinda,Kalimantan Timur
+ADDR000071,Jl. Gatot Subroto No.113,74,54020,AREA00041,Kec. Gedebage,Palu,Sulawesi Tengah
+ADDR000072,Jl. Pahlawan No.36,99,38043,AREA00009,Kec. Ujungberung,Solo,Jawa Timur
+ADDR000073,Jl. Ahmad Yani No.139,16,65069,AREA00050,Kec. Cidadap,Palembang,Sumatera Selatan
+ADDR000074,Jl. Mawar No.179,-,85456,AREA00049,Kec. Andir,Mamuju,Sulawesi Barat
+ADDR000075,Jl. Ahmad Yani No.77,108,81582,AREA00078,Kec. Bandung Kulon,Palembang,Sumatera Selatan
+ADDR000076,Jl. Cendana No.57,125,,AREA00044,Kec. Regol,Banda Aceh,Aceh
+ADDR000077,,120,91560,AREA00069,Kec. Ujungberung,Yogyakarta,Jawa Timur
+ADDR000078,Jl. Veteran No.152,7,66179,AREA00018,Kec. Bandung Kulon,Surabaya,Jawa Timur
+ADDR000079,Jl. Sudirman No.13,84,52840,AREA00044,Kec. Regol,Banda Aceh,Aceh
+ADDR000080,,108,20735,AREA00061,Kec. Cibeunying
+ADDR000081,Jl. Kenanga No.14,90,18993,AREA00100,Kec. Arcamanik,Bandar Lampung,Lampung
+ADDR000082,Jl. Merdeka No.194,-,12671,AREA00080,Kec. Cidadap,Banjarmasin,Kalimantan Selatan
+ADDR000083,Jl. Sudirman No.122,145,70952,AREA00090,Kec. Bengkayang,Madiun,Jawa Timur
+ADDR000084,Jl. Ahmad Yani No.43,192,31465,AREA00040,Kec. Arcamanik,Mataram,Nusa Tenggara Barat
+ADDR000085,Jl. Merdeka No.80,97,35995,AREA00010,Kec. Arcamanik,Palembang,Sumatera Selatan
+ADDR000086,Jl. Diponegoro No.27,78,88697,AREA00016,Kec. Bojongloa Kaler,Mataram,Nusa Tenggara Barat
+ADDR000087,Jl. Mawar No.11,110,19038,AREA00065,Kec. Antapani,Sukabumi,Jawa Barat
+ADDR000088,Jl. Merdeka No.108,28,57472,AREA00082,Kec. Lengkong,Malang,Jawa Timur
+ADDR000089,Jl. Cendana No.182,46,95256,AREA00035,Kec. Antapani,Banjarmasin,Kalimantan Selatan
+ADDR000090,Jl. Kenanga No.199,112,87656,AREA00035,Kec. Antapani,Banjarmasin,Kalimantan Selatan
+ADDR000091,Jl. Diponegoro No.23,116,70910,AREA00073,Kec. Batununggal,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000092,Jl. Veteran No.87,-,33834,AREA00063,Kec. Buahbatu,Samarinda,Kalimantan Timur
+ADDR000093,,153,46211,AREA00072,Kec. Kiaracondong,Blitar,Jawa Timur
+ADDR000094,Jl. Diponegoro No.22,105,41499,AREA00089,Kec. Sabangau,Banjarmasin,Kalimantan Selatan
+ADDR000095,Jl. Cendana No.115,24,63005,AREA00089,Kec. Sabangau,Banjarmasin,Kalimantan Selatan
+ADDR000096,Jl. Mawar No.95,136,82140,AREA00043,Kec. Batununggal,Batam,Kepulauan Riau
+ADDR000097,Jl. Cendana No.70,60,35242,AREA00041,Kec. Gedebage,Palu,Sulawesi Tengah
+ADDR000098,Jl. Kenanga No.196,50,73464,AREA00036,Kec. Sukasari,Bandung,Jawa Barat
+ADDR000099,Jl. Kenanga No.153,26,48829,AREA00030,Kec. Bengkayang,Bekasi,Jawa Barat
+ADDR000100,Jl. Gatot Subroto No.4,33,17146,AREA00071,Kec. Gedebage,Semarang,Jawa Timur
+ADDR000101,Jl. Sudirman No.164,126,11607,AREA00074,Kec. Regol,Pekalongan,Jawa Timur
+ADDR000102,Jl. Cendana No.113,14,72616,AREA00015,Kec. Astana Anyar,Tasikmalaya,Jawa Barat
+ADDR000103,Jl. Veteran No.126,162,29887,AREA00020,Kec. Cidadap,Banda Aceh,Aceh
+ADDR000104,Jl. Gatot Subroto No.22,31,64548,AREA00078,Kec. Bandung Kulon,Palembang,Sumatera Selatan
+ADDR000105,Jl. Mawar No.58,98,68028,AREA00039,Kec. Ujungberung,Madiun,Jawa Timur
+ADDR000106,Jl. Veteran No.79,16,23006,AREA00098,Kec. Cibiru,Magelang,Jawa Timur
+ADDR000107,Jl. Diponegoro No.68,41,82350,AREA00010,Kec. Arcamanik,Palembang,Sumatera Selatan
+ADDR000108,Jl. Veteran No.116,121,40340,AREA00037,Kec. Mandalajati,SALATIGA,Jawa Timur
+ADDR000109,Jl. Cendana No.19,68,91927,AREA00076,Kec. Bojongloa Kaler,Medan,Sumatera Utara
+ADDR000110,Jl. Diponegoro No.109,58,44816,AREA00019,Kec. Andir,Medan,Sumatera Utara
+ADDR000111,Jl. Sudirman No.79,146,67560,AREA00016,Kec. Bojongloa Kaler,Mataram,Nusa Tenggara Barat
+ADDR000112,Jl. Gatot Subroto No.180,70,74722,AREA00057,Kec. Pahandut,Ambon,Maluku
+ADDR000113,Jl. Merdeka No.111,155,21970,AREA00030,Kec. Bengkayang,Bekasi,Jawa Barat
+ADDR000114,JL. MAWAR NO.151,196,45325,AREA00074,Kec. Regol,Pekalongan,Jawa Timur
+ADDR000115,Jl. Cendana No.133,72,86720,AREA00056,Kec. Menteng,Magelang,Jawa Timur
+ADDR000116,Jl. Cendana No.24,105,97835,AREA00014,Kec. Regol,Medan,Sumatera Utara
+ADDR000117,Jl. Ahmad Yani No.106,74,62488,AREA00098,Kec. Cibiru,Magelang,Jawa Timur
+ADDR000118,Jl. Cendana No.23,83,62976,AREA00066,Kec. Sukasari,Kendari,Sulawesi Tenggara
+ADDR000119,Jl. Merdeka No.169,119,34586,AREA00067,Kec. Mandalajati,Cimahi,Jawa Barat
+ADDR000120,Jl. Cendana No.161,14,81987,AREA00017,Kec. Bojongloa Kidul,Semarang,Jawa Timur
+ADDR000121,Jl. Cendana No.179,8,89806,AREA00031,Kec. Cibeunying,Denpasar,Bali
+ADDR000122,Jl. Gatot Subroto No.142,-,39451,AREA00015,Kec. Astana Anyar,Tasikmalaya,Jawa Barat
+ADDR000123,Jl. Pahlawan No.166,128,48254,AREA00066,Kec. Sukasari,Kendari,Sulawesi Tenggara
+ADDR000124,Jl. Veteran No.124,63,28958,AREA00050,Kec. Cidadap,Palembang,Sumatera Selatan
+ADDR000125,Jl. Mawar No.131,35,46208,AREA00099,Kec. Ujungberung,Pontianak,Kalimantan Barat
+ADDR000126,Jl. Veteran No.88,130,10336,AREA00037,Kec. Mandalajati,SALATIGA,Jawa Timur
+ADDR000127,Jl. Mawar No.149,126,68529,AREA00069,Kec. Ujungberung,Yogyakarta,Jawa Timur
+ADDR000128,Jl. Ahmad Yani No.142,97,52176,AREA00025,Kec. Jekan Raya,Bogor,Jawa Barat
+ADDR000129,Jl. Diponegoro No.147,199,51704,AREA00096,Kec. Sukasari,Bandar Lampung,Lampung
+ADDR000130,Jl. Veteran No.99,167,74923,AREA00005,Kec. Antapani,Banjarmasin,Kalimantan Selatan
+ADDR000131,Jl. Mawar No.85,113,69890,AREA00002,Kec. Coblong,Padang,Sumatera Barat
+ADDR000132,Jl. Veteran No.168,20,44737,AREA00044,Kec. Regol,Banda Aceh,Aceh
+ADDR000133,Jl. Veteran No.167,85,79942,AREA00049,Kec. Andir,Mamuju,Sulawesi Barat
+ADDR000134,Jl. Cendana No.139,-,92727,AREA00088,Kec. Rakumpit,Blitar,Jawa Timur
+ADDR000135,Jl. Diponegoro No.192,26,23173,AREA00057,Kec. Pahandut,Ambon,Maluku
+ADDR000136,Jl. Gatot Subroto No.8,-,48452,AREA00046,Kec. Bojongloa Kaler,Palu,Sulawesi Tengah
+ADDR000137,Jl. Sudirman No.63,145,33600,AREA00022,Kec. Lengkong,Manokwari,Papua Barat
+ADDR000138,Jl. Mawar No.98,62,86435,AREA00019,Kec. Andir,Medan,Sumatera Utara
+ADDR000139,Jl. Gatot Subroto No.118,3,70981,AREA00037,Kec. Mandalajati,SALATIGA,Jawa Timur
+ADDR000140,Jl. Sudirman No.19,89,49210,AREA00082,Kec. Lengkong,Malang,Jawa Timur
+ADDR000141,Jl. Gatot Subroto No.117,51,73335,AREA00014,Kec. Regol,Medan,Sumatera Utara
+ADDR000142,Jl. Mawar No.92,180,96275,AREA00051,Kec. Cibeunying,Manado,Sulawesi Utara
+ADDR000143,Jl. Mawar No.176,13,75107,AREA00037,Kec. Mandalajati,SALATIGA,Jawa Timur
+ADDR000144,Jl. Diponegoro No.156,57,91381,AREA00033,Kec. Buahbatu,Kupang,Nusa Tenggara Timur
+ADDR000145,jl. sudirman no.161,161,50492,AREA00057,Kec. Pahandut,Ambon,Maluku
+ADDR000146,Jl. Sudirman No.24,84,33021,AREA00026,Kec. Menteng,,Jambi
+ADDR000147,Jl. Kenanga No.94,70,43681,AREA00062,Kec. Coblong,Bogor,Jawa Barat
+ADDR000148,Jl. Gatot Subroto No.192,30,19869,AREA00019,Kec. Andir,Medan,Sumatera Utara
+ADDR000149,Jl. Diponegoro No.174,102,83048,AREA00047,Kec. Bojongloa Kidul,Palembang,Sumatera Selatan
+ADDR000150,Jl. Veteran No.4,32,98188,AREA00096,Kec. Sukasari,Bandar Lampung,Lampung
+ADDR000151,,96,40647,AREA00061,Kec. Cibeunying
+ADDR000152,Jl. Kenanga No.84,57,93283,AREA00060,Kec. Bengkayang,Mamuju,Sulawesi Barat
+ADDR000153,Jl. Gatot Subroto No.167,36,14877,AREA00039,Kec. Ujungberung,Madiun,Jawa Timur
+ADDR000154,Jl. Pahlawan No.25,138,69459,AREA00048,Kec. Bandung Kulon,Medan,Sumatera Utara
+ADDR000155,Jl. Kenanga No.108,187,64379,AREA00084,Kec. Bukit Batu,Bandar Lampung,Lampung
+ADDR000156,Jl. Cendana No.158,72,,AREA00048,Kec. Bandung Kulon,Medan,Sumatera Utara
+ADDR000157,Jl. Cendana No.61,26,58147,AREA00070,Kec. Arcamanik,Tangerang,Banten
+ADDR000158,Jl. Ahmad Yani No.16,49,69600,AREA00012,Kec. Kiaracondong,Solo,Jawa Timur
+ADDR000159,Jl. Mawar No.6,86,26505,AREA00073,Kec. Batununggal,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000160,,60,29340,AREA00077,Kec. Bojongloa Kidul,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000161,,45,13379,AREA00017,Kec. Bojongloa Kidul,Semarang,Jawa Timur
+ADDR000162,Jl. Diponegoro No.151,45,26614,AREA00095,Kec. Antapani,Malang,Jawa Timur
+ADDR000163,Jl. Pahlawan No.191,115,77271,AREA00076,Kec. Bojongloa Kaler,Medan,Sumatera Utara
+ADDR000164,Jl. Kenanga No.57,12,96363,AREA00067,Kec. Mandalajati,Cimahi,Jawa Barat
+ADDR000165,Jl. Merdeka No.16,103,24150,AREA00063,Kec. Buahbatu,Samarinda,Kalimantan Timur
+ADDR000166,Jl. Cendana No.19,83,18609,AREA00017,Kec. Bojongloa Kidul,Semarang,Jawa Timur
+ADDR000167,Jl. Mawar No.141,98,79541,AREA00038,Kec. Cibiru,Bandar Lampung,Lampung
+ADDR000168,Jl. Mawar No.111,180,95814,AREA00084,Kec. Bukit Batu,Bandar Lampung,Lampung
+ADDR000169,Jl. Kenanga No.185,111,39949,AREA00053,Kec. Bandung Kidul,Cirebon,Jawa Barat
+ADDR000170,Jl. Cendana No.103,25,50963,AREA00086,Kec. Menteng,Manado,Sulawesi Utara
+ADDR000171,Jl. Sudirman No.176,18,21188,AREA00012,Kec. Kiaracondong,Solo,Jawa Timur
+ADDR000172,Jl. Ahmad Yani No.34,151,83620,AREA00043,Kec. Batununggal,Batam,Kepulauan Riau
+ADDR000173,Jl. Veteran No.91,193,16743,AREA00037,Kec. Mandalajati,SALATIGA,Jawa Timur
+ADDR000174,Jl. Ahmad Yani No.27,55,73201,AREA00029,Kec. Sabangau,Madiun,Jawa Timur
+ADDR000175,Jl. Ahmad Yani No.143,196,39643,AREA00055,Kec. Jekan Raya,Semarang,Jawa Timur
+ADDR000176,Jl. Mawar No.158,143,,AREA00085,Kec. Jekan Raya,Kendari,Sulawesi Tenggara
+ADDR000177,,180,54541,AREA00045,Kec. Astana Anyar,SALATIGA,Jawa Timur
+ADDR000178,Jl. Sudirman No.145,18,92991,AREA00004,Kec. Cicendo,Solo,Jawa Timur
+ADDR000179,Jl. Kenanga No.56,117,58503,AREA00040,Kec. Arcamanik,Mataram,Nusa Tenggara Barat
+ADDR000180,Jl. Mawar No.153,14,90981,AREA00007,Kec. Mandalajati,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000181,Jl. Gatot Subroto No.114,125,64287,AREA00035,Kec. Antapani,Banjarmasin,Kalimantan Selatan
+ADDR000182,Jl. Kenanga No.30,29,98930,AREA00076,Kec. Bojongloa Kaler,Medan,Sumatera Utara
+ADDR000183,Jl. Gatot Subroto No.12,154,36794,AREA00039,Kec. Ujungberung,Madiun,Jawa Timur
+ADDR000184,Jl. Sudirman No.196,84,75193,AREA00096,Kec. Sukasari,Bandar Lampung,Lampung
+ADDR000185,Jl. Sudirman No.98,59,97562,AREA00046,Kec. Bojongloa Kaler,Palu,Sulawesi Tengah
+ADDR000186,Jl. Merdeka No.112,-,51033,AREA00074,Kec. Regol,Pekalongan,Jawa Timur
+ADDR000187,Jl. Veteran No.182,75,12733,AREA00042,Kec. Kiaracondong,Banjarmasin,Kalimantan Selatan
+ADDR000188,Jl. Mawar No.118,93,23875,AREA00032,Kec. Coblong,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000189,Jl. Veteran No.135,80,39041,AREA00043,Kec. Batununggal,Batam,Kepulauan Riau
+ADDR000190,Jl. Pahlawan No.131,136,55793,AREA00045,Kec. Astana Anyar,SALATIGA,Jawa Timur
+ADDR000191,Jl. Sudirman No.61,66,88957,AREA00020,Kec. Cidadap,Banda Aceh,Aceh
+ADDR000192,Jl. Pahlawan No.46,161,83889,AREA00098,Kec. Cibiru,Magelang,Jawa Timur
+ADDR000193,Jl. Mawar No.165,160,92210,AREA00041,Kec. Gedebage,Palu,Sulawesi Tengah
+ADDR000194,Jl. Pahlawan No.121,78,87518,AREA00008,Kec. Cibiru,Pekanbaru,Riau
+ADDR000195,Jl. Pahlawan No.80,10,47627,AREA00010,Kec. Arcamanik,Palembang,Sumatera Selatan
+ADDR000196,Jl. Pahlawan No.158,99,82655,AREA00095,Kec. Antapani,Malang,Jawa Timur
+ADDR000197,Jl. Cendana No.147,83,75715,AREA00020,Kec. Cidadap,Banda Aceh,Aceh
+ADDR000198,Jl. Cendana No.27,88,21053,AREA00065,Kec. Antapani,Sukabumi,Jawa Barat
+ADDR000199,Jl. Merdeka No.64,113,89928,AREA00021,Kec. Sumur Bandung,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000200,Jl. Gatot Subroto No.100,87,16863,AREA00081,Kec. Sumur Bandung,Ambon,Maluku
+ADDR000201,Jl. Pahlawan No.85,174,43029,AREA00093,Kec. Buahbatu,Tangerang,Banten
+ADDR000202,Jl. Mawar No.39,150,55851,AREA00040,Kec. Arcamanik,Mataram,Nusa Tenggara Barat
+ADDR000203,Jl. Veteran No.34,22,59372,AREA00083,Kec. Bandung Kidul,Kendari,Sulawesi Tenggara
+ADDR000204,Jl. Sudirman No.172,190,78995,AREA00012,Kec. Kiaracondong,Solo,Jawa Timur
+ADDR000205,Jl. Veteran No.131,93,38074,AREA00044,Kec. Regol,Banda Aceh,Aceh
+ADDR000206,Jl. Cendana No.50,36,48770,AREA00013,Kec. Batununggal,Bekasi,Jawa Barat
+ADDR000207,Jl. Kenanga No.190,10,91006,AREA00017,Kec. Bojongloa Kidul,Semarang,Jawa Timur
+ADDR000208,Jl. Sudirman No.42,178,31697,AREA00093,Kec. Buahbatu,Tangerang,Banten
+ADDR000209,Jl. Veteran No.94,61,90031,AREA00037,Kec. Mandalajati,SALATIGA,Jawa Timur
+ADDR000210,Jl. Cendana No.60,80,71474,AREA00025,Kec. Jekan Raya,Bogor,Jawa Barat
+ADDR000211,Jl. Mawar No.113,73,75916,AREA00068,Kec. Cibiru,,Jambi
+ADDR000212,Jl. Sudirman No.52,36,16839,AREA00083,Kec. Bandung Kidul,Kendari,Sulawesi Tenggara
+ADDR000213,Jl. Ahmad Yani No.142,183,26341,AREA00037,Kec. Mandalajati,SALATIGA,Jawa Timur
+ADDR000214,Jl. Sudirman No.70,132,67340,AREA00012,Kec. Kiaracondong,Solo,Jawa Timur
+ADDR000215,Jl. Diponegoro No.116,7,61964,AREA00065,Kec. Antapani,Sukabumi,Jawa Barat
+ADDR000216,Jl. Veteran No.21,8,22987,AREA00092,Kec. Coblong,Mojokerto,Jawa Timur
+ADDR000217,Jl. Sudirman No.36,-,71925,AREA00090,Kec. Bengkayang,Madiun,Jawa Timur
+ADDR000218,Jl. Cendana No.115,21,,AREA00028,Kec. Rakumpit,Mojokerto,Jawa Timur
+ADDR000219,Jl. Kenanga No.187,109,47762,AREA00031,Kec. Cibeunying,Denpasar,Bali
+ADDR000220,Jl. Merdeka No.62,160,24530,AREA00064,Kec. Cicendo,Malang,Jawa Timur
+ADDR000221,,62,48177,AREA00055,Kec. Jekan Raya,Semarang,Jawa Timur
+ADDR000222,Jl. Ahmad Yani No.62,48,21221,AREA00068,Kec. Cibiru,,Jambi
+ADDR000223,jl. pahlawan no.135,130,61177,AREA00061,Kec. Cibeunying
+ADDR000224,Jl. Ahmad Yani No.65,92,55193,AREA00031,Kec. Cibeunying,Denpasar,Bali
+ADDR000225,Jl. Pahlawan No.198,194,15811,AREA00046,Kec. Bojongloa Kaler,Palu,Sulawesi Tengah
+ADDR000226,JL. SUDIRMAN NO.200,179,33891,AREA00018,Kec. Bandung Kulon,Surabaya,Jawa Timur
+ADDR000227,Jl. Cendana No.10,12,15492,AREA00041,Kec. Gedebage,Palu,Sulawesi Tengah
+ADDR000228,Jl. Kenanga No.102,140,14799,AREA00097,Kec. Mandalajati,Bekasi,Jawa Barat
+ADDR000229,Jl. Gatot Subroto No.92,13,53506,AREA00035,Kec. Antapani,Banjarmasin,Kalimantan Selatan
+ADDR000230,Jl. Ahmad Yani No.112,191,60678,AREA00044,Kec. Regol,Banda Aceh,Aceh
+ADDR000231,Jl. Cendana No.178,133,20828,AREA00094,Kec. Cicendo,Cirebon,Jawa Barat
+ADDR000232,Jl. Veteran No.155,47,52101,AREA00014,Kec. Regol,Medan,Sumatera Utara
+ADDR000233,Jl. Gatot Subroto No.79,184,68183,AREA00045,Kec. Astana Anyar,SALATIGA,Jawa Timur
+ADDR000234,Jl. Ahmad Yani No.158,71,17518,AREA00010,Kec. Arcamanik,Palembang,Sumatera Selatan
+ADDR000235,Jl. Veteran No.94,192,14081,AREA00019,Kec. Andir,Medan,Sumatera Utara
+ADDR000236,Jl. Cendana No.9,61,58015,AREA00047,Kec. Bojongloa Kidul,Palembang,Sumatera Selatan
+ADDR000237,Jl. Mawar No.9,174,58623,AREA00048,Kec. Bandung Kulon,Medan,Sumatera Utara
+ADDR000238,Jl. Pahlawan No.147,94,95139,AREA00036,Kec. Sukasari,Bandung,Jawa Barat
+ADDR000239,Jl. Pahlawan No.7,128,83619,AREA00016,Kec. Bojongloa Kaler,Mataram,Nusa Tenggara Barat
+ADDR000240,Jl. Gatot Subroto No.181,157,74382,AREA00026,Kec. Menteng,,Jambi
+ADDR000241,Jl. Pahlawan No.116,183,21506,AREA00088,Kec. Rakumpit,Blitar,Jawa Timur
+ADDR000242,Jl. Ahmad Yani No.171,17,48058,AREA00039,Kec. Ujungberung,Madiun,Jawa Timur
+ADDR000243,Jl. Sudirman No.93,32,28202,AREA00031,Kec. Cibeunying,Denpasar,Bali
+ADDR000244,Jl. Merdeka No.93,95,82305,AREA00017,Kec. Bojongloa Kidul,Semarang,Jawa Timur
+ADDR000245,Jl. Pahlawan No.17,184,78903,AREA00053,Kec. Bandung Kidul,Cirebon,Jawa Barat
+ADDR000246,Jl. Mawar No.19,82,68979,AREA00060,Kec. Bengkayang,Mamuju,Sulawesi Barat
+ADDR000247,Jl. Ahmad Yani No.33,200,87042,AREA00024,Kec. Bukit Batu,Surabaya,Jawa Timur
+ADDR000248,Jl. Sudirman No.111,15,77908,AREA00020,Kec. Cidadap,Banda Aceh,Aceh
+ADDR000249,Jl. Sudirman No.83,58,78012,AREA00037,Kec. Mandalajati,SALATIGA,Jawa Timur
+ADDR000250,Jl. Gatot Subroto No.51,142,91922,AREA00039,Kec. Ujungberung,Madiun,Jawa Timur
+ADDR000251,Jl. Pahlawan No.129,152,30210,AREA00022,Kec. Lengkong,Manokwari,Papua Barat
+ADDR000252,JL. MAWAR NO.87,145,13718,AREA00011,Kec. Gedebage,Kediri,Jawa Timur
+ADDR000253,JL. MAWAR NO.68,197,91016,AREA00082,Kec. Lengkong,Malang,Jawa Timur
+ADDR000254,Jl. Kenanga No.75,78,99783,AREA00052,Kec. Lengkong,Manado,Sulawesi Utara
+ADDR000255,Jl. Pahlawan No.177,113,70875,AREA00027,Kec. Pahandut,Yogyakarta,Jawa Timur
+ADDR000256,Jl. Sudirman No.81,82,55268,AREA00052,Kec. Lengkong,Manado,Sulawesi Utara
+ADDR000257,Jl. Ahmad Yani No.132,82,26059,AREA00035,Kec. Antapani,Banjarmasin,Kalimantan Selatan
+ADDR000258,Jl. Sudirman No.25,99,64805,AREA00032,Kec. Coblong,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000259,Jl. Sudirman No.84,185,30885,AREA00064,Kec. Cicendo,Malang,Jawa Timur
+ADDR000260,Jl. Cendana No.128,128,,AREA00051,Kec. Cibeunying,Manado,Sulawesi Utara
+ADDR000261,Jl. Diponegoro No.56,13,74866,AREA00077,Kec. Bojongloa Kidul,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000262,Jl. Cendana No.74,28,44664,AREA00094,Kec. Cicendo,Cirebon,Jawa Barat
+ADDR000263,Jl. Veteran No.94,-,83638,AREA00025,Kec. Jekan Raya,Bogor,Jawa Barat
+ADDR000264,Jl. Gatot Subroto No.19,116,46663,AREA00080,Kec. Cidadap,Banjarmasin,Kalimantan Selatan
+ADDR000265,Jl. Pahlawan No.33,101,54444,AREA00072,Kec. Kiaracondong,Blitar,Jawa Timur
+ADDR000266,Jl. Sudirman No.51,103,15938,AREA00005,Kec. Antapani,Banjarmasin,Kalimantan Selatan
+ADDR000267,Jl. Ahmad Yani No.122,39,77568,AREA00018,Kec. Bandung Kulon,Surabaya,Jawa Timur
+ADDR000268,Jl. Mawar No.82,158,49221,AREA00076,Kec. Bojongloa Kaler,Medan,Sumatera Utara
+ADDR000269,Jl. Kenanga No.137,145,12180,AREA00048,Kec. Bandung Kulon,Medan,Sumatera Utara
+ADDR000270,Jl. Pahlawan No.107,186,92478,AREA00004,Kec. Cicendo,Solo,Jawa Timur
+ADDR000271,jl. gatot subroto no.168,199,39824,AREA00093,Kec. Buahbatu,Tangerang,Banten
+ADDR000272,Jl. Kenanga No.162,199,29369,AREA00088,Kec. Rakumpit,Blitar,Jawa Timur
+ADDR000273,Jl. Mawar No.180,5,64890,AREA00020,Kec. Cidadap,Banda Aceh,Aceh
+ADDR000274,Jl. Diponegoro No.106,157,18163,AREA00091,Kec. Cibeunying,Kediri,Jawa Timur
+ADDR000275,Jl. Diponegoro No.144,170,59391,AREA00041,Kec. Gedebage,Palu,Sulawesi Tengah
+ADDR000276,Jl. Cendana No.137,91,99226,AREA00083,Kec. Bandung Kidul,Kendari,Sulawesi Tenggara
+ADDR000277,Jl. Gatot Subroto No.157,64,49124,AREA00029,Kec. Sabangau,Madiun,Jawa Timur
+ADDR000278,Jl. Gatot Subroto No.198,54,74094,AREA00041,Kec. Gedebage,Palu,Sulawesi Tengah
+ADDR000279,Jl. Kenanga No.185,32,81197,AREA00049,Kec. Andir,Mamuju,Sulawesi Barat
+ADDR000280,Jl. Veteran No.89,38,47700,AREA00092,Kec. Coblong,Mojokerto,Jawa Timur
+ADDR000281,Jl. Cendana No.168,123,80592,AREA00035,Kec. Antapani,Banjarmasin,Kalimantan Selatan
+ADDR000282,Jl. Gatot Subroto No.36,190,41779,AREA00007,Kec. Mandalajati,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000283,Jl. Kenanga No.58,14,53292,AREA00092,Kec. Coblong,Mojokerto,Jawa Timur
+ADDR000284,Jl. Sudirman No.2,41,72350,AREA00062,Kec. Coblong,Bogor,Jawa Barat
+ADDR000285,Jl. Gatot Subroto No.83,16,21725,AREA00084,Kec. Bukit Batu,Bandar Lampung,Lampung
+ADDR000286,Jl. Kenanga No.190,10,32946,AREA00054,Kec. Bukit Batu,Palangkaraya,Kalimantan Tengah
+ADDR000287,Jl. Sudirman No.10,102,34420,AREA00096,Kec. Sukasari,Bandar Lampung,Lampung
+ADDR000288,Jl. Gatot Subroto No.10,-,24064,AREA00043,Kec. Batununggal,Batam,Kepulauan Riau
+ADDR000289,Jl. Kenanga No.135,35,71344,AREA00035,Kec. Antapani,Banjarmasin,Kalimantan Selatan
+ADDR000290,Jl. Pahlawan No.85,118,34405,AREA00002,Kec. Coblong,Padang,Sumatera Barat
+ADDR000291,Jl. Gatot Subroto No.146,50,93719,AREA00052,Kec. Lengkong,Manado,Sulawesi Utara
+ADDR000292,Jl. Kenanga No.84,172,28430,AREA00062,Kec. Coblong,Bogor,Jawa Barat
+ADDR000293,Jl. Diponegoro No.2,61,44995,AREA00043,Kec. Batununggal,Batam,Kepulauan Riau
+ADDR000294,Jl. Mawar No.3,93,18142,AREA00086,Kec. Menteng,Manado,Sulawesi Utara
+ADDR000295,Jl. Gatot Subroto No.41,129,50760,AREA00089,Kec. Sabangau,Banjarmasin,Kalimantan Selatan
+ADDR000296,Jl. Gatot Subroto No.95,57,72676,AREA00020,Kec. Cidadap,Banda Aceh,Aceh
+ADDR000297,Jl. Mawar No.96,141,80453,AREA00086,Kec. Menteng,Manado,Sulawesi Utara
+ADDR000298,Jl. Diponegoro No.175,21,79228,AREA00091,Kec. Cibeunying,Kediri,Jawa Timur
+ADDR000299,Jl. Mawar No.29,141,36497,AREA00074,Kec. Regol,Pekalongan,Jawa Timur
+ADDR000300,Jl. Sudirman No.84,114,36922,AREA00092,Kec. Coblong,Mojokerto,Jawa Timur
+ADDR000001,Jl. Merdeka No.53,72,18200,AREA00074,Kec. Regol,Pekalongan,Jawa Timur
+ADDR000002,Jl. Gatot Subroto No.138,48,57945,AREA00042,Kec. Kiaracondong,Banjarmasin,Kalimantan Selatan
+ADDR000003,Jl. Merdeka No.118,30,44387,AREA00086,Kec. Menteng,Manado,Sulawesi Utara
+ADDR000004,Jl. Anggrek No.136,164,51078,AREA00077,Kec. Bojongloa Kidul,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000005,Jl. Melati No.157,101,86939,AREA00015,Kec. Astana Anyar,Tasikmalaya,Jawa Barat
+ADDR000006,Jl. Bunga No.91,118,90918,AREA00023,Kec. Bandung Kidul,Cirebon,Jawa Barat
+ADDR000007,Jl. Pahlawan No.158,152,21108,AREA00087,Kec. Pahandut,Banda Aceh,Aceh
+ADDR000008,Jl. Asia Afrika No.81,31,41270,AREA00040,Kec. Arcamanik,Mataram,Nusa Tenggara Barat
+ADDR000009,Jl. Gatot Subroto No.47,96,28528,AREA00066,Kec. Sukasari,Kendari,Sulawesi Tenggara
+ADDR000010,Jl. Melati No.108,153,28070,AREA00074,Kec. Regol,Pekalongan,Jawa Timur
+ADDR000011,Jl. Melati No.109,48,,AREA00082,Kec. Lengkong,Malang,Jawa Timur
+ADDR000012,Jl. Asia Afrika No.143,43,74178,AREA00037,Kec. Mandalajati,SALATIGA,Jawa Timur
+ADDR000013,Jl. Asia Afrika No.48,81,69113,AREA00080,Kec. Cidadap,Banjarmasin,Kalimantan Selatan
+ADDR000014,Jl. Sudirman No.92,3,73518,AREA00018,Kec. Bandung Kulon,Surabaya,Jawa Timur
+ADDR000015,Jl. Merdeka No.99,144,76248,AREA00084,Kec. Bukit Batu,Bandar Lampung,Lampung
+ADDR000016,Jl. Anggrek No.105,176,74451,AREA00054,Kec. Bukit Batu,Palangkaraya,Kalimantan Tengah
+ADDR000017,Jl. Anggrek No.126,43,20835,AREA00073,Kec. Batununggal,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000018,Jl. Sudirman No.195,57,48284,AREA00005,Kec. Antapani,Banjarmasin,Kalimantan Selatan
+ADDR000019,Jl. Pahlawan No.58,138,47836,AREA00022,Kec. Lengkong,Manokwari,Papua Barat
+ADDR000020,Jl. Anggrek No.145,191,74921,AREA00071,Kec. Gedebage,Semarang,Jawa Timur
+ADDR000021,,30,45112,AREA00100,Kec. Arcamanik,Bandar Lampung,Lampung
+ADDR000022,Jl. Bunga No.139,194,15453,AREA00098,Kec. Cibiru,Magelang,Jawa Timur
+ADDR000023,Jl. Anggrek No.140,56,65725,AREA00014,Kec. Regol,Medan,Sumatera Utara
+ADDR000024,Jl. Merdeka No.77,9,68947,AREA00034,Kec. Cicendo,Tasikmalaya,Jawa Barat
+ADDR000025,Jl. Bunga No.23,113,25386,AREA00100,Kec. Arcamanik,Bandar Lampung,Lampung
+ADDR000026,Jl. Merdeka No.54,189,87060,AREA00089,Kec. Sabangau,Banjarmasin,Kalimantan Selatan
+ADDR000027,Jl. Bunga No.182,157,92938,AREA00055,Kec. Jekan Raya,Semarang,Jawa Timur
+ADDR000028,Jl. Asia Afrika No.158,36,37082,AREA00027,Kec. Pahandut,Yogyakarta,Jawa Timur
+ADDR000029,Jl. Sudirman No.146,90,79767,AREA00036,Kec. Sukasari,Bandung,Jawa Barat
+ADDR000030,Jl. Asia Afrika No.83,181,48356,AREA00038,Kec. Cibiru,Bandar Lampung,Lampung
+ADDR000031,Jl. Pahlawan No.132,tidak diketahui,22481,AREA00018,Kec. Bandung Kulon,Surabaya,Jawa Timur
+ADDR000032,Jl. Melati No.16,71,95969,AREA00017,Kec. Bojongloa Kidul,Semarang,Jawa Timur
+ADDR000033,Jl. Asia Afrika No.64,38,52217,AREA00032,Kec. Coblong,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000034,Jl. Melati No.126,37,85684,AREA00081,Kec. Sumur Bandung,Ambon,Maluku
+ADDR000035,Jl. Pahlawan No.161,107,59174,AREA00058,Kec. Rakumpit,Bekasi,Jawa Barat
+ADDR000036,Jl. Gatot Subroto No.163,197,22202,AREA00052,Kec. Lengkong,Manado,Sulawesi Utara
+ADDR000037,Jl. Pahlawan No.178,95,69597,AREA00063,Kec. Buahbatu,Samarinda,Kalimantan Timur
+ADDR000038,Jl. Bunga No.149,1,22208,AREA00094,Kec. Cicendo,Cirebon,Jawa Barat
+ADDR000039,Jl. Anggrek No.163,171,56952,AREA00009,Kec. Ujungberung,Solo,Jawa Timur
+ADDR000040,Jl. Melati No.56,110,37767,AREA00064,Kec. Cicendo,Malang,Jawa Timur
+ADDR000041,Jl. Pahlawan No.83,73,54270,AREA09999
+ADDR000042,Jl. Asia Afrika No.145,125,55054,AREA00088,Kec. Rakumpit,Blitar,Jawa Timur
+ADDR000043,Jl. Sudirman No.12,26,92074,AREA00059,Kec. Sabangau,Padang,Sumatera Barat
+ADDR000044,Jl. Sudirman No.32,41,67840,AREA00059,Kec. Sabangau,Padang,Sumatera Barat
+ADDR000045,Jl. Sudirman No.110,52,27290,AREA00084,Kec. Bukit Batu,Bandar Lampung,Lampung
+ADDR000046,Jl. Pahlawan No.41,71,22234,AREA00084,Kec. Bukit Batu,Bandar Lampung,Lampung
+ADDR000047,Jl. Bunga No.65,22,58738,AREA00086,Kec. Menteng,Manado,Sulawesi Utara
+ADDR000048,Jl. Asia Afrika No.14,102,91999,AREA00040,Kec. Arcamanik,Mataram,Nusa Tenggara Barat
+ADDR000049,Jl. Merdeka No.110,168,21953,AREA00091,Kec. Cibeunying,Kediri,Jawa Timur
+ADDR000050,Jl. Gatot Subroto No.1,55,72496,AREA00010,Kec. Arcamanik,Palembang,Sumatera Selatan
+ADDR000051,Jl. Asia Afrika No.152,58,,AREA00088,Kec. Rakumpit,Blitar,Jawa Timur
+ADDR000052,Jl. Anggrek No.3,3,55032,AREA00016,Kec. Bojongloa Kaler,Mataram,Nusa Tenggara Barat
+ADDR000053,Jl. Melati No.178,34,72613,AREA00010,Kec. Arcamanik,Palembang,Sumatera Selatan
+ADDR000054,Jl. Merdeka No.99,23,23425,AREA00014,Kec. Regol,Medan,Sumatera Utara
+ADDR000055,Jl. Bunga No.95,77,27973,AREA00049,Kec. Andir,Mamuju,Sulawesi Barat
+ADDR000056,Jl. Asia Afrika No.165,174,28724,AREA00009,Kec. Ujungberung,Solo,Jawa Timur
+ADDR000057,Jl. Sudirman No.157,167,31511,AREA00057,Kec. Pahandut,Ambon,Maluku
+ADDR000058,Jl. Bunga No.185,55,92323,AREA00096,Kec. Sukasari,Bandar Lampung,Lampung
+ADDR000059,Jl. Asia Afrika No.106,158,99989,AREA00057,Kec. Pahandut,Ambon,Maluku
+ADDR000060,Jl. Merdeka No.23,26,28351,AREA00097,Kec. Mandalajati,Bekasi,Jawa Barat
+ADDR000061,Jl. Gatot Subroto No.151,187,60335,AREA00045,Kec. Astana Anyar,SALATIGA,Jawa Timur
+ADDR000062,Jl. Melati No.81,36,42477,AREA00036,Kec. Sukasari,Bandung,Jawa Barat
+ADDR000063,Jl. Gatot Subroto No.64,142,88774,AREA00077,Kec. Bojongloa Kidul,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000064,Jl. Pahlawan No.200,177,13515,AREA00085,Kec. Jekan Raya,Kendari,Sulawesi Tenggara
+ADDR000065,Jl. Pahlawan No.53,133,89551,AREA00066,Kec. Sukasari,Kendari,Sulawesi Tenggara
+ADDR000066,Jl. Merdeka No.192,101,48737,AREA00083,Kec. Bandung Kidul,Kendari,Sulawesi Tenggara
+ADDR000067,Jl. Sudirman No.62,127,60578,AREA00015,Kec. Astana Anyar,Tasikmalaya,Jawa Barat
+ADDR000068,Jl. Merdeka No.128,164,87847,AREA00010,Kec. Arcamanik,Palembang,Sumatera Selatan
+ADDR000069,Jl. Sudirman No.93,82,27299,AREA00050,Kec. Cidadap,Palembang,Sumatera Selatan
+ADDR000070,Jl. Melati No.94,140,99514,AREA00023,Kec. Bandung Kidul,Cirebon,Jawa Barat
+ADDR000071,Jl. Anggrek No.198,19,12187,AREA00076,Kec. Bojongloa Kaler,Medan,Sumatera Utara
+ADDR000072,Jl. Gatot Subroto No.4,68,38277,AREA00006,Kec. Sukasari,Pontianak,Kalimantan Barat
+ADDR000073,Jl. Sudirman No.102,130,47550,AREA00081,Kec. Sumur Bandung,Ambon,Maluku
+ADDR000074,Jl. Melati No.109,180,62727,AREA00011,Kec. Gedebage,Kediri,Jawa Timur
+ADDR000075,Jl. Asia Afrika No.72,22,50620,AREA00011,Kec. Gedebage,Kediri,Jawa Timur
+ADDR000076,Jl. Merdeka No.40,138,52827,AREA00051,Kec. Cibeunying,Manado,Sulawesi Utara
+ADDR000077,Jl. Gatot Subroto No.80,179,67342,AREA00094,Kec. Cicendo,Cirebon,Jawa Barat
+ADDR000078,Jl. Merdeka No.15,63,21300,AREA00056,Kec. Menteng,Magelang,Jawa Timur
+ADDR000079,Jl. Gatot Subroto No.117,157,89800,AREA00008,Kec. Cibiru,Pekanbaru,Riau
+ADDR000080,Jl. Pahlawan No.171,190,96252,AREA00095,Kec. Antapani,Malang,Jawa Timur
+ADDR000081,Jl. Asia Afrika No.31,4,27984,AREA00090,Kec. Bengkayang,Madiun,Jawa Timur
+ADDR000082,Jl. Sudirman No.42,128,55443,AREA00067,Kec. Mandalajati,Cimahi,Jawa Barat
+ADDR000083,Jl. Pahlawan No.43,96,26637,AREA00096,Kec. Sukasari,Bandar Lampung,Lampung
+ADDR000084,Jl. Pahlawan No.188,31,13847,AREA00043,Kec. Batununggal,Batam,Kepulauan Riau
+ADDR000085,Jl. Melati No.70,135,18371,AREA00034,Kec. Cicendo,Tasikmalaya,Jawa Barat
+ADDR000086,Jl. Gatot Subroto No.128,117,76949,AREA00047,Kec. Bojongloa Kidul,Palembang,Sumatera Selatan
+ADDR000087,Jl. Sudirman No.128,146,31873,AREA00048,Kec. Bandung Kulon,Medan,Sumatera Utara
+ADDR000088,Jl. Asia Afrika No.66,198,23487,AREA00074,Kec. Regol,Pekalongan,Jawa Timur
+ADDR000089,Jl. Gatot Subroto No.59,190,76692,AREA00001,Kec. Cibeunying,Malang,Jawa Timur
+ADDR000090,Jl. Sudirman No.4,63,16026,AREA00061,Kec. Cibeunying
+ADDR000091,Jl. Bunga No.99,39,33456,AREA00005,Kec. Antapani,Banjarmasin,Kalimantan Selatan
+ADDR000092,Jl. Melati No.58,83,42540,AREA00054,Kec. Bukit Batu,Palangkaraya,Kalimantan Tengah
+ADDR000093,Jl. Bunga No.70,20,84912,AREA00048,Kec. Bandung Kulon,Medan,Sumatera Utara
+ADDR000094,Jl. Gatot Subroto No.129,173,16903,AREA00023,Kec. Bandung Kidul,Cirebon,Jawa Barat
+ADDR000095,Jl. Merdeka No.133,12,62550,AREA00009,Kec. Ujungberung,Solo,Jawa Timur
+ADDR000096,Jl. Anggrek No.73,199,50723,AREA00042,Kec. Kiaracondong,Banjarmasin,Kalimantan Selatan
+ADDR000097,Jl. Gatot Subroto No.142,117,11044,AREA00048,Kec. Bandung Kulon,Medan,Sumatera Utara
+ADDR000098,Jl. Merdeka No.75,145,49834,AREA00095,Kec. Antapani,Malang,Jawa Timur
+ADDR000099,Jl. Merdeka No.119,95,87554,AREA00064,Kec. Cicendo,Malang,Jawa Timur
+ADDR000100,Jl. Merdeka No.188,140,42129,AREA00020,Kec. Cidadap,Banda Aceh,Aceh
+ADDR000101,Jl. Sudirman No.105,7,40539,AREA00070,Kec. Arcamanik,Tangerang,Banten
+ADDR000102,Jl. Bunga No.163,178,11257,AREA00043,Kec. Batununggal,Batam,Kepulauan Riau
+ADDR000103,Jl. Sudirman No.195,169,59319,AREA00095,Kec. Antapani,Malang,Jawa Timur
+ADDR000104,Jl. Pahlawan No.27,53,79443,AREA00031,Kec. Cibeunying,Denpasar,Bali
+ADDR000105,Jl. Melati No.126,16,28661,AREA00092,Kec. Coblong,Mojokerto,Jawa Timur
+ADDR000106,Jl. Pahlawan No.24,12,40339,AREA00067,Kec. Mandalajati,Cimahi,Jawa Barat
+ADDR000107,Jl. Melati No.180,96,70091,AREA00096,Kec. Sukasari,Bandar Lampung,Lampung
+ADDR000108,Jl. Gatot Subroto No.149,25,76247,AREA00018,Kec. Bandung Kulon,Surabaya,Jawa Timur
+ADDR000109,Jl. Melati No.20,152,84425,AREA00008,Kec. Cibiru,Pekanbaru,Riau
+ADDR000110,Jl. Melati No.170,34,41034,AREA00038,Kec. Cibiru,Bandar Lampung,Lampung
+ADDR000111,Jl. Pahlawan No.81,101,52762,AREA00041,Kec. Gedebage,Palu,Sulawesi Tengah
+ADDR000112,Jl. Anggrek No.70,60,19789,AREA00026,Kec. Menteng,,Jambi
+ADDR000113,Jl. Asia Afrika No.200,198,86638,AREA00014,Kec. Regol,Medan,Sumatera Utara
+ADDR000114,Jl. Asia Afrika No.28,43,68925,AREA00060,Kec. Bengkayang,Mamuju,Sulawesi Barat
+ADDR000115,Jl. Bunga No.105,31,80244,AREA00046,Kec. Bojongloa Kaler,Palu,Sulawesi Tengah
+ADDR000116,Jl. Merdeka No.116,79,70731,AREA00034,Kec. Cicendo,Tasikmalaya,Jawa Barat
+ADDR000117,Jl. Gatot Subroto No.24,41,99922,AREA00039,Kec. Ujungberung,Madiun,Jawa Timur
+ADDR000118,Jl. Sudirman No.56,84,29441,AREA00012,Kec. Kiaracondong,Solo,Jawa Timur
+ADDR000119,Jl. Merdeka No.92,102,77300,AREA00007,Kec. Mandalajati,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000120,Jl. Pahlawan No.67,45,14073,AREA00052,Kec. Lengkong,Manado,Sulawesi Utara
+ADDR000121,Jl. Anggrek No.143,192,82105,AREA00032,Kec. Coblong,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000122,Jl. Gatot Subroto No.119,27,28322,AREA00016,Kec. Bojongloa Kaler,Mataram,Nusa Tenggara Barat
+ADDR000123,Jl. Sudirman No.16,200,39135,AREA00017,Kec. Bojongloa Kidul,Semarang,Jawa Timur
+ADDR000124,Jl. Merdeka No.103,96,99952,AREA00081,Kec. Sumur Bandung,Ambon,Maluku
+ADDR000125,Jl. Gatot Subroto No.150,151,43924,AREA00010,Kec. Arcamanik,Palembang,Sumatera Selatan
+ADDR000126,Jl. Sudirman No.17,51,94670,AREA00057,Kec. Pahandut,Ambon,Maluku
+ADDR000127,Jl. Asia Afrika No.24,85,26059,AREA00006,Kec. Sukasari,Pontianak,Kalimantan Barat
+ADDR000128,Jl. Anggrek No.13,44,85220,AREA00056,Kec. Menteng,Magelang,Jawa Timur
+ADDR000129,Jl. Melati No.128,8,60165,AREA00088,Kec. Rakumpit,Blitar,Jawa Timur
+ADDR000130,Jl. Melati No.45,91,38143,AREA00024,Kec. Bukit Batu,Surabaya,Jawa Timur
+ADDR000131,Jl. Pahlawan No.72,115,29481,AREA00005,Kec. Antapani,Banjarmasin,Kalimantan Selatan
+ADDR000132,Jl. Merdeka No.166,76,75390,AREA00053,Kec. Bandung Kidul,Cirebon,Jawa Barat
+ADDR000133,Jl. Anggrek No.16,23,46670,AREA00050,Kec. Cidadap,Palembang,Sumatera Selatan
+ADDR000134,Jl. Asia Afrika No.108,52,94233,AREA00068,Kec. Cibiru,,Jambi
+ADDR000135,Jl. Merdeka No.162,140,12559,AREA00049,Kec. Andir,Mamuju,Sulawesi Barat
+ADDR000136,Jl. Bunga No.123,140,73527,AREA00045,Kec. Astana Anyar,SALATIGA,Jawa Timur
+ADDR000137,Jl. Bunga No.100,70,33568,AREA00004,Kec. Cicendo,Solo,Jawa Timur
+ADDR000138,Jl. Bunga No.153,57,13840,AREA00100,Kec. Arcamanik,Bandar Lampung,Lampung
+ADDR000139,Jl. Pahlawan No.15,121,79393,AREA00046,Kec. Bojongloa Kaler,Palu,Sulawesi Tengah
+ADDR000140,Jl. Merdeka No.41,26,42487,AREA00085,Kec. Jekan Raya,Kendari,Sulawesi Tenggara
+ADDR000141,Jl. Merdeka No.69,137,17328,AREA00098,Kec. Cibiru,Magelang,Jawa Timur
+ADDR000142,Jl. Merdeka No.148,100,56504,AREA00023,Kec. Bandung Kidul,Cirebon,Jawa Barat
+ADDR000143,Jl. Asia Afrika No.61,152,51681,AREA00095,Kec. Antapani,Malang,Jawa Timur
+ADDR000144,Jl. Bunga No.152,8,56095,AREA00073,Kec. Batununggal,Pangkal Pinang,Kepulauan Bangka Belitung
+ADDR000145,Jl. Asia Afrika No.145,49,74517,AREA00070,Kec. Arcamanik,Tangerang,Banten
+ADDR000146,Jl. Pahlawan No.45,126,14975,AREA00012,Kec. Kiaracondong,Solo,Jawa Timur
+ADDR000147,Jl. Sudirman No.60,155,38679,AREA00003,Kec. Buahbatu,Surabaya,Jawa Timur
+ADDR000148,Jl. Anggrek No.1,85,90495,AREA00026,Kec. Menteng,,Jambi
+ADDR000149,Jl. Asia Afrika No.88,184,33260,AREA00042,Kec. Kiaracondong,Banjarmasin,Kalimantan Selatan
+ADDR000150,Jl. Sudirman No.6,38,86888,AREA00091,Kec. Cibeunying,Kediri,Jawa Timur

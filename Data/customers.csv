@@ -1,0 +1,922 @@
+﻿customer_id,customer_name,email,phone_number,registered_at,customer_type,city,province,account_status
+CUST000001,Budi Nugroho,budi.nugroho755@gmail.com,628249827706,2021-08-17,Individual,Padang,Sumatera Barat,Active
+CUST000002,Bagas Purnama,bagas.purnama33@gmail.com,628553035110,2022-08-28,Small Business,Semarang,Jawa Timur,Active
+CUST000003,Deni Kurniawan,deni.kurniawan28@gmail.com,628746412689,2022-06-02,Individual,Padang,Sumatera Barat,Active
+CUST000004,Chandra Purnama,chandra.purnama604@gmail.com,628582334538,2021-08-14,Individual,Banda Aceh,Aceh,Active
+CUST000005,Jihan Pratama,jihan.pratama433@gmail.com,628849621470,2021-06-13,Individual,Mamuju,Sulawesi Barat,Active
+CUST000006,Reni Hidayat,reni.hidayat95@gmail.com,628209747451,2021-12-11,Individual,Palembang,Sumatera Selatan,Active
+CUST000007,Fitri Suryadi,fitri.suryadi271@gmail.com,628748245888,2021-12-19,Individual,Mataram,Nusa Tenggara Barat,Active
+CUST000008,Dimas Kusuma,dimas.kusuma81@gmail.com,628506448196,2021-05-08,Individual,Banjarmasin,Kalimantan Selatan,Active
+CUST000009,Kartika Firmansyah,kartika.firmansyah197@gmail.com,628719927151,2022-01-06,Individual,Mataram,Nusa Tenggara Barat,Active
+CUST000010,Agus Setiawan,agus.setiawan876@gmail.com,628185675980,2021-10-24,Individual,Mamuju,Sulawesi Barat,Active
+CUST000011,Hamdan Rahayu,hamdan.rahayu651@gmail.com,628586845604,2021-10-12,Individual,,Jambi,Active
+CUST000012,Maya Suryadi,maya.suryadi274@gmail.com,628819595113,2021-08-03,Individual,Bengkulu,Bengkulu,Active
+CUST000013,Wahyu Susanto,wahyu.susanto474@gmail.com,628275452091,2021-09-08,Individual,Banjarmasin,Kalimantan Selatan,Active
+CUST000014,Reni Purnama,reni.purnama864@gmail.com,628448195935,2022-12-03,Individual,Padang,Sumatera Barat,Active
+CUST000015,Johan Wijaya,,628530747414,2021-11-20,Small Business,Gorontalo,Gorontalo,Active
+CUST000016,Rina Kurniawan,rina.kurniawan672@gmail.com,628328306011,2021-11-19,Individual,Samarinda,Kalimantan Timur,Active
+CUST000017,Vera Kusuma,vera.kusuma253@gmail.com,628249926919,2021-09-29,Individual,Tangerang,Banten,Active
+CUST000018,Hana Handoko,hana.handoko371@gmail.com,628528853029,2022-08-21,Individual,Banda Aceh,Aceh,Active
+CUST000020,Fajar Susanto,fajar.susanto611@gmail.com,,2022-11-28,Small Business,Gorontalo,Gorontalo,Active
+CUST000021,Oscar Anggraini,oscar.anggraini258@gmail.com,628668132202,2022-04-25,Individual,Tarakan,Kalimantan Utara,Active
+CUST000022,Bagas Rahayu,bagas.rahayu274@gmail.com,628906248900,2022-07-04,Small Business,Palu,Sulawesi Tengah,Active
+CUST000024,Dimas Nugroho,dimas.nugroho935@gmail.com,628645119047,2021-07-02,Individual,Palangkaraya,Kalimantan Tengah,Active
+CUST000025,Hamdan Saputra,hamdan.saputra624@gmail.com,628645098869,2022-10-17,Individual,Denpasar,Bali,Active
+CUST000026,Fajar Suryadi,fajar.suryadi977@gmail.com,628679153816,2021-06-15,Individual,Mamuju,Sulawesi Barat,Active
+CUST000027,Wahyu Wibowo,wahyu.wibowo952@gmail.com,628220117054,2021-01-20,Individual,Pontianak,Kalimantan Barat,Active
+CUST000028,Mira Saputra,mira.saputra900@gmail.com,628358633898,2021-03-01,Individual,Padang,Sumatera Barat,Active
+CUST000029,Deni Permata,deni.permata546@gmail.com,6289166903530,2021-03-12,Individual,Denpasar,Bali,Active
+CUST000031,Nita Purnama,nita.purnama731@gmail.com,628315984311,2022-12-08T00:00:00,Individual,Mamuju,Sulawesi Barat,Active
+CUST000032,Vera Suryadi,vera.suryadi124@gmail.com,628584779555,2022-06-14,Individual,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+CUST000033,Johan Santoso,johan.santoso568@gmail.com,628731691672,2021-01-22,Individual,Bandar Lampung,Lampung,Active
+CUST000034,Vino Setiawan,vino.setiawan647@gmail.com,628860038427,2021-03-14,Individual,Bandung,Jawa Barat,Active
+CUST000035,Johan Santoso,johan.santoso527@gmail.com,628176082500,2021-12-05,Individual,Surabaya,Jawa Timur,Active
+CUST000036,Kevin Permata,kevin.permata741@gmail.com,628242068763,2022-07-07,Individual,Palembang,Sumatera Selatan,Active
+CUST000037,Putri Permata,putri..permata@gmail.com,628304451095,2022-02-21,Individual,Gorontalo,Gorontalo,Active
+CUST000039,Bagas Rahayu,bagas.rahayu348@gmail.com,628881913386,2022-02-17,Individual,Surabaya,Jawa Timur,Active
+CUST000040,Johan Kurniawan,johan.kurniawan144@gmail.com,,2022-07-04,Individual,Palembang,Sumatera Selatan,Active
+CUST000041,Maya Nugroho,maya.nugroho454@gmail.com,628180943908,2021-09-13,Individual,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+CUST000042,Agus Purnama,agus.purnama949@gmail.com,628200140141,2021-01-16,Individual,Denpasar,Bali,Active
+CUST000043,Hendra Utami,hendra.utami886@gmail.com,628329509408,2022-05-08,Individual,Pontianak,Kalimantan Barat,Active
+CUST000044,Mira Wijaya,mira.wijaya400@gmail.com,628102314313,2022-01-24,Individual,Medan,Sumatera Utara,Active
+CUST000047,Dimas Wibowo,dimas.wibowo489@gmail.com,628727255918,2021-02-21,Individual,Surabaya,Jawa Timur,Active
+CUST000048,Agus Lestari,agus.lestari610@gmail.com,628173574218,2021-07-10,Individual,Semarang,Jawa Timur,Active
+CUST000049,Bagas Setiawan,bagas.setiawan253@gmail.com,628711684318,2021-05-03,Individual,,Jambi,Active
+CUST000050,Wahyu Santoso,wahyu.santoso579@gmail.com,628726713347,,Individual,Banda Aceh,Aceh,Active
+CUST000051,Novi Nugroho,novi.nugroho322@gmail.com,628869005091,2022-11-17,Individual,Palembang,Sumatera Selatan,Active
+CUST000052,Kevin Anggraini,kevin.anggraini308@gmail.com,628793101194,2022-11-19,Corporate,Tangerang,Banten,Active
+CUST000053,Tari Santoso,tari.santoso577@gmail.com,628766964667,2022-04-15,Individual,Bandung,Jawa Barat,Active
+CUST000054,Deni Purnama,deni.purnama136@gmail.com,628384756779,2022-06-03,Small Business,Palembang,Sumatera Selatan,Active
+CUST000055,Mira Santoso,mira.santoso162@gmail.com,628406002884,2022-01-14,Individual,Padang,Sumatera Barat,Active
+CUST000056,Kartika Purnama,kartika.purnama827@gmail.com,628756783995,2021-11-06,Small Business,Manado,Sulawesi Utara,Active
+CUST000058,Fitri Rahayu,fitri.rahayu279@gmail.com,6282669109220,2022-07-21,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000059,Dina Kurniawan,dina.kurniawan704@gmail.com,628318610946,2021-12-18,Individual,Manado,Sulawesi Utara,Active
+CUST000061,Kartika Nugroho,kartika.nugroho790@gmail.com,628458153605,2021-01-04,Individual,Surabaya,Jawa Timur,Active
+CUST000062,Andi Nugroho,andi.nugroho723@gmail.com,628692362342,2022-03-29T00:00:00,Small Business,Medan,Sumatera Utara,Active
+CUST000063,Bella Pratama,bella.pratama926@gmail.com,628841976666,2021-03-19,Individual,Jakarta Selatan,DKI Jakarta,Active
+CUST000064,Umar Wijaya,umar.wijaya566@gmail.com,628725464884,2022-01-14,Individual,Denpasar,Bali,Active
+CUST000065,Putra Hidayat,putra.hidayat921@gmail.com,628491541578,2021-11-12,Individual,Surabaya,Jawa Timur,Active
+CUST000066,Ivan Suryadi,ivan.suryadi683@gmail.com,628367930513,2022-11-30,Individual,Palembang,Sumatera Selatan,Active
+CUST000067,Nanda Purnama,nanda.purnama768@gmail.com,628766430218,2022-02-21,Individual,Mataram,Nusa Tenggara Barat,Active
+CUST000068,Joko Setiawan,joko.setiawan831@gmail.com,628958872154,2021-06-16,Individual,Mataram,Nusa Tenggara Barat,Active
+CUST000070,Jihan Utami,jihan.utami831@gmail.com,628889262019,2022-11-17,Small Business,,,Active
+CUST000071,Kevin Susanto,kevin.susanto392@gmail.com,628216066793,2022-12-20,Individual,Gorontalo,Gorontalo,Active
+CUST000072,Hamdan Permata,hamdan.permata941@gmail.com,628976803188,2021-07-24,Individual,Padang,Sumatera Barat,Active
+CUST000073,Uci Saputra,uci.saputra25@gmail.com,628339362341,2021-08-22,Individual,Denpasar,Bali,Active
+CUST000074,Oscar Wibowo,oscar..wibowo@gmail.com,628930353157,2021-03-13,Individual,Pekanbaru,Riau,Active
+CUST000077,Eko Firmansyah,eko.firmansyah806@gmail.com,628882269302,2021-12-20,Individual,Banda Aceh,Aceh,Active
+CUST000078,Wati Firmansyah,wati.firmansyah922@gmail.com,628513600440,2021-04-29,Individual,Palangkaraya,Kalimantan Tengah,Active
+CUST000079,Kevin Wijaya,kevin.wijaya533@gmail.com,628101815992,2022-03-23,Individual,Manado,Sulawesi Utara,Active
+CUST000080,Nanda Utami,nanda.utami639@gmail.com,,2022-11-12,Individual,Semarang,Jawa Timur,Active
+CUST000081,Fika Rahayu,fika.rahayu317@gmail.com,628644518647,2021-11-04,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000082,Tari Anggraini,tari.anggraini131@gmail.com,628695295870,2021-10-30,Individual,Manado,Sulawesi Utara,Active
+CUST000083,Putra Anggraini,putra.anggraini583@gmail.com,628760904107,2021-06-28,Individual,Palu,Sulawesi Tengah,Active
+CUST000084,Vera Purnama,vera.purnama294@gmail.com,628426283245,2021-01-01,Individual,Denpasar,Bali,Active
+CUST000085,Putra Handoko,putra.handoko477@gmail.com,628446012478,2022-11-02,Individual,Tarakan,Kalimantan Utara,Active
+CUST000086,Yuli Kurniawan,yuli.kurniawan923@gmail.com,628952266893,2022-04-30,Individual,Palangkaraya,Kalimantan Tengah,Active
+CUST000087,Bagas Santoso,bagas.santoso649@gmail.com,6288128076290,2022-06-12,Individual,Batam,Kepulauan Riau,Active
+CUST000088,Rina Setiawan,rina.setiawan826@gmail.com,628341206079,2021-11-14,Individual,Palu,Sulawesi Tengah,Active
+CUST000089,Fajar Pratama,fajar.pratama626@gmail.com,628610173760,2021-09-08,Individual,Surabaya,Jawa Timur,Active
+CUST000091,Zahra Anggraini,zahra.anggraini705@gmail.com,628804436922,2021-06-01,Individual,Padang,Sumatera Barat,Active
+CUST000093,Fauzi Lestari,fauzi.lestari256@gmail.com,628698509918,2021-02-21T00:00:00,Small Business,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+CUST000094,Reza Hidayat,reza.hidayat544@gmail.com,628816806128,2022-04-21,Individual,Gorontalo,Gorontalo,Active
+CUST000096,Mira Susanto,mira.susanto266@gmail.com,628583258726,2022-05-02,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000097,Gilang Nugroho,gilang.nugroho642@gmail.com,628620332086,2022-06-18,Individual,Mamuju,Sulawesi Barat,Active
+CUST000098,Kevin Kusuma,kevin.kusuma241@gmail.com,628406798268,2023-01-01,Individual,Semarang,Jawa Timur,Active
+CUST000099,Tari Wibowo,tari.wibowo155@gmail.com,628248578017,2021-03-24,Individual,Banjarmasin,Kalimantan Selatan,Active
+CUST000100,Oscar Hidayat,oscar.hidayat425@gmail.com,,,Individual,Manado,Sulawesi Utara,Active
+CUST000101,Tari Purnama,tari.purnama212@gmail.com,628166857303,2022-03-02,Individual,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+CUST000102,Vera Handoko,vera.handoko590@gmail.com,628922050912,2021-01-21,Individual,Manado,Sulawesi Utara,Active
+CUST000103,Zahra Pratama,zahra.pratama400@gmail.com,628909037759,2021-11-02,Corporate,Bengkulu,Bengkulu,Active
+CUST000104,Bella Purnama,bella.purnama500@gmail.com,628336801619,2022-09-10,Small Business,Gorontalo,Gorontalo,Active
+CUST000106,Fika Anggraini,fika.anggraini942@gmail.com,628601856351,2021-06-19,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000107,Wahyu Purnama,wahyu.purnama578@gmail.com,628735540030,2022-02-08,Individual,Bandung,Jawa Barat,Active
+CUST000108,Deni Utami,deni.utami52@gmail.com,628295130056,2022-04-18,Individual,Tangerang,Banten,Active
+CUST000109,Vera Wibowo,vera.wibowo346@gmail.com,628450948014,2022-04-11,Individual,Palembang,Sumatera Selatan,Active
+CUST000110,Reni Utami,reni.utami20@gmail.com,628604988121,2021-03-25,Small Business,Pekanbaru,Riau,Active
+CUST000111,Nanda Setiawan,nanda..setiawan@gmail.com,628938842599,2021-03-12,Individual,Makassar,,Active
+CUST000112,Evan Pratama,evan.pratama637@gmail.com,628121882877,2021-07-24,Individual,Padang,Sumatera Barat,Active
+CUST000113,Johan Hidayat,johan.hidayat578@gmail.com,628222824732,2022-11-17,Individual,Pontianak,Kalimantan Barat,Active
+CUST000116,Joko Saputra,joko.saputra407@gmail.com,6285029827780,2022-11-25,Individual,Samarinda,Kalimantan Timur,Active
+CUST000117,Deni Handoko,deni.handoko105@gmail.com,628360757540,2022-10-05,Individual,Manado,Sulawesi Utara,Active
+CUST000118,Lina Firmansyah,lina.firmansyah580@gmail.com,628954942461,2021-05-04,Individual,Gorontalo,Gorontalo,Active
+CUST000119,Nanda Purnama,nanda.purnama71@gmail.com,628497897455,2022-11-09,Small Business,Banda Aceh,Aceh,Active
+CUST000121,Uci Kusuma,uci.kusuma181@gmail.com,628567600762,2021-06-06,Individual,Manado,Sulawesi Utara,Active
+CUST000122,Dina Purnama,dina.purnama447@gmail.com,628599154414,2022-05-11,Individual,Mamuju,Sulawesi Barat,Active
+CUST000123,Tari Setiawan,tari.setiawan903@gmail.com,628399496923,2021-03-30,Individual,Denpasar,Bali,Active
+CUST000124,Putri Kusuma,putri.kusuma389@gmail.com,628817461907,2022-09-17T00:00:00,Small Business,Samarinda,Kalimantan Timur,Active
+CUST000125,Sari Permata,sari.permata500@gmail.com,628295249057,2021-11-29,Small Business,Mataram,Nusa Tenggara Barat,Active
+CUST000126,Nanda Nugroho,nanda.nugroho719@gmail.com,628740116562,2021-10-14,Individual,Bandar Lampung,Lampung,Active
+CUST000127,Bella Pratama,bella.pratama248@gmail.com,628191926217,2021-07-15,Individual,Palangkaraya,Kalimantan Tengah,Active
+CUST000128,Zahra Purnama,zahra.purnama488@gmail.com,628841536135,2021-09-04,Small Business,Mamuju,Sulawesi Barat,Active
+CUST000129,Yuli Pratama,yuli.pratama415@gmail.com,628337937327,2021-10-29,Individual,Semarang,Jawa Timur,Active
+CUST000130,Lukman Handoko,lukman.handoko544@gmail.com,628694287057,2022-04-30,Individual,Bengkulu,Bengkulu,Active
+CUST000131,Wati Purnama,wati.purnama465@gmail.com,628854684750,2021-12-27,Individual,Bandar Lampung,Lampung,Active
+CUST000132,Susi Nugroho,susi.nugroho198@gmail.com,628874473159,2021-05-04,Individual,Padang,Sumatera Barat,Active
+CUST000134,Dimas Permata,dimas.permata538@gmail.com,628916267011,2022-08-27,Individual,Pekanbaru,Riau,Active
+CUST000136,Lukman Pratama,lukman.pratama281@gmail.com,628235917419,2022-07-01,Individual,Manado,Sulawesi Utara,Active
+CUST000137,Agus Purnama,agus.purnama654@gmail.com,628235591568,2022-12-16,Individual,Batam,Kepulauan Riau,Active
+CUST000139,Yuli Wibowo,yuli.wibowo964@gmail.com,628371096600,2021-02-22,Individual,Medan,Sumatera Utara,Active
+CUST000140,Fitri Santoso,fitri.santoso591@gmail.com,,2022-05-19,Individual,,,Active
+CUST000141,Fajar Hidayat,fajar.hidayat88@gmail.com,628426240903,2022-07-31,Individual,Gorontalo,Gorontalo,Active
+CUST000142,Eko Purnama,eko.purnama611@gmail.com,628751028618,2022-03-03,Individual,Mamuju,Sulawesi Barat,Active
+CUST000143,Evan Lestari,evan.lestari305@gmail.com,628575368059,2022-04-07,Small Business,,Jambi,Active
+CUST000144,Susi Handoko,susi.handoko984@gmail.com,628754586204,2021-03-03,Individual,Tarakan,Kalimantan Utara,Active
+CUST000145,Evan Kurniawan,evan.kurniawan677@gmail.com,6283841616120,2021-08-05,Individual,Makassar,,Active
+CUST000146,Hendra Setiawan,hendra.setiawan161@gmail.com,628180600295,2022-07-20,Individual,Medan,Sumatera Utara,Active
+CUST000147,Putra Kusuma,putra.kusuma299@gmail.com,628604564682,2022-09-01,Individual,Manado,Sulawesi Utara,Active
+CUST000148,Johan Saputra,johan..saputra@gmail.com,628854827139,2021-10-17,Individual,Manado,Sulawesi Utara,Active
+CUST000149,Rina Setiawan,rina.setiawan678@gmail.com,628733281747,2022-10-03,Individual,Pekanbaru,Riau,Active
+CUST000151,Joko Nugroho,joko.nugroho62@gmail.com,628176675731,2021-05-26,Individual,Denpasar,Bali,Active
+CUST000153,Reza Saputra,reza.saputra513@gmail.com,628392322121,2022-02-17,Corporate,Manado,Sulawesi Utara,Active
+CUST000154,Yuli Santoso,yuli.santoso753@gmail.com,628563887247,2021-02-10,Individual,Tarakan,Kalimantan Utara,Active
+CUST000155,Dina Nugroho,dina.nugroho985@gmail.com,628345805719,2021-04-04T00:00:00,Individual,Bandung,Jawa Barat,Active
+CUST000156,Evan Nugroho,evan.nugroho775@gmail.com,628919382051,2021-02-11,Individual,Samarinda,Kalimantan Timur,Active
+CUST000157,Sandi Lestari,sandi.lestari186@gmail.com,628398668350,2022-03-29,Individual,Makassar,,Active
+CUST000158,Elsa Permata,elsa.permata419@gmail.com,628473620340,2022-04-27,Individual,Semarang,Jawa Timur,Active
+CUST000159,Tari Rahayu,tari.rahayu422@gmail.com,628454123990,2021-06-14,Individual,Mataram,Nusa Tenggara Barat,Active
+CUST000160,Susi Anggraini,susi.anggraini466@gmail.com,,2022-07-18,Individual,Denpasar,Bali,Active
+CUST000162,Lina Lestari,lina.lestari891@gmail.com,628806157458,2021-01-02,Individual,Denpasar,Bali,Active
+CUST000163,Wati Wijaya,wati.wijaya638@gmail.com,628488457631,2022-06-15,Individual,Palembang,Sumatera Selatan,Active
+CUST000164,Elsa Kusuma,elsa.kusuma274@gmail.com,628318568997,2021-02-22,Individual,Mamuju,Sulawesi Barat,Active
+CUST000166,Budi Firmansyah,budi.firmansyah163@gmail.com,628862123506,2021-09-03,Individual,Gorontalo,Gorontalo,Active
+CUST000167,Bella Pratama,bella.pratama231@gmail.com,628200082623,2022-02-22,Individual,Banjarmasin,Kalimantan Selatan,Active
+CUST000168,Reza Rahayu,reza.rahayu956@gmail.com,628635126623,2021-06-07,Individual,Makassar,,Active
+CUST000169,Anisa Nugroho,anisa.nugroho250@gmail.com,628607042130,2022-05-10,Individual,Banda Aceh,Aceh,Active
+CUST000170,Bella Hidayat,bella.hidayat521@gmail.com,628743576792,2021-07-15,Individual,,Jambi,Active
+CUST000172,Kartika Pratama,kartika.pratama602@gmail.com,628999232921,2021-11-02,Individual,Batam,Kepulauan Riau,Active
+CUST000173,Lina Hidayat,lina.hidayat354@gmail.com,628620057604,2022-07-06,Individual,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+CUST000174,Bella Purnama,bella.purnama891@gmail.com,6284455057990,2022-04-12,Individual,,Jambi,Active
+CUST000175,Chandra Setiawan,chandra.setiawan877@gmail.com,628350785761,2022-01-28,Individual,Samarinda,Kalimantan Timur,Active
+CUST000176,Dewi Wibowo,dewi.wibowo936@gmail.com,628857232668,2022-04-30,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000177,Vera Hidayat,vera.hidayat515@gmail.com,628235555899,2021-02-07,Small Business,Pontianak,Kalimantan Barat,Active
+CUST000178,Lina Rahayu,lina.rahayu539@gmail.com,628207064620,2022-03-27,Small Business,Mataram,Nusa Tenggara Barat,Active
+CUST000179,Sari Hidayat,sari.hidayat77@gmail.com,628265744099,2022-11-02,Small Business,Banda Aceh,Aceh,Active
+CUST000181,Elsa Santoso,elsa.santoso880@gmail.com,628824085842,2021-12-03,Individual,Mataram,Nusa Tenggara Barat,Active
+CUST000182,Tari Permata,tari.permata633@gmail.com,628138546365,2022-07-09,Individual,Mataram,Nusa Tenggara Barat,Active
+CUST000183,Johan Saputra,johan.saputra101@gmail.com,628565973314,2021-04-03,Individual,Padang,Sumatera Barat,Active
+CUST000185,Miko Wijaya,miko..wijaya@gmail.com,628502482554,2022-01-03,Small Business,Batam,Kepulauan Riau,Active
+CUST000186,Ayu Setiawan,ayu.setiawan699@gmail.com,628707660630,2022-02-26T00:00:00,Individual,Palangkaraya,Kalimantan Tengah,Active
+CUST000187,Hendra Susanto,hendra.susanto635@gmail.com,628510753814,2022-09-17,Individual,Semarang,Jawa Timur,Active
+CUST000188,Sandi Handoko,sandi.handoko654@gmail.com,628595155950,2021-08-26,Individual,Tangerang,Banten,Active
+CUST000189,Yuli Nugroho,yuli.nugroho477@gmail.com,628963968184,2021-01-10,Individual,Palu,Sulawesi Tengah,Active
+CUST000191,Elsa Utami,elsa.utami866@gmail.com,628590523712,2021-09-14,Individual,Manado,Sulawesi Utara,Active
+CUST000192,Nita Anggraini,nita.anggraini243@gmail.com,628214518079,2022-05-10,Individual,Mataram,Nusa Tenggara Barat,Active
+CUST000193,Cici Suryadi,cici.suryadi303@gmail.com,628850845198,2021-10-30,Individual,Samarinda,Kalimantan Timur,Active
+CUST000194,Gilang Anggraini,gilang.anggraini886@gmail.com,628707661655,2021-01-09,Individual,Pekanbaru,Riau,Active
+CUST000196,Indah Setiawan,indah.setiawan652@gmail.com,628335154329,2021-12-27,Individual,Tarakan,Kalimantan Utara,Active
+CUST000197,Wahyu Nugroho,wahyu.nugroho859@gmail.com,628831062591,2022-11-07,Individual,Palu,Sulawesi Tengah,Active
+CUST000198,Andi Rahayu,andi.rahayu317@gmail.com,628142329671,2022-10-24,Individual,Makassar,,Active
+CUST000199,Dewi Handoko,dewi.handoko932@gmail.com,628196779973,2021-05-15,Individual,Bengkulu,Bengkulu,Active
+CUST000200,Tari Utami,tari.utami806@gmail.com,,,Individual,Medan,Sumatera Utara,Active
+CUST000201,Anisa Lestari,anisa.lestari936@gmail.com,628375919523,2021-06-18,Individual,Pekanbaru,Riau,Active
+CUST000202,Jihan Saputra,jihan.saputra118@gmail.com,628963538119,2021-12-13,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000203,Rina Hidayat,rina.hidayat742@gmail.com,6288261970690,2021-08-20,Individual,Mamuju,Sulawesi Barat,Active
+CUST000204,Lina Purnama,lina.purnama405@gmail.com,628948988297,2021-04-03,Individual,Bengkulu,Bengkulu,Active
+CUST000205,Kevin Purnama,kevin.purnama689@gmail.com,628495765839,2022-04-11,Individual,Jakarta Selatan,DKI Jakarta,Active
+CUST000206,Cici Anggraini,cici.anggraini111@gmail.com,628498866784,2022-10-16,Individual,Denpasar,Bali,Active
+CUST000208,Andi Santoso,andi.santoso310@gmail.com,628852775879,2022-04-21,Individual,Makassar,,Active
+CUST000211,Uci Purnama,uci.purnama745@gmail.com,628897005281,2022-08-25,Individual,Banda Aceh,Aceh,Active
+CUST000212,Ivan Utami,ivan.utami502@gmail.com,628995171130,2021-04-12,Individual,Makassar,,Active
+CUST000213,Reni Wijaya,reni.wijaya455@gmail.com,628333291547,2022-01-15,Individual,Manado,Sulawesi Utara,Active
+CUST000214,Putri Suryadi,putri.suryadi558@gmail.com,628494422907,2022-12-04,Individual,Jakarta Selatan,DKI Jakarta,Active
+CUST000215,Dewi Anggraini,dewi.anggraini972@gmail.com,628231167999,2021-07-14,Individual,Pekanbaru,Riau,Active
+CUST000216,Rina Kurniawan,rina.kurniawan995@gmail.com,628741180590,2022-10-17,Individual,Makassar,,Active
+CUST000217,Agus Wibowo,agus.wibowo579@gmail.com,628945011302,2021-05-09T00:00:00,Small Business,Padang,Sumatera Barat,Active
+CUST000218,Deni Purnama,deni.purnama833@gmail.com,628331875999,2022-08-24,Individual,Palembang,Sumatera Selatan,Active
+CUST000219,Miko Hidayat,miko.hidayat284@gmail.com,628103044648,2022-09-03,Individual,Gorontalo,Gorontalo,Active
+CUST000220,Fajar Purnama,fajar.purnama677@gmail.com,,2021-06-28,Individual,Pekanbaru,Riau,Active
+CUST000221,Fajar Pratama,fajar.pratama332@gmail.com,628732276010,2021-09-01,Individual,Bengkulu,Bengkulu,Active
+CUST000222,Hendra Nugroho,hendra..nugroho@gmail.com,628896413702,2021-05-10,Individual,Surabaya,Jawa Timur,Active
+CUST000223,Anisa Rahayu,anisa.rahayu460@gmail.com,628611365210,2021-03-07,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000224,Anisa Handoko,anisa.handoko227@gmail.com,628640992677,2022-04-08,Individual,Jakarta Selatan,DKI Jakarta,Active
+CUST000226,Agus Permata,agus.permata703@gmail.com,628557707813,2022-02-16,Individual,Mataram,Nusa Tenggara Barat,Active
+CUST000227,Sandi Kusuma,sandi.kusuma623@gmail.com,628445864933,2021-03-24,Individual,Semarang,Jawa Timur,Active
+CUST000229,Vera Firmansyah,vera.firmansyah518@gmail.com,628587173220,2021-10-29,Individual,Palangkaraya,Kalimantan Tengah,Active
+CUST000231,Putra Kusuma,putra.kusuma848@gmail.com,628463925049,2022-02-28,Individual,Padang,Sumatera Barat,Active
+CUST000232,Vera Utami,vera.utami438@gmail.com,6284355962370,2021-04-08,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000233,Fika Nugroho,fika.nugroho946@gmail.com,628837468465,2021-06-06,Individual,Bengkulu,Bengkulu,Active
+CUST000234,Rina Santoso,rina.santoso443@gmail.com,628200105056,2021-03-29,Individual,Denpasar,Bali,Active
+CUST000235,Dimas Suryadi,dimas.suryadi62@gmail.com,628697398528,2021-05-14,Individual,Gorontalo,Gorontalo,Active
+CUST000236,Fika Rahayu,fika.rahayu964@gmail.com,628814403943,2021-12-29,Individual,Banda Aceh,Aceh,Active
+CUST000237,Lina Wijaya,lina.wijaya361@gmail.com,628435489452,2022-09-07,Individual,Batam,Kepulauan Riau,Active
+CUST000238,Vino Lestari,vino.lestari494@gmail.com,628805165232,2021-06-08,Individual,Palembang,Sumatera Selatan,Active
+CUST000239,Hamdan Rahayu,hamdan.rahayu118@gmail.com,628494665673,2022-07-24,Individual,Bengkulu,Bengkulu,Active
+CUST000241,Wahyu Nugroho,wahyu.nugroho720@gmail.com,628393421844,2021-07-04,Individual,Bandung,Jawa Barat,Active
+CUST000242,Novi Wibowo,novi.wibowo891@gmail.com,628294782734,2021-01-07,Individual,Bengkulu,Bengkulu,Active
+CUST000243,Vino Anggraini,vino.anggraini649@gmail.com,628895609471,2021-05-26,Corporate,Semarang,Jawa Timur,Active
+CUST000244,Deni Lestari,deni.lestari465@gmail.com,628550791704,2022-01-21,Small Business,Palembang,Sumatera Selatan,Active
+CUST000245,Maya Suryadi,maya.suryadi965@gmail.com,628934120892,2021-11-29,Individual,Batam,Kepulauan Riau,Active
+CUST000246,Ivan Wijaya,ivan.wijaya633@gmail.com,628910069356,2021-06-11,Small Business,Tangerang,Banten,Active
+CUST000248,Dina Kusuma,dina.kusuma774@gmail.com,628331465414,2021-10-07T00:00:00,Individual,Banda Aceh,Aceh,Active
+CUST000249,Nanda Utami,nanda.utami695@gmail.com,628828230915,2021-10-18,Individual,Jakarta Selatan,DKI Jakarta,Active
+CUST000250,Anisa Saputra,anisa.saputra614@gmail.com,628524410834,,Individual,Surabaya,Jawa Timur,Active
+CUST000251,Budi Kurniawan,budi.kurniawan141@gmail.com,628923935280,2021-08-05,Individual,Batam,Kepulauan Riau,Active
+CUST000252,Susi Wibowo,susi.wibowo765@gmail.com,628634063428,2021-01-08,Individual,Jakarta Selatan,DKI Jakarta,Active
+CUST000254,Toni Purnama,toni.purnama363@gmail.com,628965650861,2022-11-16,Individual,Denpasar,Bali,Active
+CUST000256,Hamdan Wibowo,hamdan.wibowo415@gmail.com,628715683222,2022-03-16,Individual,Samarinda,Kalimantan Timur,Active
+CUST000257,Susi Rahayu,susi.rahayu176@gmail.com,628448717183,2021-01-22,Individual,,Jambi,Active
+CUST000258,Kartika Suryadi,kartika.suryadi250@gmail.com,628213669678,2022-03-24,Individual,Semarang,Jawa Timur,Active
+CUST000259,Cici Anggraini,cici..anggraini@gmail.com,628524951250,2021-03-22,Individual,Palangkaraya,Kalimantan Tengah,Active
+CUST000260,Hana Wibowo,hana.wibowo173@gmail.com,,2021-12-08,Individual,Padang,Sumatera Barat,Active
+CUST000261,Toni Rahayu,toni.rahayu928@gmail.com,6283082025150,2022-06-07,Individual,Palangkaraya,Kalimantan Tengah,Active
+CUST000262,Uci Hidayat,uci.hidayat263@gmail.com,628257243284,2021-04-16,Individual,Padang,Sumatera Barat,Active
+CUST000263,Hendra Firmansyah,hendra.firmansyah182@gmail.com,628180909963,2022-11-03,Individual,Tangerang,Banten,Active
+CUST000264,Yuli Handoko,yuli.handoko698@gmail.com,628582008349,2022-08-17,Individual,Mamuju,Sulawesi Barat,Active
+CUST000265,Lina Wibowo,lina.wibowo481@gmail.com,628173321814,2022-03-27,Individual,Tangerang,Banten,Active
+CUST000267,Anisa Santoso,anisa.santoso39@gmail.com,628585238820,2022-04-18,Individual,Batam,Kepulauan Riau,Active
+CUST000268,Nanda Saputra,nanda.saputra630@gmail.com,628196955134,2022-10-23,Individual,Semarang,Jawa Timur,Active
+CUST000269,Yuli Handoko,yuli.handoko931@gmail.com,628582897882,2021-02-12,Individual,Banjarmasin,Kalimantan Selatan,Active
+CUST000271,Reza Rahayu,reza.rahayu87@gmail.com,628866990485,2021-12-18,Individual,Gorontalo,Gorontalo,Active
+CUST000272,Agus Setiawan,agus.setiawan537@gmail.com,628571825556,2022-03-25,Corporate,Manado,Sulawesi Utara,Active
+CUST000273,Nanda Suryadi,nanda.suryadi794@gmail.com,628538912794,2022-02-01,Individual,Batam,Kepulauan Riau,Active
+CUST000274,Fika Firmansyah,fika.firmansyah343@gmail.com,628795038832,2022-10-09,Individual,Surabaya,Jawa Timur,Active
+CUST000275,Miko Rahayu,miko.rahayu291@gmail.com,628515070154,2022-11-26,Individual,Banjarmasin,Kalimantan Selatan,Active
+CUST000277,Vino Hidayat,vino.hidayat716@gmail.com,628804433388,2021-11-14,Small Business,Bengkulu,Bengkulu,Active
+CUST000278,Ayu Firmansyah,ayu.firmansyah573@gmail.com,628432411019,2021-03-28,Small Business,Manado,Sulawesi Utara,Active
+CUST000279,Elsa Wibowo,elsa.wibowo720@gmail.com,628819532005,2021-05-11T00:00:00,Individual,Denpasar,Bali,Active
+CUST000280,Andi Utami,andi.utami372@gmail.com,,2022-01-06,Individual,,,Active
+CUST000281,Maya Kurniawan,maya.kurniawan232@gmail.com,628306164050,2022-05-13,Individual,Bandar Lampung,Lampung,Active
+CUST000282,Fajar Santoso,fajar.santoso790@gmail.com,628645127678,2021-04-14,Individual,Batam,Kepulauan Riau,Active
+CUST000283,Bagas Wibowo,bagas.wibowo612@gmail.com,628240712839,2022-09-25,Individual,Mamuju,Sulawesi Barat,Active
+CUST000284,Ayu Susanto,ayu.susanto640@gmail.com,628927959968,2022-12-11,Individual,Medan,Sumatera Utara,Active
+CUST000286,Reza Firmansyah,reza.firmansyah547@gmail.com,628351258749,2022-04-05,Individual,Batam,Kepulauan Riau,Active
+CUST000287,Lukman Permata,lukman.permata695@gmail.com,628494966219,2021-07-18,Individual,Denpasar,Bali,Active
+CUST000288,Yuli Saputra,yuli.saputra541@gmail.com,628639991949,2022-01-27,Small Business,Mamuju,Sulawesi Barat,Active
+CUST000289,Maya Kurniawan,maya.kurniawan894@gmail.com,628248604290,2022-09-12,Individual,Gorontalo,Gorontalo,Active
+CUST000290,Dewi Permata,dewi.permata957@gmail.com,6286954335900,2022-01-16,Individual,Mataram,Nusa Tenggara Barat,Active
+CUST000291,Chandra Lestari,chandra.lestari86@gmail.com,628406084084,2021-05-08,Individual,Mataram,Nusa Tenggara Barat,Active
+CUST000292,Kevin Kusuma,kevin.kusuma448@gmail.com,628992329618,2021-05-31,Individual,Palangkaraya,Kalimantan Tengah,Active
+CUST000293,Joko Setiawan,joko.setiawan953@gmail.com,628475364113,2022-04-07,Individual,Denpasar,Bali,Active
+CUST000294,Putra Wijaya,putra.wijaya242@gmail.com,628501538092,2022-05-30,Individual,,Jambi,Active
+CUST000295,Rina Suryadi,rina.suryadi954@gmail.com,628442185272,2021-01-29,Individual,Padang,Sumatera Barat,Active
+CUST000296,Gilang Wibowo,gilang..wibowo@gmail.com,628247746438,2021-05-30,Individual,Gorontalo,Gorontalo,Active
+CUST000297,Lukman Permata,lukman.permata723@gmail.com,628914799481,2021-05-23,Individual,Manado,Sulawesi Utara,Active
+CUST000298,Yuli Firmansyah,yuli.firmansyah263@gmail.com,628120405269,2021-03-23,Individual,Bandung,Jawa Barat,Active
+CUST000001,,user1@gmail.com,8646346564,2019-01-06,Individual,Surabaya,Jawa Timur,Active
+CUST000003,,user3@gmail.com,8866673993,2023-02-25,Individual,Makassar,,Active
+CUST000004,,user4@outlook.com,8443527737,2020-07-09,Individual,Semarang,Jawa Timur,Active
+CUST000005,,user5@gmail.com,8963651372,2021-11-22,Individual,Surabaya,Jawa Timur,Active
+CUST000006,,user6@outlook.com,8930568802,2023-09-27,Individual,Batam,Kepulauan Riau,Active
+CUST000007,,user7@gmail.com,8413097844,2022-02-28,Individual,Batam,Kepulauan Riau,Active
+CUST000008,,user8@hotmail.com,8629741991,2023-05-02,Individual,Mamuju,Sulawesi Barat,Active
+CUST000009,,user9@yahoo.com,8540272920,2019-02-18,Individual,Padang,Sumatera Barat,Active
+CUST000010,,user10@gmail.com,8101569849,2023-04-04,Individual,Palu,Sulawesi Tengah,Active
+CUST000011,,user11@hotmail.com,8668883968,2020-05-02,Individual,Banda Aceh,Aceh,Active
+CUST000013,,user13@outlook.com,8499960213,2021-07-27,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000014,,user14@yahoo.com,8523431477,2019-06-03,Individual,Samarinda,Kalimantan Timur,Active
+CUST000015,,user15@yahoo.com,8380236885,2023-10-09,Small Business,Bandar Lampung,Lampung,Active
+CUST000016,,user16@hotmail.com,8392010397,2020-04-23,Individual,Semarang,Jawa Timur,Active
+CUST000017,,user17@gmail.com,8276496293,2021-07-09,Individual,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+CUST000018,,user18@hotmail.com,8322947698,2021-07-14,Individual,Batam,Kepulauan Riau,Active
+CUST000019,,user19@gmail.com,8836645781,2020-09-15,Individual,Manado,Sulawesi Utara,Active
+CUST000021,,user21@outlook.com,8827120114,2020-09-04,Individual,Pekanbaru,Riau,Active
+CUST000022,,user22@outlook.com,8696950800,2023-03-13,Small Business,Banjarmasin,Kalimantan Selatan,Active
+CUST000023,,user23@yahoo.com,8166216779,2023-08-28,Small Business,Mamuju,Sulawesi Barat,Active
+CUST000024,,user24@outlook.com,8776776838,2024-04-04,Individual,Makassar,,Active
+CUST000025,,user25@gmail.com,,2019-05-13,Individual,Palembang,Sumatera Selatan,Active
+CUST000026,,user26@yahoo.com,8990514408,2023-07-15,Individual,Bandar Lampung,Lampung,Active
+CUST000027,,user27@gmail.com,8716203465,2021-06-06,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000029,,user29@outlook.com,8137204552,2022-06-11,Individual,Tarakan,Kalimantan Utara,Active
+CUST000030,,user30@outlook.com,8691297450,2021-09-08,Individual,Surabaya,Jawa Timur,Active
+CUST000031,,user31@outlook.com,8955984774,2021-12-12,Individual,Padang,Sumatera Barat,Active
+CUST000032,,user32@gmail.com,8939575663,2022-12-31,Individual,Bengkulu,Bengkulu,Active
+CUST000033,,user33@hotmail.com,8639440654,2020-10-20,Individual,,Jambi,Active
+CUST000035,,user35@outlook.com,8923390510,2022-04-11,Individual,Padang,Sumatera Barat,Active
+CUST000036,,user36@yahoo.com,8976479512,2023-06-09,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000037,,user37@outlook.com,8286521875,2019-12-27,Individual,Padang,Sumatera Barat,Active
+CUST000038,,user38@hotmail.com,8130286569,2022-12-11,Individual,Manado,Sulawesi Utara,Active
+CUST000039,,user39@yahoo.com,8302114356,2023-09-10,Individual,Pontianak,Kalimantan Barat,Active
+CUST000040,,user40@gmail.com,8349777425,2022-05-17,Individual,Padang,Sumatera Barat,Active
+CUST000041,,user41@hotmail.com,8316320731,2023-07-10,Individual,Tangerang,Banten,Active
+CUST000042,,user42@hotmail.com,8258604568,2022-04-16,Individual,Manado,Sulawesi Utara,Active
+CUST000043,,user43@hotmail.com,8501140044,2022-12-13,Individual,Palu,Sulawesi Tengah,Active
+CUST000044,,user44@hotmail.com,8269118504,2023-02-08,Individual,Banda Aceh,Aceh,Active
+CUST000045,,user45@hotmail.com,8703418543,2022-11-21,Individual,Tarakan,Kalimantan Utara,Active
+CUST000046,,user46@yahoo.com,8888121101,2022-11-11,Small Business,Batam,Kepulauan Riau,Active
+CUST000047,,user47@outlook.com,8927672827,2024-05-30,Individual,Samarinda,Kalimantan Timur,Active
+CUST000048,,user48@yahoo.com,8211787506,2024-04-02,Individual,Pontianak,Kalimantan Barat,Active
+CUST000049,,user49@yahoo.com,8443080569,2019-12-10,Individual,Makassar,,Active
+CUST000050,,user50@hotmail.com,8384769690,2020-03-05,Individual,Padang,Sumatera Barat,Active
+CUST000051,,user51@gmail.com,8151697938,2021-03-01,Individual,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+CUST000052,,user52@outlook.com,8506639535,2020-12-20,Corporate,Banjarmasin,Kalimantan Selatan,Active
+CUST000053,,user53@yahoo.com,8179144854,2023-06-25,Individual,Surabaya,Jawa Timur,Active
+CUST000054,,user54@gmail.com,8282649071,2023-12-24,Small Business,,Jambi,Active
+CUST000055,,user55@gmail.com,8758896006,2024-01-04,Individual,Pontianak,Kalimantan Barat,Active
+CUST000056,,user56@yahoo.com,8566219118,2019-11-18,Small Business,Surabaya,Jawa Timur,Active
+CUST000057,,user57@yahoo.com,8694973692,2023-01-18,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000058,,user58@hotmail.com,8153295652,2021-03-15,Individual,Samarinda,Kalimantan Timur,Active
+CUST000059,,user59@gmail.com,8559138405,2019-06-29,Individual,Batam,Kepulauan Riau,Active
+CUST000060,,user60@outlook.com,8127633490,2020-02-28,Individual,Medan,Sumatera Utara,Active
+CUST000061,,user61@outlook.com,8431091936,2023-05-27,Individual,,Jambi,Active
+CUST000062,,user62@hotmail.com,8684250873,2021-03-04,Small Business,Medan,Sumatera Utara,Active
+CUST000063,,user63@yahoo.com,8382711894,2021-06-19,Individual,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+CUST000064,,user64@gmail.com,8847829989,2022-09-28,Individual,Jakarta Selatan,DKI Jakarta,Active
+CUST000065,,user65@outlook.com,8733213949,2020-04-10,Individual,Banjarmasin,Kalimantan Selatan,Active
+CUST000066,,user66@outlook.com,8353018691,2021-09-02,Individual,Batam,Kepulauan Riau,Active
+CUST000067,,user67@gmail.com,8654928450,2023-06-28,Individual,Samarinda,Kalimantan Timur,Active
+CUST000068,,user68@gmail.com,8582152746,2019-12-21,Individual,Medan,Sumatera Utara,Active
+CUST000069,,user69@yahoo.com,8184147554,2022-10-31,Individual,Banda Aceh,Aceh,Active
+CUST000070,,user70@yahoo.com,8376903372,2020-10-16,Small Business,Kendari,Sulawesi Tenggara,Active
+CUST000071,,user71@outlook.com,8692763677,2020-10-29,Individual,Pekanbaru,Riau,Active
+CUST000072,,user72@gmail.com,8769003354,2022-04-18,Individual,Palangkaraya,Kalimantan Tengah,Active
+CUST000073,,user73@yahoo.com,8731289471,2022-04-08,Individual,Mamuju,Sulawesi Barat,Active
+CUST000074,,user74@gmail.com,8208437656,2023-05-29,Individual,Batam,Kepulauan Riau,Active
+CUST000075,,user75@outlook.com,8803072911,2021-09-21,Individual,Samarinda,Kalimantan Timur,Active
+CUST000077,,user77@outlook.com,8455939049,2022-11-15,Individual,Padang,Sumatera Barat,Active
+CUST000078,,user78@hotmail.com,,2023-08-02,Individual,Batam,Kepulauan Riau,Active
+CUST000079,,user79@gmail.com,8344767409,2019-10-03,Individual,Batam,Kepulauan Riau,Active
+CUST000080,,user80@hotmail.com,8547506309,2022-05-23,Individual,Makassar,,Active
+CUST000081,,user81@outlook.com,8915499713,2021-11-23,Individual,Bengkulu,Bengkulu,Active
+CUST000082,,user82@yahoo.com,8861894343,2021-11-03,Individual,,Jambi,Active
+CUST000083,,user83@gmail.com,8994351711,2020-02-16,Individual,Surabaya,Jawa Timur,Active
+CUST000084,,user84@hotmail.com,8394181098,2021-01-24,Individual,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+CUST000085,,user85@gmail.com,8359779054,2021-02-01,Individual,Pontianak,Kalimantan Barat,Active
+CUST000086,,user86@outlook.com,8475551835,2020-12-06,Individual,Medan,Sumatera Utara,Active
+CUST000087,,user87@gmail.com,8515071728,2019-04-12,Individual,Medan,Sumatera Utara,Active
+CUST000088,,user88@yahoo.com,8795118868,2020-04-06,Individual,Palu,Sulawesi Tengah,Active
+CUST000089,,user89@gmail.com,8924174943,2022-10-29,Individual,Bandung,Jawa Barat,Active
+CUST000090,,user90@yahoo.com,8109087862,2020-04-03,Individual,Pekanbaru,Riau,Active
+CUST000091,,user91@hotmail.com,8504237434,2023-10-11,Individual,Bengkulu,Bengkulu,Active
+CUST000092,,user92@hotmail.com,8985097007,2022-07-01,Individual,,Jambi,Active
+CUST000094,,user94@gmail.com,8461081823,2020-07-20,Individual,Makassar,,Active
+CUST000095,,user95@hotmail.com,8655439758,2023-04-17,Individual,Padang,Sumatera Barat,Active
+CUST000096,,user96@outlook.com,8830955923,2019-10-14,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000097,,user97@hotmail.com,8549431487,2021-04-08,Individual,,Jambi,Active
+CUST000098,,user98@yahoo.com,8865974442,2020-03-31,Individual,Palu,Sulawesi Tengah,Active
+CUST000099,,user99@hotmail.com,8282521788,2023-09-18,Individual,Palu,Sulawesi Tengah,Active
+CUST000100,,user100@gmail.com,8895555607,2020-06-13,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000101,,user101@yahoo.com,8460382610,2022-09-02,Individual,Semarang,Jawa Timur,Active
+CUST000102,,user102@hotmail.com,8455749066,2021-01-31,Individual,Pekanbaru,Riau,Active
+CUST000103,,user103@gmail.com,8781178315,2022-04-10,Corporate,Samarinda,Kalimantan Timur,Active
+CUST000104,,user104@yahoo.com,8830893658,2021-02-20,Small Business,Palangkaraya,Kalimantan Tengah,Active
+CUST000106,,user106@outlook.com,8868443155,2020-01-05,Individual,Mamuju,Sulawesi Barat,Active
+CUST000107,,user107@yahoo.com,8162291621,2019-01-10,Individual,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+CUST000108,,user108@yahoo.com,8270118413,2021-09-29,Individual,Mamuju,Sulawesi Barat,Active
+CUST000109,,user109@outlook.com,8533140455,2021-05-28,Individual,Pontianak,Kalimantan Barat,Active
+CUST000111,,user111@yahoo.com,,2019-01-09,Individual,Makassar,,Active
+CUST000112,,user112@hotmail.com,8210282113,2021-02-24,Individual,Palangkaraya,Kalimantan Tengah,Active
+CUST000113,,user113@gmail.com,8412273967,2021-07-22,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000114,,user114@outlook.com,8243655310,2020-12-02,Individual,Pontianak,Kalimantan Barat,Active
+CUST000115,,user115@outlook.com,,2020-04-04,Small Business,Kendari,Sulawesi Tenggara,Active
+CUST000116,,user116@gmail.com,8281445989,2019-09-10,Individual,Bengkulu,Bengkulu,Active
+CUST000117,,user117@outlook.com,8374651533,2023-04-29,Individual,Banjarmasin,Kalimantan Selatan,Active
+CUST000118,,user118@gmail.com,8801762883,2023-09-09,Individual,Bandung,Jawa Barat,Active
+CUST000119,,user119@gmail.com,8609379184,2022-12-08,Small Business,Tangerang,Banten,Active
+CUST000120,,user120@gmail.com,8810456933,2019-07-26,Individual,Palu,Sulawesi Tengah,Active
+CUST000121,,user121@yahoo.com,8212650803,2021-11-13,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000122,,user122@gmail.com,8753910715,2020-02-14,Individual,Mamuju,Sulawesi Barat,Active
+CUST000123,,user123@yahoo.com,8539972403,2020-08-27,Individual,Medan,Sumatera Utara,Active
+CUST000124,,user124@outlook.com,8102939907,2019-01-27,Small Business,Palu,Sulawesi Tengah,Active
+CUST000125,,user125@outlook.com,8196725534,2023-05-16,Small Business,Palangkaraya,Kalimantan Tengah,Active
+CUST000126,,user126@hotmail.com,8590432899,2020-08-29,Individual,Pekanbaru,Riau,Active
+CUST000128,,user128@gmail.com,8149273037,2019-01-20,Small Business,Tangerang,Banten,Active
+CUST000129,,user129@hotmail.com,8767660223,2020-07-03,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000130,,user130@yahoo.com,8529765405,2024-05-24,Individual,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+CUST000131,,user131@outlook.com,8796693603,2023-12-20,Individual,Medan,Sumatera Utara,Active
+CUST000132,,user132@gmail.com,8271149511,2019-08-01,Individual,Banda Aceh,Aceh,Active
+CUST000133,,user133@outlook.com,8507754288,2023-05-15,Individual,Bengkulu,Bengkulu,Active
+CUST000134,,user134@yahoo.com,8624117847,2019-08-20,Individual,Banda Aceh,Aceh,Active
+CUST000135,,user135@hotmail.com,,2023-11-14,Individual,Palu,Sulawesi Tengah,Active
+CUST000136,,user136@yahoo.com,8819239897,2023-11-24,Individual,Bandar Lampung,Lampung,Active
+CUST000137,,user137@gmail.com,8880236611,2020-05-24,Individual,Pontianak,Kalimantan Barat,Active
+CUST000138,,user138@outlook.com,8987380851,2022-02-17,Individual,Tarakan,Kalimantan Utara,Active
+CUST000139,,user139@outlook.com,8277601056,2019-06-03,Individual,Mamuju,Sulawesi Barat,Active
+CUST000140,,user140@hotmail.com,8339129305,2022-02-01,Individual,Makassar,,Active
+CUST000141,,user141@gmail.com,8960347752,2022-03-19,Individual,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+CUST000142,,user142@hotmail.com,8634050562,2023-03-07,Individual,Makassar,,Active
+CUST000143,,user143@gmail.com,8100182231,2023-08-19,Small Business,Semarang,Jawa Timur,Active
+CUST000144,,user144@hotmail.com,8703800000,2020-02-28,Individual,Makassar,,Active
+CUST000145,,user145@hotmail.com,8976805431,2020-04-01,Individual,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+CUST000146,,user146@outlook.com,8490084550,2023-01-06,Individual,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+CUST000147,,user147@yahoo.com,,2020-12-28,Individual,Makassar,,Active
+CUST000148,,user148@hotmail.com,8149153870,2024-01-11,Individual,Medan,Sumatera Utara,Active
+CUST000149,,user149@outlook.com,8755897094,2020-02-06,Individual,Palembang,Sumatera Selatan,Active
+CUST000150,,user150@yahoo.com,8939043773,2020-01-26,Individual,Manado,Sulawesi Utara,Active
+CUST000151,,user151@gmail.com,8999222522,2022-10-08,Individual,Samarinda,Kalimantan Timur,Active
+CUST000152,,user152@outlook.com,8641378026,2019-10-03,Corporate,Pontianak,Kalimantan Barat,Active
+CUST000153,,user153@outlook.com,8618544245,2024-03-08,Corporate,Palangkaraya,Kalimantan Tengah,Active
+CUST000154,,user154@yahoo.com,8237848895,2019-08-01,Individual,,Jambi,Active
+CUST000155,,user155@hotmail.com,8513028367,2021-05-07,Individual,Tarakan,Kalimantan Utara,Active
+CUST000156,,user156@hotmail.com,8468141835,2024-06-10,Individual,Batam,Kepulauan Riau,Active
+CUST000157,,user157@outlook.com,8903617229,2021-11-15,Individual,Batam,Kepulauan Riau,Active
+CUST000158,,user158@hotmail.com,8694403676,2022-07-19,Individual,Palembang,Sumatera Selatan,Active
+CUST000159,,user159@hotmail.com,8821955780,2019-09-29,Individual,Manado,Sulawesi Utara,Active
+CUST000160,,user160@hotmail.com,8916875967,2020-12-22,Individual,Banjarmasin,Kalimantan Selatan,Active
+CUST000161,,user161@outlook.com,8673273772,2020-08-08,Individual,Banda Aceh,Aceh,Active
+CUST000162,,user162@gmail.com,8156978109,2022-10-04,Individual,Surabaya,Jawa Timur,Active
+CUST000163,,user163@yahoo.com,8833784779,2020-05-28,Individual,Tangerang,Banten,Active
+CUST000164,,user164@hotmail.com,8681079105,2019-03-08,Individual,Bengkulu,Bengkulu,Active
+CUST000165,,user165@yahoo.com,8702659666,2021-03-07,Individual,Padang,Sumatera Barat,Active
+CUST000166,,user166@hotmail.com,8150444260,2024-03-12,Individual,,Jambi,Active
+CUST000167,,user167@hotmail.com,8157769665,2019-01-27,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000168,,user168@outlook.com,8780525215,2022-12-14,Individual,Manado,Sulawesi Utara,Active
+CUST000169,,user169@yahoo.com,8307766587,2020-08-25,Individual,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+CUST000170,,user170@yahoo.com,8889285590,2021-11-18,Individual,Jakarta Selatan,DKI Jakarta,Active
+CUST000171,,user171@hotmail.com,8727050254,2023-09-29,Individual,Pekanbaru,Riau,Active
+CUST000172,,user172@yahoo.com,,2024-03-16,Individual,Bandar Lampung,Lampung,Active
+CUST000173,,user173@hotmail.com,8714907233,2022-01-31,Individual,Bengkulu,Bengkulu,Active
+CUST000174,,user174@yahoo.com,8658996745,2019-05-20,Individual,Palangkaraya,Kalimantan Tengah,Active
+CUST000175,,user175@outlook.com,8337509631,2023-12-15,Individual,Palembang,Sumatera Selatan,Active
+CUST000176,,user176@hotmail.com,8908157894,2022-06-20,Individual,Palangkaraya,Kalimantan Tengah,Active
+CUST000177,,user177@gmail.com,8471522500,2021-07-01,Small Business,Padang,Sumatera Barat,Active
+CUST000178,,user178@yahoo.com,8832883943,2023-12-19,Small Business,Bandar Lampung,Lampung,Active
+CUST000179,,user179@gmail.com,8680075399,2023-01-22,Small Business,Batam,Kepulauan Riau,Active
+CUST000180,,user180@hotmail.com,8646250686,2021-07-01,Individual,Pontianak,Kalimantan Barat,Active
+CUST000181,,user181@gmail.com,8279738803,2024-06-12,Individual,Mamuju,Sulawesi Barat,Active
+CUST000183,,user183@gmail.com,8989862107,2022-12-10,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000184,,user184@gmail.com,8265092727,2019-02-18,Individual,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+CUST000186,,user186@yahoo.com,8537692362,2021-03-05,Individual,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+CUST000187,,user187@gmail.com,8227029844,2021-12-31,Individual,Bandung,Jawa Barat,Active
+CUST000188,,user188@gmail.com,8177942327,2021-01-02,Individual,Palangkaraya,Kalimantan Tengah,Active
+CUST000189,,user189@hotmail.com,8402277050,2023-04-17,Individual,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+CUST000190,,user190@gmail.com,8672806655,2020-03-26,Individual,Tangerang,Banten,Active
+CUST000191,,user191@hotmail.com,8254699931,2020-09-02,Individual,Palu,Sulawesi Tengah,Active
+CUST000192,,user192@hotmail.com,8111972445,2022-02-07,Individual,Banjarmasin,Kalimantan Selatan,Active
+CUST000194,,user194@hotmail.com,8793563667,2023-10-10,Individual,Palangkaraya,Kalimantan Tengah,Active
+CUST000195,,user195@hotmail.com,8294731649,2022-10-06,Individual,Samarinda,Kalimantan Timur,Active
+CUST000196,,user196@outlook.com,8178538388,2020-08-18,Individual,Palu,Sulawesi Tengah,Active
+CUST000197,,user197@outlook.com,8483474399,2019-09-20,Individual,Palu,Sulawesi Tengah,Active
+CUST000198,,user198@gmail.com,8441220048,2021-09-22,Individual,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+CUST000199,,user199@yahoo.com,8491371841,2023-07-13,Individual,Bandar Lampung,Lampung,Active
+CUST000200,,user200@hotmail.com,8337861414,2022-12-29,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000201,,user201@hotmail.com,8887023544,2020-11-10,Individual,Pontianak,Kalimantan Barat,Active
+CUST000202,,user202@hotmail.com,8216858154,2019-12-26,Individual,Makassar,,Active
+CUST000203,,user203@yahoo.com,8310917183,2020-06-23,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000204,,user204@gmail.com,8644578566,2022-07-17,Individual,Bandung,Jawa Barat,Active
+CUST000205,,user205@yahoo.com,8692269551,2020-06-17,Individual,Banjarmasin,Kalimantan Selatan,Active
+CUST000206,,user206@yahoo.com,8339773681,2023-12-31,Individual,Mamuju,Sulawesi Barat,Active
+CUST000207,,user207@yahoo.com,8648050705,2019-07-05,Individual,,Jambi,Active
+CUST000209,,user209@outlook.com,8708121468,2024-04-26,Individual,Samarinda,Kalimantan Timur,Active
+CUST000210,,user210@outlook.com,8143400463,2020-03-24,Individual,Mamuju,Sulawesi Barat,Active
+CUST000211,,user211@hotmail.com,8817888322,2020-02-28,Individual,Palangkaraya,Kalimantan Tengah,Active
+CUST000212,,user212@outlook.com,8149861842,2019-03-23,Individual,Makassar,,Active
+CUST000213,,user213@hotmail.com,8382733476,2022-03-31,Individual,Banjarmasin,Kalimantan Selatan,Active
+CUST000214,,user214@outlook.com,8801514770,2024-01-14,Individual,Semarang,Jawa Timur,Active
+CUST000215,,user215@yahoo.com,8478921345,2023-08-01,Individual,Bengkulu,Bengkulu,Active
+CUST000216,,user216@gmail.com,8249216081,2021-06-19,Individual,Medan,Sumatera Utara,Active
+CUST000217,,user217@hotmail.com,8300688440,2019-11-19,Small Business,Bengkulu,Bengkulu,Active
+CUST000218,,user218@yahoo.com,8454576141,2023-01-15,Individual,Jakarta Selatan,DKI Jakarta,Active
+CUST000219,,user219@yahoo.com,8794989306,2023-09-03,Individual,Banda Aceh,Aceh,Active
+CUST000221,,user221@yahoo.com,8377304178,2024-03-04,Individual,Medan,Sumatera Utara,Active
+CUST000222,,user222@gmail.com,8881656471,2022-09-17,Individual,Batam,Kepulauan Riau,Active
+CUST000223,,user223@outlook.com,8283144690,2020-03-25,Individual,Banda Aceh,Aceh,Active
+CUST000224,,user224@yahoo.com,8648472597,2020-06-25,Individual,Medan,Sumatera Utara,Active
+CUST000225,,user225@outlook.com,8173919503,2020-04-15,Individual,,Jambi,Active
+CUST000226,,user226@yahoo.com,8641551915,2022-11-02,Individual,Banda Aceh,Aceh,Active
+CUST000227,,user227@yahoo.com,8760080817,2022-05-13,Individual,Surabaya,Jawa Timur,Active
+CUST000228,,user228@gmail.com,8808017427,2019-09-24,Small Business,Tarakan,Kalimantan Utara,Active
+CUST000230,,user230@gmail.com,8560588284,2020-04-14,Individual,Pontianak,Kalimantan Barat,Active
+CUST000231,,user231@gmail.com,8373286650,2021-09-04,Individual,Mamuju,Sulawesi Barat,Active
+CUST000232,,user232@hotmail.com,8683826742,2021-04-16,Individual,Pekanbaru,Riau,Active
+CUST000233,,user233@gmail.com,8226517500,2021-11-30,Individual,Bandung,Jawa Barat,Active
+CUST000234,,user234@hotmail.com,8214442861,2019-11-13,Individual,Banda Aceh,Aceh,Active
+CUST000235,,user235@outlook.com,8757001875,2020-07-18,Individual,Palu,Sulawesi Tengah,Active
+CUST000236,,user236@outlook.com,8700322425,2022-02-10,Individual,Pontianak,Kalimantan Barat,Active
+CUST000237,,user237@hotmail.com,8527488567,2023-02-15,Individual,Tangerang,Banten,Active
+CUST000238,,user238@yahoo.com,8850879936,2024-04-28,Individual,Medan,Sumatera Utara,Active
+CUST000239,,user239@hotmail.com,8759304715,2022-11-28,Individual,Palu,Sulawesi Tengah,Active
+CUST000240,,user240@gmail.com,8983963824,2019-10-25,Individual,Pontianak,Kalimantan Barat,Active
+CUST000241,,user241@gmail.com,8498181191,2019-06-13,Individual,Tarakan,Kalimantan Utara,Active
+CUST000242,,user242@hotmail.com,8741531280,2019-04-28,Individual,Mamuju,Sulawesi Barat,Active
+CUST000243,,user243@outlook.com,,2023-10-08,Corporate,Palu,Sulawesi Tengah,Active
+CUST000244,,user244@yahoo.com,,2022-05-12,Small Business,Palangkaraya,Kalimantan Tengah,Active
+CUST000245,,user245@yahoo.com,8486267885,2020-05-04,Individual,Makassar,,Active
+CUST000246,,user246@hotmail.com,8479167941,2022-10-03,Small Business,,Jambi,Active
+CUST000247,,user247@gmail.com,8173677125,2024-02-26,Individual,Semarang,Jawa Timur,Active
+CUST000248,,user248@hotmail.com,8975652436,2020-07-20,Individual,Padang,Sumatera Barat,Active
+CUST000249,,user249@outlook.com,8380362052,2019-12-25,Individual,Banda Aceh,Aceh,Active
+CUST000250,,user250@hotmail.com,8225637455,2023-07-03,Individual,Palangkaraya,Kalimantan Tengah,Active
+CUST000251,,user251@hotmail.com,8504886868,2022-02-27,Individual,Pontianak,Kalimantan Barat,Active
+CUST000252,,user252@outlook.com,8730100172,2023-11-01,Individual,Bandung,Jawa Barat,Active
+CUST000253,,user253@outlook.com,8336633719,2022-10-18,Individual,Manado,Sulawesi Utara,Active
+CUST000254,,user254@hotmail.com,8110440194,2022-12-06,Individual,Pekanbaru,Riau,Active
+CUST000255,,user255@hotmail.com,8291647610,2021-09-02,Individual,Bandar Lampung,Lampung,Active
+CUST000256,,user256@hotmail.com,8901179178,2022-10-31,Individual,Palembang,Sumatera Selatan,Active
+CUST000257,,user257@yahoo.com,8322026871,2020-04-14,Individual,Palembang,Sumatera Selatan,Active
+CUST000258,,user258@hotmail.com,8214556759,2019-09-03,Individual,Semarang,Jawa Timur,Active
+CUST000259,,user259@gmail.com,8681403225,2024-05-15,Individual,Surabaya,Jawa Timur,Active
+CUST000260,,user260@hotmail.com,8716885481,2023-11-15,Individual,Pekanbaru,Riau,Active
+CUST000261,,user261@hotmail.com,8905488247,2022-03-27,Individual,Tangerang,Banten,Active
+CUST000262,,user262@gmail.com,8522750321,2023-10-29,Individual,Palu,Sulawesi Tengah,Active
+CUST000263,,user263@gmail.com,8593997037,2020-10-08,Individual,Manado,Sulawesi Utara,Active
+CUST000264,,user264@outlook.com,8449434459,2021-01-10,Individual,Tarakan,Kalimantan Utara,Active
+CUST000265,,user265@hotmail.com,8606103226,2024-05-17,Individual,Tarakan,Kalimantan Utara,Active
+CUST000266,,user266@outlook.com,8852384450,2023-03-21,Small Business,Bengkulu,Bengkulu,Active
+CUST000267,,user267@outlook.com,8240809604,2022-03-25,Individual,Palu,Sulawesi Tengah,Active
+CUST000268,,user268@hotmail.com,8696291839,2021-06-04,Individual,,Jambi,Active
+CUST000269,,user269@yahoo.com,8110460711,2019-12-28,Individual,Banda Aceh,Aceh,Active
+CUST000270,,user270@hotmail.com,8422159250,2020-05-28,Individual,Banjarmasin,Kalimantan Selatan,Active
+CUST000272,,user272@gmail.com,8459334721,2020-06-16,Corporate,Bengkulu,Bengkulu,Active
+CUST000273,,user273@hotmail.com,8542124908,2019-09-06,Individual,Bengkulu,Bengkulu,Active
+CUST000274,,user274@yahoo.com,8797787747,2022-08-22,Individual,Banjarmasin,Kalimantan Selatan,Active
+CUST000275,,user275@hotmail.com,8648085639,2021-09-25,Individual,Mamuju,Sulawesi Barat,Active
+CUST000276,,user276@outlook.com,8597950004,2022-07-17,Individual,Tangerang,Banten,Active
+CUST000277,,user277@hotmail.com,8757463001,2022-03-16,Small Business,,Jambi,Active
+CUST000278,,user278@yahoo.com,8436598800,2020-10-10,Small Business,Makassar,,Active
+CUST000279,,user279@outlook.com,8577706000,2023-05-19,Individual,Bengkulu,Bengkulu,Active
+CUST000280,,user280@outlook.com,8297446299,2023-10-16,Individual,Bandung,Jawa Barat,Active
+CUST000281,,user281@hotmail.com,8852367594,2023-03-16,Individual,Semarang,Jawa Timur,Active
+CUST000282,,user282@gmail.com,8608079376,2022-01-28,Individual,Surabaya,Jawa Timur,Active
+CUST000283,,user283@gmail.com,8763682156,2019-11-15,Individual,Semarang,Jawa Timur,Active
+CUST000284,,user284@hotmail.com,8891984698,2020-08-04,Individual,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+CUST000285,,user285@yahoo.com,,2022-09-20,Individual,Bengkulu,Bengkulu,Active
+CUST000286,,user286@outlook.com,8680447823,2024-03-29,Individual,Pekanbaru,Riau,Active
+CUST000287,,user287@yahoo.com,8590209766,2022-07-16,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000288,,user288@hotmail.com,8617169553,2022-01-10,Small Business,Padang,Sumatera Barat,Active
+CUST000289,,user289@hotmail.com,8267200433,2020-09-13,Individual,Bandung,Jawa Barat,Active
+CUST000290,,user290@yahoo.com,8603797467,2021-12-31,Individual,Bandung,Jawa Barat,Active
+CUST000291,,user291@outlook.com,8922345794,2021-05-31,Individual,Batam,Kepulauan Riau,Active
+CUST000292,,user292@hotmail.com,8701890658,2021-06-14,Individual,,Jambi,Active
+CUST000293,,user293@outlook.com,8336859315,2020-06-22,Individual,Semarang,Jawa Timur,Active
+CUST000294,,user294@hotmail.com,8897711678,2021-12-25,Individual,Pekanbaru,Riau,Active
+CUST000295,,user295@yahoo.com,8218494225,2022-07-28,Individual,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+CUST000296,,user296@outlook.com,8120825650,2019-11-08,Individual,Surabaya,Jawa Timur,Active
+CUST000298,,user298@yahoo.com,8115810687,2021-10-07,Individual,Palembang,Sumatera Selatan,Active
+CUST000299,,user299@outlook.com,8597877404,2022-11-28,Individual,Surabaya,Jawa Timur,Active
+CUST000300,,user300@yahoo.com,8932850970,2021-03-14,Individual,Semarang,Jawa Timur,Active
+CUST000301,,user301@hotmail.com,8989328868,2019-01-26,Individual,Jakarta Selatan,DKI Jakarta,Active
+CUST000302,,user302@outlook.com,8575625690,2020-05-21,Small Business,Kendari,Sulawesi Tenggara,Active
+CUST000303,,user303@gmail.com,8323818407,2021-08-26,Individual,,Jambi,Active
+CUST000304,,user304@hotmail.com,8881938614,2019-03-28,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000305,,user305@hotmail.com,8420848110,2020-02-11,Individual,Bengkulu,Bengkulu,Active
+CUST000306,,user306@yahoo.com,8353366389,2022-07-20,Individual,Banda Aceh,Aceh,Active
+CUST000307,,user307@hotmail.com,8524995927,2023-06-05,Individual,Padang,Sumatera Barat,Active
+CUST000309,,user309@yahoo.com,8198141669,2022-11-05,Individual,Tarakan,Kalimantan Utara,Active
+CUST000310,,user310@gmail.com,8792107026,2019-11-12,Individual,Manado,Sulawesi Utara,Active
+CUST000311,,user311@outlook.com,8699524216,2023-06-03,Individual,Makassar,,Active
+CUST000312,,user312@outlook.com,8122927426,2022-11-12,Individual,,Jambi,Active
+CUST000313,,user313@gmail.com,8569762050,2022-02-18,Individual,Batam,Kepulauan Riau,Active
+CUST000314,,user314@yahoo.com,8447549695,2023-02-08,Individual,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+CUST000315,,user315@yahoo.com,8266457342,2021-07-09,Individual,Batam,Kepulauan Riau,Active
+CUST000316,,user316@outlook.com,,2022-07-30,Individual,Palangkaraya,Kalimantan Tengah,Active
+CUST000317,,user317@gmail.com,8490922764,2023-05-09,Individual,Tarakan,Kalimantan Utara,Active
+CUST000318,,user318@outlook.com,8833606377,2021-10-15,Individual,Mamuju,Sulawesi Barat,Active
+CUST000319,,user319@hotmail.com,8445770698,2019-08-15,Individual,Jakarta Selatan,DKI Jakarta,Active
+CUST000320,,user320@yahoo.com,8133579936,2020-02-18,Individual,Jakarta Selatan,DKI Jakarta,Active
+CUST000321,,user321@outlook.com,8664596387,2022-07-01,Individual,Manado,Sulawesi Utara,Active
+CUST000323,,user323@outlook.com,8993436624,2019-06-13,Individual,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+CUST000324,,user324@outlook.com,8952818991,2022-12-21,Individual,Surabaya,Jawa Timur,Active
+CUST000326,,user326@gmail.com,8348053691,2021-12-24,Individual,,Jambi,Active
+CUST000327,,user327@yahoo.com,8292090149,2022-02-17,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000328,,user328@hotmail.com,8854357762,2022-09-24,Individual,Banda Aceh,Aceh,Active
+CUST000329,,user329@yahoo.com,8641909751,2020-11-22,Individual,Palu,Sulawesi Tengah,Active
+CUST000330,,user330@outlook.com,8438395096,2022-01-31,Small Business,Bandar Lampung,Lampung,Active
+CUST000331,,user331@outlook.com,8447302779,2022-05-31,Individual,Padang,Sumatera Barat,Active
+CUST000332,,user332@hotmail.com,8585764529,2021-07-05,Individual,,Jambi,Active
+CUST000334,,user334@hotmail.com,8330664237,2023-10-19,Small Business,Bandar Lampung,Lampung,Active
+CUST000335,,user335@hotmail.com,8648973579,2022-02-13,Individual,Samarinda,Kalimantan Timur,Active
+CUST000336,,user336@gmail.com,8267618731,2019-10-11,Individual,Pekanbaru,Riau,Active
+CUST000337,,user337@yahoo.com,8422447282,2019-07-08,Individual,Samarinda,Kalimantan Timur,Active
+CUST000338,,user338@gmail.com,8951374399,2021-09-15,Individual,Medan,Sumatera Utara,Active
+CUST000339,,user339@gmail.com,8422544802,2019-03-18,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000340,,user340@gmail.com,8459048149,2020-12-13,Individual,Banda Aceh,Aceh,Active
+CUST000341,,user341@yahoo.com,8746716453,2024-03-16,Individual,Bandung,Jawa Barat,Active
+CUST000342,,user342@gmail.com,8144219109,2020-10-15,Individual,Banjarmasin,Kalimantan Selatan,Active
+CUST000343,,user343@yahoo.com,8823310328,2023-02-07,Individual,,Jambi,Active
+CUST000344,,user344@gmail.com,8411152157,2023-05-30,Individual,,Jambi,Active
+CUST000345,,user345@outlook.com,8152947385,2022-01-27,Individual,,Jambi,Active
+CUST000346,,user346@outlook.com,8239989275,2023-04-10,Individual,Tangerang,Banten,Active
+CUST000348,,user348@yahoo.com,8934052476,2021-05-30,Individual,Bandar Lampung,Lampung,Active
+CUST000349,,user349@gmail.com,8554773258,2021-01-18,Individual,Bengkulu,Bengkulu,Active
+CUST000350,,user350@gmail.com,8281736451,2020-12-17,Small Business,Tarakan,Kalimantan Utara,Active
+CUST000351,,user351@yahoo.com,8978505410,2020-04-23,Individual,Palembang,Sumatera Selatan,Active
+CUST000352,,user352@gmail.com,8158559749,2020-05-12,Small Business,Tarakan,Kalimantan Utara,Active
+CUST000353,,user353@hotmail.com,,2022-11-21,Individual,Jakarta Selatan,DKI Jakarta,Active
+CUST000354,,user354@hotmail.com,8677678962,2020-03-09,Individual,Palembang,Sumatera Selatan,Active
+CUST000355,,user355@outlook.com,8251770634,2022-11-24,Individual,Manado,Sulawesi Utara,Active
+CUST000356,,user356@gmail.com,8164542674,2020-08-04,Individual,Palembang,Sumatera Selatan,Active
+CUST000357,,user357@gmail.com,8108948759,2019-05-17,Individual,,Jambi,Active
+CUST000358,,user358@hotmail.com,8120485196,2020-08-22,Individual,Makassar,,Active
+CUST000359,,user359@gmail.com,8620402022,2023-11-11,Individual,Tarakan,Kalimantan Utara,Active
+CUST000360,,user360@outlook.com,8865007974,2019-02-14,Small Business,Surabaya,Jawa Timur,Active
+CUST000361,,user361@hotmail.com,8899283454,2019-11-18,Small Business,Bandung,Jawa Barat,Active
+CUST000362,,user362@hotmail.com,8638214657,2020-07-18,Individual,Surabaya,Jawa Timur,Active
+CUST000363,,user363@gmail.com,8400855850,2020-04-06,Individual,Tangerang,Banten,Active
+CUST000364,,user364@yahoo.com,8510391769,2021-12-02,Individual,Palu,Sulawesi Tengah,Active
+CUST000365,,user365@yahoo.com,8715145139,2019-11-09,Individual,Banda Aceh,Aceh,Active
+CUST000366,,user366@hotmail.com,8241489248,2020-02-28,Individual,Makassar,,Active
+CUST000367,,user367@yahoo.com,8431784498,2022-11-11,Individual,Manado,Sulawesi Utara,Active
+CUST000368,,user368@outlook.com,8926834891,2019-10-25,Individual,Makassar,,Active
+CUST000369,,user369@hotmail.com,8672263097,2024-04-26,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000370,,user370@yahoo.com,8921879587,2020-10-14,Individual,Banda Aceh,Aceh,Active
+CUST000371,,user371@hotmail.com,8301792175,2019-08-07,Individual,Tangerang,Banten,Active
+CUST000372,,user372@hotmail.com,8757518717,2020-04-17,Individual,Tarakan,Kalimantan Utara,Active
+CUST000373,,user373@hotmail.com,8937332060,2021-09-03,Individual,Tangerang,Banten,Active
+CUST000374,,user374@hotmail.com,8516032315,2021-10-03,Individual,Pontianak,Kalimantan Barat,Active
+CUST000375,,user375@gmail.com,8116121432,2024-03-10,Individual,Pekanbaru,Riau,Active
+CUST000376,,user376@yahoo.com,8171013341,2019-12-29,Individual,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+CUST000377,,user377@hotmail.com,8364982130,2021-05-25,Individual,,Jambi,Active
+CUST000378,,user378@outlook.com,8523216102,2022-06-06,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000379,,user379@gmail.com,8584912105,2021-07-24,Individual,Surabaya,Jawa Timur,Active
+CUST000380,,user380@outlook.com,8142146105,2022-02-16,Small Business,,Jambi,Active
+CUST000381,,user381@gmail.com,8571967377,2021-03-26,Individual,Batam,Kepulauan Riau,Active
+CUST000382,,user382@yahoo.com,8758347916,2024-02-26,Individual,Surabaya,Jawa Timur,Active
+CUST000383,,user383@outlook.com,8585007134,2019-07-05,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000384,,user384@yahoo.com,8447313528,2021-07-12,Individual,Bandung,Jawa Barat,Active
+CUST000385,,user385@yahoo.com,8196829676,2020-05-27,Small Business,Bandar Lampung,Lampung,Active
+CUST000386,,user386@yahoo.com,8232654592,2019-07-06,Individual,Jakarta Selatan,DKI Jakarta,Active
+CUST000387,,user387@gmail.com,8512410679,2023-01-28,Individual,Palangkaraya,Kalimantan Tengah,Active
+CUST000388,,user388@outlook.com,8283486349,2024-02-12,Individual,Bandar Lampung,Lampung,Active
+CUST000389,,user389@yahoo.com,8255270986,2020-01-02,Individual,Mamuju,Sulawesi Barat,Active
+CUST000390,,user390@hotmail.com,8579166131,2020-08-14,Individual,Makassar,,Active
+CUST000391,,user391@yahoo.com,,2023-04-17,Individual,Pekanbaru,Riau,Active
+CUST000392,,user392@outlook.com,8106174601,2022-05-30,Individual,Pontianak,Kalimantan Barat,Active
+CUST000393,,user393@outlook.com,8574460059,2019-06-12,Individual,Tarakan,Kalimantan Utara,Active
+CUST000394,,user394@hotmail.com,8698663298,2023-08-07,Corporate,Palembang,Sumatera Selatan,Active
+CUST000395,,user395@gmail.com,8134823688,2022-09-28,Individual,Samarinda,Kalimantan Timur,Active
+CUST000396,,user396@gmail.com,8547704086,2020-01-01,Individual,Medan,Sumatera Utara,Active
+CUST000397,,user397@yahoo.com,8904592121,2022-03-31,Individual,Bengkulu,Bengkulu,Active
+CUST000399,,user399@gmail.com,8244467442,2019-09-07,Individual,Manado,Sulawesi Utara,Active
+CUST000400,,user400@outlook.com,8847141233,2020-03-04,Individual,Tarakan,Kalimantan Utara,Active
+CUST000401,,user401@gmail.com,8839436897,2022-05-23,Individual,Manado,Sulawesi Utara,Active
+CUST000402,,user402@hotmail.com,8717554752,2022-06-30,Individual,Bengkulu,Bengkulu,Active
+CUST000403,,user403@outlook.com,8778451941,2021-10-16,Individual,Pontianak,Kalimantan Barat,Active
+CUST000404,,user404@yahoo.com,8307828574,2019-01-04,Individual,Jakarta Selatan,DKI Jakarta,Active
+CUST000405,,user405@gmail.com,8322619790,2023-06-26,Individual,Tarakan,Kalimantan Utara,Active
+CUST000406,,user406@hotmail.com,8965482632,2022-07-29,Individual,Palembang,Sumatera Selatan,Active
+CUST000407,,user407@hotmail.com,8172838419,2020-09-22,Individual,Batam,Kepulauan Riau,Active
+CUST000408,,user408@gmail.com,8457859780,2020-11-30,Individual,,Jambi,Active
+CUST000409,,user409@gmail.com,8308322646,2020-11-07,Individual,Bandar Lampung,Lampung,Active
+CUST000410,,user410@outlook.com,8793263796,2019-10-06,Individual,Pontianak,Kalimantan Barat,Active
+CUST000411,,user411@hotmail.com,8974204752,2021-04-27,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000412,,user412@hotmail.com,8120098766,2020-03-02,Individual,Samarinda,Kalimantan Timur,Active
+CUST000413,,user413@hotmail.com,8260314927,2020-07-28,Individual,Bandung,Jawa Barat,Active
+CUST000414,,user414@yahoo.com,8518293601,2020-01-19,Individual,Tarakan,Kalimantan Utara,Active
+CUST000415,,user415@hotmail.com,8437691152,2022-12-24,Individual,Surabaya,Jawa Timur,Active
+CUST000416,,user416@yahoo.com,8990623169,2024-05-01,Individual,Batam,Kepulauan Riau,Active
+CUST000417,,user417@gmail.com,8140152609,2023-05-12,Small Business,Palembang,Sumatera Selatan,Active
+CUST000418,,user418@gmail.com,8636929225,2019-11-12,Individual,Palembang,Sumatera Selatan,Active
+CUST000419,,user419@hotmail.com,8253861882,2023-04-25,Individual,Jakarta Selatan,DKI Jakarta,Active
+CUST000420,,user420@yahoo.com,8139247989,2021-07-29,Individual,,Jambi,Active
+CUST000421,,user421@gmail.com,8147276808,2022-11-08,Individual,Tarakan,Kalimantan Utara,Active
+CUST000422,,user422@gmail.com,8922679709,2022-09-11,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000423,,user423@hotmail.com,8325320091,2020-10-19,Individual,Palembang,Sumatera Selatan,Active
+CUST000424,,user424@hotmail.com,8820613955,2019-08-29,Individual,Pekanbaru,Riau,Active
+CUST000425,,user425@gmail.com,8700893588,2021-11-18,Individual,Jakarta Selatan,DKI Jakarta,Active
+CUST000426,,user426@hotmail.com,8856294020,2023-07-05,Individual,Batam,Kepulauan Riau,Active
+CUST000427,,user427@hotmail.com,8463718119,2022-01-12,Individual,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+CUST000428,,user428@gmail.com,8157767179,2019-06-26,Individual,Banda Aceh,Aceh,Active
+CUST000429,,user429@outlook.com,8435480597,2020-11-11,Individual,Palembang,Sumatera Selatan,Active
+CUST000431,,user431@outlook.com,8433280534,2022-11-02,Small Business,Makassar,,Active
+CUST000432,,user432@yahoo.com,8254319982,2023-10-30,Individual,Tarakan,Kalimantan Utara,Active
+CUST000433,,user433@yahoo.com,8814232253,2020-11-07,Individual,Bandar Lampung,Lampung,Active
+CUST000435,,user435@hotmail.com,8236788265,2021-11-06,Corporate,Jakarta Selatan,DKI Jakarta,Active
+CUST000436,,user436@gmail.com,8797343144,2019-05-26,Individual,Batam,Kepulauan Riau,Active
+CUST000437,,user437@outlook.com,8361661280,2022-01-27,Individual,Medan,Sumatera Utara,Active
+CUST000438,,user438@hotmail.com,8845241098,2022-04-25,Individual,Banda Aceh,Aceh,Active
+CUST000439,,user439@hotmail.com,8353568773,2019-12-21,Individual,Palu,Sulawesi Tengah,Active
+CUST000440,,user440@outlook.com,8740031190,2021-08-06,Individual,Bandar Lampung,Lampung,Active
+CUST000441,,user441@yahoo.com,8535717670,2019-05-23,Individual,Tarakan,Kalimantan Utara,Active
+CUST000442,,user442@outlook.com,8792551787,2022-09-14,Individual,Surabaya,Jawa Timur,Active
+CUST000443,,user443@gmail.com,8809615999,2019-11-02,Individual,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+CUST000444,,user444@outlook.com,8831773074,2023-12-02,Individual,Bandar Lampung,Lampung,Active
+CUST000445,,user445@hotmail.com,8566784595,2023-01-10,Individual,Bengkulu,Bengkulu,Active
+CUST000446,,user446@outlook.com,8415878379,2019-05-08,Individual,Bengkulu,Bengkulu,Active
+CUST000447,,user447@gmail.com,8981277125,2021-01-05,Individual,Jakarta Selatan,DKI Jakarta,Active
+CUST000448,,user448@yahoo.com,8733683639,2021-03-18,Individual,Makassar,,Active
+CUST000449,,user449@outlook.com,8326791535,2022-09-18,Individual,Medan,Sumatera Utara,Active
+CUST000450,,user450@outlook.com,8486856173,2023-09-17,Individual,Banda Aceh,Aceh,Active
+CUST000451,,user451@yahoo.com,8177036673,2022-08-20,Individual,Bandung,Jawa Barat,Active
+CUST000452,,user452@outlook.com,8245788098,2019-06-23,Individual,Tangerang,Banten,Active
+CUST000453,,user453@outlook.com,8846669883,2022-05-22,Individual,Banda Aceh,Aceh,Active
+CUST000454,,user454@outlook.com,8583232960,2021-02-26,Individual,Bengkulu,Bengkulu,Active
+CUST000455,,user455@gmail.com,8884812266,2020-04-29,Small Business,Manado,Sulawesi Utara,Active
+CUST000456,,user456@hotmail.com,,2019-03-19,Individual,Samarinda,Kalimantan Timur,Active
+CUST000457,,user457@outlook.com,8185967108,2019-10-18,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000458,,user458@hotmail.com,8184003766,2021-12-07,Individual,Tarakan,Kalimantan Utara,Active
+CUST000459,,user459@gmail.com,8678958595,2023-06-23,Small Business,Samarinda,Kalimantan Timur,Active
+CUST000461,,user461@hotmail.com,8957085656,2020-08-26,Individual,Batam,Kepulauan Riau,Active
+CUST000462,,user462@hotmail.com,8705275005,2020-06-17,Individual,Surabaya,Jawa Timur,Active
+CUST000463,,user463@gmail.com,8413267622,2023-07-15,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000464,,user464@gmail.com,8182530219,2023-10-10,Individual,Pekanbaru,Riau,Active
+CUST000465,,user465@hotmail.com,8115250362,2023-02-27,Individual,Jakarta Selatan,DKI Jakarta,Active
+CUST000466,,user466@yahoo.com,8497034107,2023-07-13,Small Business,Medan,Sumatera Utara,Active
+CUST000467,,user467@outlook.com,8666279467,2023-11-01,Individual,Surabaya,Jawa Timur,Active
+CUST000468,,user468@yahoo.com,8982319181,2019-11-12,Corporate,Pontianak,Kalimantan Barat,Active
+CUST000469,,user469@outlook.com,8572645050,2023-01-26,Individual,Makassar,,Active
+CUST000470,,user470@hotmail.com,8383892497,2023-03-28,Individual,Jakarta Selatan,DKI Jakarta,Active
+CUST000471,,user471@outlook.com,8907913252,2024-03-04,Corporate,Banjarmasin,Kalimantan Selatan,Active
+CUST000472,,user472@outlook.com,8255853446,2021-12-22,Small Business,Banda Aceh,Aceh,Active
+CUST000473,,user473@outlook.com,8438968079,2024-05-23,Individual,Palangkaraya,Kalimantan Tengah,Active
+CUST000475,,user475@hotmail.com,8386783352,2023-07-02,Corporate,Jakarta Selatan,DKI Jakarta,Active
+CUST000476,,user476@outlook.com,8904330243,2020-05-10,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000477,,user477@hotmail.com,8293184033,2020-10-03,Individual,Banjarmasin,Kalimantan Selatan,Active
+CUST000479,,user479@yahoo.com,8370471388,2020-01-31,Small Business,Surabaya,Jawa Timur,Active
+CUST000480,,user480@yahoo.com,8785136281,2019-09-07,Individual,Manado,Sulawesi Utara,Active
+CUST000481,,user481@yahoo.com,8920186027,2024-01-17,Individual,Makassar,,Active
+CUST000482,,user482@gmail.com,8372017183,2020-08-26,Individual,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+CUST000483,,user483@outlook.com,8396764585,2023-04-25,Individual,Banda Aceh,Aceh,Active
+CUST000484,,user484@hotmail.com,8938303850,2019-06-01,Individual,Pekanbaru,Riau,Active
+CUST000485,,user485@hotmail.com,8377281586,2024-05-11,Individual,Pekanbaru,Riau,Active
+CUST000486,,user486@yahoo.com,8291600816,2022-08-14,Individual,Pontianak,Kalimantan Barat,Active
+CUST000487,,user487@outlook.com,8790779098,2019-08-06,Individual,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+CUST000488,,user488@gmail.com,8881195659,2020-05-28,Individual,Mamuju,Sulawesi Barat,Active
+CUST000489,,user489@yahoo.com,8100931617,2024-03-25,Small Business,Surabaya,Jawa Timur,Active
+CUST000490,,user490@hotmail.com,8717015275,2019-01-08,Small Business,Palangkaraya,Kalimantan Tengah,Active
+CUST000491,,user491@outlook.com,8881434315,2023-05-19,Individual,Semarang,Jawa Timur,Active
+CUST000493,,user493@hotmail.com,8425159172,2021-03-31,Small Business,Surabaya,Jawa Timur,Active
+CUST000494,,user494@gmail.com,8465139645,2019-06-14,Individual,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+CUST000495,,user495@yahoo.com,8142231531,2024-06-04,Individual,,Jambi,Active
+CUST000496,,user496@outlook.com,8777119907,2022-11-11,Individual,Bengkulu,Bengkulu,Active
+CUST000497,,user497@outlook.com,8250262600,2019-03-15,Individual,Palembang,Sumatera Selatan,Active
+CUST000498,,user498@yahoo.com,8167637817,2023-06-12,Individual,Banjarmasin,Kalimantan Selatan,Active
+CUST000499,,user499@outlook.com,8117629000,2019-03-17,Individual,Bandar Lampung,Lampung,Active
+CUST000001,Reza Rahayu,reza.rahayu741@yahoo.com,628838930103,2020-07-17,Individual,Blitar,Jawa Timur,Active
+CUST000002,Nanda Saputra,nanda.saputra434@hotmail.com,628177754864,2021-11-25,Small Business,Palembang,Sumatera Selatan,Active
+CUST000003,Hani Nugroho,hani.nugroho195@gmail.com,628278077999,2021-05-26,Individual,Tangerang,Banten,Active
+CUST000004,Oscar Dewi,oscar.dewi101@yahoo.com,628214965789,2022-09-12,Individual,Banda Aceh,Aceh,Active
+CUST000005,Bella Permata,bella.permata925@hotmail.com,628581036161,2021-08-07,Individual,Mataram,Nusa Tenggara Barat,Active
+CUST000007,Budi Lestari,budi.lestari59@yahoo.com,628301954280,2020-06-13,Individual,Bengkulu,Bengkulu,Active
+CUST000008,Citra Mahendra,citra.mahendra70@hotmail.com,628825130808,2023-05-02,Individual,Semarang,Jawa Timur,Active
+CUST000009,Tono Wijaya,tono.wijaya430@gmail.com,628949770838,2021-06-27,Individual,Gorontalo,Gorontalo,Active
+CUST000010,Eko Wati,eko.wati469@yahoo.com,628502217071,2023-01-06,Individual,Banda Aceh,Aceh,Active
+CUST000012,Wahyu Wati,wahyu.wati627@gmail.com,628939874152,2021-06-25,Individual,Padang,Sumatera Barat,Active
+CUST000013,Candra Kusuma,candra.kusuma761@yahoo.com,628874533779,2021-12-03,Individual,Banda Aceh,Aceh,Active
+CUST000014,Vina Putra,vina.putra518@hotmail.com,628162548511,2020-03-31,Individual,Bandung,Jawa Barat,Active
+CUST000015,Kartini Rahayu,kartini.rahayu653@gmail.com,628433710895,2020-06-03,Small Business,Madiun,Jawa Timur,Active
+CUST000016,,candra.rahayu559@yahoo.com,628147194416,2021-09-23,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000017,Candra Santoso,candra.santoso921@hotmail.com,628975186414,2024-05-16,Individual,Bogor,Jawa Barat,Active
+CUST000018,Candra Handoko,candra.handoko998@gmail.com,628893592974,2021-01-02,Individual,Solo,Jawa Timur,Active
+CUST000019,Dina Lestari,dina.lestari802@yahoo.com,628443670896,2024-11-21,Individual,Semarang,Jawa Timur,Active
+CUST000020,Bella Anggraini,bella.anggraini228@hotmail.com,628358722606,2023-09-13,Small Business,,Jambi,Active
+CUST000021,Mawar Lestari,mawar.lestari286@gmail.com,,2020-02-26,Individual,Padang,Sumatera Barat,Active
+CUST000022,Candra Putra,candra.putra183@yahoo.com,628142818692,2024-02-01,Small Business,Makassar,,Active
+CUST000023,Nanda Mahendra,nanda.mahendra524@hotmail.com,628421744682,2022-06-12,Small Business,Bandung,Jawa Barat,Active
+CUST000024,Qori Dewi,qori.dewi704@gmail.com,628186539837,2021-10-04,Individual,Blitar,Jawa Timur,Active
+CUST000025,Bella Kusuma,bella.kusuma738@yahoo.com,628517751158,2021-08-28,Individual,Bogor,Jawa Barat,Active
+CUST000026,Eko Nugroho,eko.nugroho431@hotmail.com,628963919694,32-13-2023,Individual,Bandung,Jawa Barat,Active
+CUST000027,Joko Wati,joko.wati216@gmail.com,628664585314,2022-08-27,Individual,Solo,Jawa Timur,Active
+CUST000028,Fitri Wijaya,fitri.wijaya291@yahoo.com,628756623525,2024-07-09,Individual,,Jambi,Active
+CUST000029,Eko Pratama,eko.pratama48@hotmail.com,628687953166,2023-03-24,Individual,,Jambi,Active
+CUST000030,Wahyu Permata,wahyu.permata507@gmail.com,628615093379,2020-12-26,Individual,Madiun,Jawa Timur,Active
+CUST000031,Qori Suryadi,qori.suryadi52@yahoo.com,628278795419,2022-12-23,Individual,,,Active
+CUST000032,Tono Lestari,tono.lestari973@hotmail.com,628648481188,2021-06-14,Individual,SALATIGA,Jawa Timur,Active
+CUST000033,Hani Putra,hani.putra785@gmail.com,628769130188,2024-01-01,Individual,Samarinda,Kalimantan Timur,Active
+CUST000034,Hani Putra,hani.putra344@yahoo.com,628397426265,2020-11-08,Individual,Yogyakarta,Jawa Timur,Active
+CUST000035,Guntur Wijaya,guntur.wijaya425@hotmail.com,628626551268,2024-09-01,Individual,Denpasar,Bali,Active
+CUST000036,Mawar Setiawan,mawar.setiawan969@gmail.com,628837381734,2021-09-03,Individual,SALATIGA,Jawa Timur,Active
+CUST000037,Mawar Handoko,mawar.handoko552@yahoo.com,628724681284,2020-02-29,Individual,Mamuju,Sulawesi Barat,Active
+CUST000038,Kartini Permata,kartini.permata742@hotmail.com,628137610562,2023-03-01,Individual,Blitar,Jawa Timur,Active
+CUST000039,Andi Wijaya,andi.wijaya659@gmail.com,628694048907,2021-11-01,Individual,Banda Aceh,Aceh,Active
+CUST000040,Oscar Lestari,oscar.lestari346@yahoo.com,628585668371,2024-03-14,Individual,Bekasi,Jawa Barat,Active
+CUST000041,Budi Saputra,budi.saputra230@hotmail.com,628932151225,2024-09-14,Individual,Surabaya,Jawa Timur,Active
+CUST000042,Tono Rahayu,tono.rahayu245@gmail.com,628952919136,2023-12-03,Individual,Palangkaraya,Kalimantan Tengah,Active
+CUST000043,Yudi Saputra,yudi.saputra172@yahoo.com,628306218367,2023-03-25,Individual,Kediri,Jawa Timur,Active
+CUST000044,Dina Permata,dina.permata407@hotmail.com,628236059717,2023-05-14,Individual,Padang,Sumatera Barat,Active
+CUST000045,Zahra Setiawan,zahra.setiawan802@gmail.com,628156825112,2022-11-02,Individual,Mojokerto,Jawa Timur,Active
+CUST000046,Kartini Pratama,kartini.pratama870@yahoo.com,628568713146,2020-11-09,Small Business,Mataram,Nusa Tenggara Barat,Active
+CUST000047,Fitri Utama,fitri.utama989@hotmail.com,628698307727,2023-04-28,Individual,Banjarmasin,Kalimantan Selatan,Active
+CUST000048,Kartini Sari,kartini.sari851@gmail.com,628675091349,2020-02-28,Individual,Jayapura,Papua,Active
+CUST000049,Bella Lestari,bella.lestari187@yahoo.com,628535691890,2023-12-07,Individual,Banjarmasin,Kalimantan Selatan,Active
+CUST000050,Reza Pratama,reza.pratama530@hotmail.com,628725031966,2022-09-02,Individual,Mojokerto,Jawa Timur,Active
+CUST000051,Wahyu Anggraini,wahyu.anggraini459@gmail.com,628474717770,2023-09-21,Individual,Tasikmalaya,Jawa Barat,Active
+CUST000052,Lina Anggraini,lina.anggraini567@yahoo.com,628646549757,2021-09-19,Corporate,Palangkaraya,Kalimantan Tengah,Active
+CUST000053,Hani Kusuma,hani.kusuma739@hotmail.com,628346294016,2021-03-19,Individual,Solo,Jawa Timur,Active
+CUST000054,Putri Putra,putri.putra742@gmail.com,628865747930,2021-04-10,Small Business,Kendari,Sulawesi Tenggara,Active
+CUST000055,Fitri Wati,fitri.wati15@yahoo.com,628165901239,2020-09-15,Individual,Malang,Jawa Timur,Active
+CUST000056,Bella Anggraini,bella.anggraini106@hotmail.com,628115770422,2020-04-15,Small Business,Palangkaraya,Kalimantan Tengah,Active
+CUST000057,Bella Anggraini,bella.anggraini117@gmail.com,628187722755,2020-11-01,Individual,Cimahi,Jawa Barat,Active
+CUST000058,Joko Wijaya,joko.wijaya255@yahoo.com,628874786401,2022-06-25,Individual,Tarakan,Kalimantan Utara,Active
+CUST000059,Bella Setiawan,bella.setiawan440@hotmail.com,628882664863,2023-09-14,Individual,Medan,Sumatera Utara,Active
+CUST000060,Fitri Sari,fitri.sari178@gmail.com,628628558197,2023-05-01,Individual,Ternate,Maluku Utara,Active
+CUST000061,Joko Santoso,joko.santoso238@yahoo.com,628998617381,2024-06-01,Individual,Malang,Jawa Timur,Active
+CUST000062,Sari Nugroho,sari.nugroho436@hotmail.com,628244771676,2020-05-02,Small Business,Bandar Lampung,Lampung,Active
+CUST000063,Zahra Wati,zahra.wati610@gmail.com,628696101803,2022-04-04,Individual,Banjarmasin,Kalimantan Selatan,Active
+CUST000064,Qori Dewi,qori.dewi506@yahoo.com,628656407658,2021-05-27,Individual,Surabaya,Jawa Timur,Active
+CUST000065,Citra Sari,citra.sari985@hotmail.com,628961348050,2022-08-21,Individual,Depok,Jawa Barat,Active
+CUST000066,Umi Suryadi,umi.suryadi939@gmail.com,628454044882,2022-08-20,Individual,Manado,Sulawesi Utara,Active
+CUST000067,Nanda Lestari,nanda.lestari329@yahoo.com,628306533187,2023-09-18,Individual,Gorontalo,Gorontalo,Active
+CUST000068,Arif Dewi,arif.dewi38@hotmail.com,628505234550,2024-11-06,Individual,Manokwari,Papua Barat,Active
+CUST000069,Arif Pratama,arif.pratama674@gmail.com,628621909393,2023-06-29,Individual,SALATIGA,Jawa Timur,Active
+CUST000070,Putri Suryadi,putri.suryadi779@yahoo.com,628468350368,2022-09-19,Small Business,Padang,Sumatera Barat,Active
+CUST000071,Andi Mahendra,andi.mahendra819@hotmail.com,628403657144,2021-04-05,Individual,Padang,Sumatera Barat,Active
+CUST000072,Oscar Kusuma,oscar.kusuma664@gmail.com,628479537455,2022-08-25,Individual,Pontianak,Kalimantan Barat,Active
+CUST000073,Oscar Dewi,oscar.dewi149@yahoo.com,628869526867,2024-05-01,Individual,Denpasar,Bali,Active
+CUST000074,Kartini Utama,kartini.utama274@hotmail.com,628298491822,2022-09-18,Individual,Manado,Sulawesi Utara,Active
+CUST000075,Kartini Dewi,kartini.dewi782@gmail.com,628345006492,2022-02-23,Individual,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+CUST000076,Bella Handoko,bella.handoko45@yahoo.com,628587477326,2020-03-16,Individual,Pekanbaru,Riau,Active
+CUST000077,Qori Setiawan,qori.setiawan340@hotmail.com,628681257489,2020-10-22,Individual,Denpasar,Bali,Active
+CUST000078,Bella Rahayu,bella.rahayu77@gmail.com,628537668663,2024-10-11,Individual,Kediri,Jawa Timur,Active
+CUST000079,Bella Dewi,bella.dewi390@yahoo.com,628509186400,2023-07-16,Individual,Kediri,Jawa Timur,Active
+CUST000080,Dina Wati,dina.wati233@hotmail.com,628663791137,2021-09-05,Individual,Surabaya,Jawa Timur,Active
+CUST000081,Budi Lestari,budi.lestari816@gmail.com,628175921894,2022-12-23,Individual,Denpasar,Bali,Active
+CUST000082,Sari Hidayat,sari.hidayat175@yahoo.com,628887418028,2023-04-09,Individual,Batam,Kepulauan Riau,Active
+CUST000083,Hani Suryadi,hani.suryadi654@hotmail.com,628695825658,2023-01-24,Individual,Bandar Lampung,Lampung,Active
+CUST000084,Citra Suryadi,citra.suryadi968@gmail.com,628918118722,2024-09-27,Individual,Tarakan,Kalimantan Utara,Active
+CUST000085,Guntur Permata,guntur.permata874@yahoo.com,628837022335,2021-08-28,Individual,Madiun,Jawa Timur,Active
+CUST000086,Joko Pratama,joko.pratama850@hotmail.com,628821822825,2024-03-06,Individual,Jayapura,Papua,Active
+CUST000087,Arif Wati,arif.wati795@gmail.com,628895204819,2024-03-27,Individual,Magelang,Jawa Timur,Active
+CUST000088,Yudi Rahayu,yudi.rahayu644@yahoo.com,628147121355,2020-09-26,Individual,Medan,Sumatera Utara,Active
+CUST000089,Dina Wati,dina.wati335@hotmail.com,628797138070,2022-10-24,Individual,Banjarmasin,Kalimantan Selatan,Active
+CUST000090,Arif Hidayat,arif.hidayat264@gmail.com,628715951651,2024-03-24,Individual,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+CUST000091,Bella Permata,bella.permata991@yahoo.com,628115436878,2020-09-10,Individual,Ambon,Maluku,Active
+CUST000092,Lina Putra,lina.putra599@hotmail.com,628701419843,2024-12-15,Individual,Bogor,Jawa Barat,Active
+CUST000093,Kartini Mahendra,kartini.mahendra227@gmail.com,628996069909,2022-04-16,Small Business,Padang,Sumatera Barat,Active
+CUST000094,Eko Santoso,eko.santoso969@yahoo.com,628224939290,2020-10-04,Individual,Mamuju,Sulawesi Barat,Active
+CUST000095,Oscar Saputra,oscar.saputra687@hotmail.com,628853592464,2023-06-14,Individual,Denpasar,Bali,Active
+CUST000096,Irfan Santoso,irfan.santoso707@gmail.com,628574645180,2023-11-05,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000097,Reza Saputra,reza.saputra63@yahoo.com,628682538024,2021-03-10,Individual,Mojokerto,Jawa Timur,Active
+CUST000098,Umi Mahendra,umi.mahendra995@hotmail.com,628121848566,2024-08-26,Individual,SALATIGA,Jawa Timur,Active
+CUST000099,Reza Nugroho,reza.nugroho601@gmail.com,628523475548,2024-10-24,Individual,Batam,Kepulauan Riau,Active
+CUST000100,Eko Dewi,eko.dewi257@yahoo.com,628941432519,2024-06-05,Individual,Pontianak,Kalimantan Barat,Active
+CUST000101,Sari Lestari,sari.lestari17@hotmail.com,628325452128,2024-03-07,Individual,Tangerang,Banten,Active
+CUST000102,Putri Suryadi,putri.suryadi797@gmail.com,628569610704,2023-06-13,Individual,Semarang,Jawa Timur,Active
+CUST000103,Xena Utama,xena.utama309@yahoo.com,628618151684,2020-08-09,Corporate,Jayapura,Papua,Active
+CUST000104,Wahyu Suryadi,wahyu.suryadi76@hotmail.com,628873488628,2023-07-02,Small Business,Malang,Jawa Timur,Active
+CUST000105,Sari Dewi,sari.dewi730@gmail.com,628478612081,2023-05-24,Individual,Mataram,Nusa Tenggara Barat,Active
+CUST000106,Dewi Kusuma,dewi.kusuma874@yahoo.com,628658575834,2024-08-21,Individual,Ambon,Maluku,Active
+CUST000107,Mawar Handoko,mawar.handoko748@hotmail.com,628646243275,2020-11-08,Individual,Kediri,Jawa Timur,Active
+CUST000108,Dina Anggraini,dina.anggraini69@gmail.com,628212432176,2023-02-13,Individual,Jakarta Selatan,DKI Jakarta,Active
+CUST000109,Sari Dewi,sari.dewi576@yahoo.com,628958095702,2020-04-15,Individual,Samarinda,Kalimantan Timur,Active
+CUST000110,Tono Wati,tono.wati361@hotmail.com,628239512969,2024-10-01,Small Business,Palembang,Sumatera Selatan,Active
+CUST000111,Lina Dewi,lina.dewi377@gmail.com,628641440466,2023-09-09,Individual,Madiun,Jawa Timur,Active
+CUST000112,Irfan Pratama,irfan.pratama185@yahoo.com,628446183902,2023-03-05,Individual,Blitar,Jawa Timur,Active
+CUST000113,Mawar Wijaya,mawar.wijaya146@hotmail.com,628219900022,2022-07-18,Individual,Palu,Sulawesi Tengah,Active
+CUST000114,Fitri Saputra,fitri.saputra320@gmail.com,628301834876,2020-06-16,Individual,Banjarmasin,Kalimantan Selatan,Active
+CUST000115,Oscar Handoko,oscar.handoko498@yahoo.com,628878416270,2021-12-07,Small Business,Mataram,Nusa Tenggara Barat,Active
+CUST000116,Dewi Wati,dewi.wati695@hotmail.com,628776174418,2023-05-12,Individual,Jakarta Selatan,DKI Jakarta,Active
+CUST000117,Andi Nugroho,andi.nugroho309@gmail.com,628373302417,2022-10-15,Individual,Solo,Jawa Timur,Active
+CUST000118,Nanda Hidayat,nanda.hidayat133@yahoo.com,628589935249,2022-03-24,Individual,Solo,Jawa Timur,Active
+CUST000119,Budi Handoko,budi.handoko20@hotmail.com,628837785090,2023-08-04,Small Business,Denpasar,Bali,Active
+CUST000120,Joko Kusuma,joko.kusuma415@gmail.com,628126448705,2022-06-13,Individual,Palembang,Sumatera Selatan,Active
+CUST000121,Hani Handoko,hani.handoko604@yahoo.com,628619790632,2021-11-13,Individual,Pekalongan,Jawa Timur,Active
+CUST000122,Fitri Wijaya,fitri.wijaya523@hotmail.com,628779555575,2024-01-29,Individual,Mojokerto,Jawa Timur,Active
+CUST000123,Arif Rahayu,arif.rahayu242@gmail.com,628323564729,2020-06-03,Individual,Bengkulu,Bengkulu,Active
+CUST000124,Yudi Anggraini,yudi.anggraini476@yahoo.com,628828531380,2022-06-19,Small Business,Tangerang,Banten,Active
+CUST000125,Putri Suryadi,putri.suryadi647@hotmail.com,628485608259,2021-09-27,Small Business,Ambon,Maluku,Active
+CUST000126,Oscar Santoso,oscar.santoso59@gmail.com,628192514923,2022-08-05,Individual,Tasikmalaya,Jawa Barat,Active
+CUST000127,Reza Santoso,reza.santoso461@yahoo.com,628834158134,2022-07-11,Individual,Palembang,Sumatera Selatan,Active
+CUST000128,Zahra Lestari,zahra.lestari732@hotmail.com,628155156449,2022-06-15,Small Business,Kupang,Nusa Tenggara Timur,Active
+CUST000129,Qori Utama,qori.utama625@gmail.com,628575746166,2023-10-22,Individual,Cirebon,Jawa Barat,Active
+CUST000130,Budi Lestari,budi.lestari68@yahoo.com,628465227787,2024-10-10,Individual,Blitar,Jawa Timur,Active
+CUST000131,Dina Mahendra,dina.mahendra895@hotmail.com,628546204824,2023-12-01,Individual,Blitar,Jawa Timur,Active
+CUST000132,Mawar Rahayu,mawar.rahayu610@gmail.com,628206193922,2023-10-04,Individual,Madiun,Jawa Timur,Active
+CUST000133,Arif Utama,arif.utama96@yahoo.com,628757070468,2021-01-04,Individual,Banda Aceh,Aceh,Active
+CUST000134,Kartini Anggraini,kartini.anggraini197@hotmail.com,628472696860,2024-04-27,Individual,Bekasi,Jawa Barat,Active
+CUST000135,Arif Utama,arif.utama39@gmail.com,628946649968,2020-11-28,Individual,Bengkulu,Bengkulu,Active
+CUST000136,Arif Mahendra,arif.mahendra829@yahoo.com,628157893063,2023-06-04,Individual,Samarinda,Kalimantan Timur,Active
+CUST000137,Yudi Suryadi,yudi.suryadi240@hotmail.com,628347171347,2023-03-14,Individual,Kupang,Nusa Tenggara Timur,Active
+CUST000138,Oscar Wati,oscar.wati797@gmail.com,628304350371,2020-10-10,Individual,Palangkaraya,Kalimantan Tengah,Active
+CUST000139,Budi Anggraini,budi.anggraini896@yahoo.com,628572721170,2021-07-12,Individual,Kupang,Nusa Tenggara Timur,Active
+CUST000140,Candra Utama,candra.utama151@hotmail.com,628388568671,2020-04-19,Individual,Gorontalo,Gorontalo,Active
+CUST000141,Qori Saputra,qori.saputra242@gmail.com,628592369112,2024-09-14,Individual,Yogyakarta,Jawa Timur,Active
+CUST000142,Umi Lestari,umi.lestari811@yahoo.com,628703328554,2022-08-18,Individual,Kupang,Nusa Tenggara Timur,Active
+CUST000143,Tono Pratama,tono.pratama928@hotmail.com,628424618086,2020-08-15,Small Business,Pekalongan,Jawa Timur,Active
+CUST000144,Joko Sari,joko.sari309@gmail.com,628251801102,2020-08-15,Individual,Jayapura,Papua,Active
+CUST000145,Tono Dewi,tono.dewi17@yahoo.com,628835059048,2020-01-04,Individual,Sukabumi,Jawa Barat,Active
+CUST000146,Lina Sari,lina.sari585@hotmail.com,628634142605,2022-12-13,Individual,Bekasi,Jawa Barat,Active
+CUST000147,Qori Utama,qori.utama568@gmail.com,628701730386,2021-06-03,Individual,Solo,Jawa Timur,Active
+CUST000148,Andi Saputra,andi.saputra808@yahoo.com,628186784825,2020-03-31,Individual,Manado,Sulawesi Utara,Active
+CUST000149,Reza Lestari,reza.lestari834@hotmail.com,628999028420,2021-01-08,Individual,Pekanbaru,Riau,Active
+CUST000150,Citra Suryadi,citra.suryadi38@gmail.com,628154346548,2022-11-21,Individual,Gorontalo,Gorontalo,Active
+CUST000151,Arif Dewi,arif.dewi485@yahoo.com,628421614394,2024-11-08,Individual,Mojokerto,Jawa Timur,Active
+CUST000152,Kartini Putra,kartini.putra128@hotmail.com,628578330827,2022-10-13,Corporate,Madiun,Jawa Timur,Active
+CUST000153,Putri Saputra,putri.saputra947@gmail.com,628208224389,2024-08-11,Corporate,Bengkulu,Bengkulu,Active
+CUST000154,Reza Wati,reza.wati329@yahoo.com,628498481225,2024-01-09,Individual,Mataram,Nusa Tenggara Barat,Active
+CUST000155,Fitri Suryadi,fitri.suryadi360@hotmail.com,628671710601,2023-10-06,Individual,Malang,Jawa Timur,Active
+CUST000156,Mawar Saputra,mawar.saputra526@gmail.com,628963684131,2020-09-15,Individual,Tangerang,Banten,Active
+CUST000157,Hani Saputra,hani.saputra371@yahoo.com,628873574265,2022-01-31,Individual,Kupang,Nusa Tenggara Timur,Active
+CUST000158,Yudi Wijaya,yudi.wijaya588@hotmail.com,628279882862,2020-08-20,Individual,Surabaya,Jawa Timur,Active
+CUST000159,Xena Hidayat,xena.hidayat512@gmail.com,628435366937,2022-07-02,Individual,Banda Aceh,Aceh,Active
+CUST000160,Tono Wati,tono.wati711@yahoo.com,628724358435,2023-12-31,Individual,Kupang,Nusa Tenggara Timur,Active
+CUST000161,Citra Lestari,citra.lestari684@hotmail.com,628483642499,2023-12-24,Individual,Madiun,Jawa Timur,Active
+CUST000162,Umi Hidayat,umi.hidayat813@gmail.com,628569535505,2024-06-06,Individual,Jayapura,Papua,Active
+CUST000163,Andi Saputra,andi.saputra568@yahoo.com,628837189302,2021-09-25,Individual,Gorontalo,Gorontalo,Active
+CUST000164,Wahyu Anggraini,wahyu.anggraini539@hotmail.com,628266318841,2020-05-31,Individual,Kupang,Nusa Tenggara Timur,Active
+CUST000165,Oscar Utama,oscar.utama353@gmail.com,628264052834,2022-11-27,Individual,Batam,Kepulauan Riau,Active
+CUST000166,Joko Hidayat,joko.hidayat166@yahoo.com,628549705660,2021-02-06,Individual,Malang,Jawa Timur,Active
+CUST000167,Reza Putra,reza.putra129@hotmail.com,628219431778,2020-12-11,Individual,Tasikmalaya,Jawa Barat,Active
+CUST000168,Sari Rahayu,sari.rahayu176@gmail.com,628946664316,2023-08-06,Individual,Pekalongan,Jawa Timur,Active
+CUST000169,Sari Putra,sari.putra667@yahoo.com,628735859883,2021-09-10,Individual,Ternate,Maluku Utara,Active
+CUST000170,Hani Permata,hani.permata305@hotmail.com,628982005173,2022-09-18,Individual,Ambon,Maluku,Active
+CUST000171,Guntur Lestari,guntur.lestari622@gmail.com,628506794356,2022-11-20,Individual,Bogor,Jawa Barat,Active
+CUST000172,Dewi Lestari,dewi.lestari248@yahoo.com,628693055576,2020-04-13,Individual,Samarinda,Kalimantan Timur,Active
+CUST000173,Mawar Mahendra,mawar.mahendra429@hotmail.com,628516246485,2022-11-20,Individual,Ambon,Maluku,Active
+CUST000174,Putri Wati,putri.wati510@gmail.com,628122510773,2023-04-09,Individual,Manado,Sulawesi Utara,Active
+CUST000175,Budi Santoso,budi.santoso289@yahoo.com,628738895137,2024-12-12,Individual,Palangkaraya,Kalimantan Tengah,Active
+CUST000176,Xena Saputra,xena.saputra783@hotmail.com,628157720644,2023-02-07,Individual,Samarinda,Kalimantan Timur,Active
+CUST000177,Citra Permata,citra.permata517@gmail.com,628892993318,2022-02-03,Small Business,Palu,Sulawesi Tengah,Active
+CUST000178,Reza Saputra,reza.saputra774@yahoo.com,628284339637,2020-04-02,Small Business,Semarang,Jawa Timur,Active
+CUST000179,Eko Lestari,eko.lestari824@hotmail.com,628709712957,2021-11-02,Small Business,Sukabumi,Jawa Barat,Active
+CUST000180,Kartini Hidayat,kartini.hidayat403@gmail.com,628749551583,2022-09-30,Individual,Yogyakarta,Jawa Timur,Active
+CUST000181,Sari Wati,sari.wati487@yahoo.com,628636161977,2024-11-21,Individual,Madiun,Jawa Timur,Active
+CUST000182,Umi Pratama,umi.pratama612@hotmail.com,628705454861,2022-12-09,Individual,Malang,Jawa Timur,Active
+CUST000183,Xena Mahendra,xena.mahendra794@gmail.com,628583479264,2020-02-08,Individual,Kupang,Nusa Tenggara Timur,Active
+CUST000184,Kartini Handoko,kartini.handoko156@yahoo.com,628888912226,2024-01-29,Individual,Jakarta Selatan,DKI Jakarta,Active
+CUST000185,Wahyu Rahayu,wahyu.rahayu532@hotmail.com,628949025733,2020-12-20,Small Business,Ambon,Maluku,Active
+CUST000186,Dina Dewi,dina.dewi351@gmail.com,628796943949,2021-05-19,Individual,Banjarmasin,Kalimantan Selatan,Active
+CUST000187,Reza Wati,reza.wati231@yahoo.com,628369204110,2023-02-21,Individual,Magelang,Jawa Timur,Active
+CUST000188,Irfan Wati,irfan.wati125@hotmail.com,628837370211,2021-08-12,Individual,Yogyakarta,Jawa Timur,Active
+CUST000189,Citra Saputra,citra.saputra947@gmail.com,628355548852,2023-11-26,Individual,Banjarmasin,Kalimantan Selatan,Active
+CUST000190,Eko Kusuma,eko.kusuma631@yahoo.com,628855014486,2023-07-30,Individual,Pangkal Pinang,Kepulauan Bangka Belitung,Active
+CUST000191,Budi Kusuma,budi.kusuma424@hotmail.com,628223306314,2023-08-30,Individual,Ternate,Maluku Utara,Active
+CUST000192,Putri Nugroho,putri.nugroho775@gmail.com,628214896008,2024-02-21,Individual,Magelang,Jawa Timur,Active
+CUST000193,Bella Santoso,bella.santoso936@yahoo.com,628328010946,2024-03-13,Individual,Samarinda,Kalimantan Timur,Active
+CUST000194,Candra Santoso,candra.santoso10@hotmail.com,628525774152,2024-12-26,Individual,Pekanbaru,Riau,Active
+CUST000195,Bella Utama,bella.utama480@gmail.com,628308699307,2021-06-10,Individual,Yogyakarta,Jawa Timur,Active
+CUST000196,Fitri Pratama,fitri.pratama755@yahoo.com,628824240708,2022-11-21,Individual,Makassar,,Active
+CUST000197,Citra Permata,citra.permata686@hotmail.com,628224100114,2021-06-18,Individual,Mamuju,Sulawesi Barat,Active
+CUST000198,Hani Suryadi,hani.suryadi772@gmail.com,628437032283,2021-04-28,Individual,Jakarta Selatan,DKI Jakarta,Active
+CUST000199,Vina Kusuma,vina.kusuma477@yahoo.com,628492969909,2021-08-27,Individual,Kendari,Sulawesi Tenggara,Active
+CUST000200,Tono Sari,tono.sari225@hotmail.com,628298633275,2023-12-08,Individual,Bogor,Jawa Barat,Active

@@ -1,0 +1,36 @@
+﻿category_id,category_name,category_group,description
+CAT001,Elektronik,Gadget & Perangkat Elektronik,"Meliputi smartphone, laptop, aksesoris elektronik"
+CAT002,Fashion Pria,Pakaian & Aksesoris Pria,"Kemeja, celana, jaket, sepatu pria"
+CAT003,Fashion Wanita,Pakaian & Aksesoris Wanita,"Dress, hijab, tas, sepatu wanita"
+CAT004,Kesehatan,Produk Kesehatan & Suplemen,"Vitamin, obat bebas, alat kesehatan"
+CAT005,Kecantikan & Beauty,Perawatan Tubuh & Kosmetik,"Skincare, makeup, parfum"
+CAT006,Makanan & Minuman,FMCG Pangan,"Sembako, snack, minuman"
+CAT007,Otomotif,Sparepart & Aksesoris Kendaraan,"Oli, ban, aksesoris mobil motor"
+CAT008,Olahraga,,"Sepatu, pakaian, peralatan olahraga"
+CAT009,Perabot Rumah,Furniture & Peralatan Rumah,"Kursi, meja, lampu, dekorasi"
+CAT010,Buku,Buku & Alat Tulis,"Novel, buku pelajaran, alat tulis"
+CAT001,Elektronik,Gadget,Produk elektronik dan gadget
+CAT002,Fashion Pria,Pakaian,Pakaian dan aksesori pria
+CAT003,Fashion Wanita,Pakaian,Pakaian dan aksesori wanita
+CAT004,Makanan & Minuman,FMCG,Tidak diketahui
+CAT005,Perawatan Diri,Kesehatan,Kosmetik dan perawatan
+CAT006,Olahraga,Sport,Perlengkapan olahraga
+CAT007,Rumah Tangga,Homeware,Perlengkapan rumah
+CAT008,Otomotif,Kendaraan,Aksesori kendaraan
+CAT009,Buku & Edukasi,Pendidikan,Buku dan alat belajar
+CAT010,Mainan,Hiburan,Mainan dan permainan
+CAT001,Elektronik,Gadget,Produk elektronik dan gadget terkini
+CAT002,Fashion Pria,Fashion,Pakaian dan aksesoris pria
+CAT003,Fashion Wanita,Fashion,Pakaian dan aksesoris wanita
+CAT004,Makanan & Minuman,Food,Produk makanan dan minuman
+CAT005,Kesehatan,Health,Tidak diketahui
+CAT006,Kecantikan,Beauty,Produk perawatan dan kecantikan
+CAT007,Olahraga,Sport,Perlengkapan olahraga
+CAT008,Hobi & Mainan,Hobby,Mainan dan produk hobi
+CAT009,Otomotif,Automotive,Aksesoris dan perlengkapan kendaraan
+CAT010,Rumah Tangga,Home,Peralatan dan dekorasi rumah tangga
+CAT011,Buku & Alat Tulis,Education,"Buku, alat tulis, dan perlengkapan kantor"
+CAT012,Elektronik,Gadget,Produk elektronik
+CAT013,Pertanian,Agriculture,Perlengkapan pertanian dan berkebun
+CAT014,Hewan Peliharaan,Pet,Makanan dan aksesoris hewan peliharaan
+CAT015,Travel,Travel,Perlengkapan perjalanan dan wisata

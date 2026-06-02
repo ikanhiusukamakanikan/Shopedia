@@ -1,0 +1,101 @@
+﻿area_id,district,city,province,country
+AREA00001,Kec. Cibeunying,Malang,Jawa Timur,Indonesia
+AREA00002,Kec. Coblong,Padang,Sumatera Barat,Indonesia
+AREA00003,Kec. Buahbatu,Surabaya,Jawa Timur,Indonesia
+AREA00004,Kec. Cicendo,Solo,Jawa Timur,Indonesia
+AREA00005,Kec. Antapani,Banjarmasin,Kalimantan Selatan,Indonesia
+AREA00006,Kec. Sukasari,Pontianak,Kalimantan Barat,Indonesia
+AREA00007,Kec. Mandalajati,Pangkal Pinang,Kepulauan Bangka Belitung,Indonesia
+AREA00008,Kec. Cibiru,Pekanbaru,Riau,Indonesia
+AREA00009,Kec. Ujungberung,Solo,Jawa Timur,Indonesia
+AREA00010,Kec. Arcamanik,Palembang,Sumatera Selatan,Indonesia
+AREA00011,Kec. Gedebage,Kediri,Jawa Timur,Indonesia
+AREA00012,Kec. Kiaracondong,Solo,Jawa Timur,Indonesia
+AREA00013,Kec. Batununggal,Bekasi,Jawa Barat,Indonesia
+AREA00014,Kec. Regol,Medan,Sumatera Utara,Indonesia
+AREA00015,Kec. Astana Anyar,Tasikmalaya,Jawa Barat,Indonesia
+AREA00016,Kec. Bojongloa Kaler,Mataram,Nusa Tenggara Barat,Indonesia
+AREA00017,Kec. Bojongloa Kidul,Semarang,Jawa Timur,Indonesia
+AREA00018,Kec. Bandung Kulon,Surabaya,Jawa Timur,Indonesia
+AREA00019,Kec. Andir,Medan,Sumatera Utara,Indonesia
+AREA00020,Kec. Cidadap,Banda Aceh,Aceh,Indonesia
+AREA00021,Kec. Sumur Bandung,Pangkal Pinang,Kepulauan Bangka Belitung,Indonesia
+AREA00022,Kec. Lengkong,Manokwari,Papua Barat,Indonesia
+AREA00023,Kec. Bandung Kidul,Cirebon,Jawa Barat,Indonesia
+AREA00024,Kec. Bukit Batu,Surabaya,Jawa Timur,Indonesia
+AREA00025,Kec. Jekan Raya,Bogor,Jawa Barat,Indonesia
+AREA00026,Kec. Menteng,,Jambi,Indonesia
+AREA00027,Kec. Pahandut,Yogyakarta,Jawa Timur,Indonesia
+AREA00028,Kec. Rakumpit,Mojokerto,Jawa Timur,Indonesia
+AREA00029,Kec. Sabangau,Madiun,Jawa Timur,Indonesia
+AREA00030,Kec. Bengkayang,Bekasi,Jawa Barat,Indonesia
+AREA00031,Kec. Cibeunying,Denpasar,Bali,Indonesia
+AREA00032,Kec. Coblong,Pangkal Pinang,Kepulauan Bangka Belitung,Indonesia
+AREA00033,Kec. Buahbatu,Kupang,Nusa Tenggara Timur,Indonesia
+AREA00034,Kec. Cicendo,Tasikmalaya,Jawa Barat,Indonesia
+AREA00035,Kec. Antapani,Banjarmasin,Kalimantan Selatan,Indonesia
+AREA00036,Kec. Sukasari,Bandung,Jawa Barat,Indonesia
+AREA00037,Kec. Mandalajati,SALATIGA,Jawa Timur,Indonesia
+AREA00038,Kec. Cibiru,Bandar Lampung,Lampung,Indonesia
+AREA00039,Kec. Ujungberung,Madiun,Jawa Timur,Indonesia
+AREA00040,Kec. Arcamanik,Mataram,Nusa Tenggara Barat,Indonesia
+AREA00041,Kec. Gedebage,Palu,Sulawesi Tengah,Indonesia
+AREA00042,Kec. Kiaracondong,Banjarmasin,Kalimantan Selatan,Indonesia
+AREA00043,Kec. Batununggal,Batam,Kepulauan Riau,Indonesia
+AREA00044,Kec. Regol,Banda Aceh,Aceh,Indonesia
+AREA00045,Kec. Astana Anyar,SALATIGA,Jawa Timur,Indonesia
+AREA00046,Kec. Bojongloa Kaler,Palu,Sulawesi Tengah,Indonesia
+AREA00047,Kec. Bojongloa Kidul,Palembang,Sumatera Selatan,Indonesia
+AREA00048,Kec. Bandung Kulon,Medan,Sumatera Utara,Indonesia
+AREA00049,Kec. Andir,Mamuju,Sulawesi Barat,Indonesia
+AREA00050,Kec. Cidadap,Palembang,Sumatera Selatan,Indonesia
+AREA00051,Kec. Cibeunying,Manado,Sulawesi Utara,Indonesia
+AREA00052,Kec. Lengkong,Manado,Sulawesi Utara,Indonesia
+AREA00053,Kec. Bandung Kidul,Cirebon,Jawa Barat,Indonesia
+AREA00054,Kec. Bukit Batu,Palangkaraya,Kalimantan Tengah,Indonesia
+AREA00055,Kec. Jekan Raya,Semarang,Jawa Timur,Indonesia
+AREA00056,Kec. Menteng,Magelang,Jawa Timur,Indonesia
+AREA00057,Kec. Pahandut,Ambon,Maluku,Indonesia
+AREA00058,Kec. Rakumpit,Bekasi,Jawa Barat,Indonesia
+AREA00059,Kec. Sabangau,Padang,Sumatera Barat,Indonesia
+AREA00060,Kec. Bengkayang,Mamuju,Sulawesi Barat,Indonesia
+AREA00061,Kec. Cibeunying
+AREA00062,Kec. Coblong,Bogor,Jawa Barat,Indonesia
+AREA00063,Kec. Buahbatu,Samarinda,Kalimantan Timur,Indonesia
+AREA00064,Kec. Cicendo,Malang,Jawa Timur,Indonesia
+AREA00065,Kec. Antapani,Sukabumi,Jawa Barat,Indonesia
+AREA00066,Kec. Sukasari,Kendari,Sulawesi Tenggara,Indonesia
+AREA00067,Kec. Mandalajati,Cimahi,Jawa Barat,Indonesia
+AREA00068,Kec. Cibiru,,Jambi,Indonesia
+AREA00069,Kec. Ujungberung,Yogyakarta,Jawa Timur,Indonesia
+AREA00070,Kec. Arcamanik,Tangerang,Banten,Indonesia
+AREA00071,Kec. Gedebage,Semarang,Jawa Timur,Indonesia
+AREA00072,Kec. Kiaracondong,Blitar,Jawa Timur,Indonesia
+AREA00073,Kec. Batununggal,Pangkal Pinang,Kepulauan Bangka Belitung,Indonesia
+AREA00074,Kec. Regol,Pekalongan,Jawa Timur,Indonesia
+AREA00075,Kec. Astana Anyar,Samarinda,Kalimantan Timur,Indonesia
+AREA00076,Kec. Bojongloa Kaler,Medan,Sumatera Utara,Indonesia
+AREA00077,Kec. Bojongloa Kidul,Pangkal Pinang,Kepulauan Bangka Belitung,Indonesia
+AREA00078,Kec. Bandung Kulon,Palembang,Sumatera Selatan,Indonesia
+AREA00079,Kec. Andir,Mamuju,Sulawesi Barat,Indonesia
+AREA00080,Kec. Cidadap,Banjarmasin,Kalimantan Selatan,Indonesia
+AREA00081,Kec. Sumur Bandung,Ambon,Maluku,Indonesia
+AREA00082,Kec. Lengkong,Malang,Jawa Timur,Indonesia
+AREA00083,Kec. Bandung Kidul,Kendari,Sulawesi Tenggara,Indonesia
+AREA00084,Kec. Bukit Batu,Bandar Lampung,Lampung,Indonesia
+AREA00085,Kec. Jekan Raya,Kendari,Sulawesi Tenggara,Indonesia
+AREA00086,Kec. Menteng,Manado,Sulawesi Utara,Indonesia
+AREA00087,Kec. Pahandut,Banda Aceh,Aceh,Indonesia
+AREA00088,Kec. Rakumpit,Blitar,Jawa Timur,Indonesia
+AREA00089,Kec. Sabangau,Banjarmasin,Kalimantan Selatan,Indonesia
+AREA00090,Kec. Bengkayang,Madiun,Jawa Timur,Indonesia
+AREA00091,Kec. Cibeunying,Kediri,Jawa Timur,Indonesia
+AREA00092,Kec. Coblong,Mojokerto,Jawa Timur,Indonesia
+AREA00093,Kec. Buahbatu,Tangerang,Banten,Indonesia
+AREA00094,Kec. Cicendo,Cirebon,Jawa Barat,Indonesia
+AREA00095,Kec. Antapani,Malang,Jawa Timur,Indonesia
+AREA00096,Kec. Sukasari,Bandar Lampung,Lampung,Indonesia
+AREA00097,Kec. Mandalajati,Bekasi,Jawa Barat,Indonesia
+AREA00098,Kec. Cibiru,Magelang,Jawa Timur,Indonesia
+AREA00099,Kec. Ujungberung,Pontianak,Kalimantan Barat,Indonesia
+AREA00100,Kec. Arcamanik,Bandar Lampung,Lampung,Indonesia
