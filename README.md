@@ -102,19 +102,19 @@ Pada tahap ini, data masih dianggap sebagai data sumber. Kesalahan format, nilai
 
 ### 4.2 Staging Schema
 
-Schema `staging` digunakan untuk membuat versi data yang lebih bersih dan konsisten.
+Schema `staging` digunakan untuk membuat versi data yang lebih bersih dan konsisten. Karena data raw dapat berisi primary key yang duplikat, tabel staging memakai **surrogate key** baru berbasis `GENERATED ALWAYS AS IDENTITY`. ID asli dari CSV tetap disimpan sebagai source/natural ID, tetapi tidak dijadikan primary key.
 
-| Tabel | Fungsi |
-|---|---|
-| `staging.customers_clean` | Membersihkan data pelanggan |
-| `staging.sellers_clean` | Membersihkan data penjual |
-| `staging.product_categories_clean` | Membersihkan referensi kategori |
-| `staging.products_clean` | Membersihkan data produk dan harga |
-| `staging.areas_clean` | Menstandarkan data wilayah |
-| `staging.addresses_clean` | Membersihkan alamat dan relasi wilayah |
-| `staging.orders_clean` | Membersihkan data pesanan |
-| `staging.order_items_clean` | Membersihkan detail item transaksi |
-| `staging.payments_clean` | Membersihkan data pembayaran |
+| Tabel | Primary Key Baru | Source ID dari Raw | Fungsi |
+|---|---|---|---|
+| `staging.customers_clean` | `customer_key` | `customer_id` | Membersihkan data pelanggan |
+| `staging.sellers_clean` | `seller_key` | `seller_id` | Membersihkan data penjual |
+| `staging.product_categories_clean` | `category_key` | `category_id` | Membersihkan referensi kategori |
+| `staging.products_clean` | `product_key` | `product_id` | Membersihkan data produk dan harga |
+| `staging.areas_clean` | `area_key` | `area_id` | Menstandarkan data wilayah |
+| `staging.addresses_clean` | `address_key` | `address_id` | Membersihkan alamat dan relasi wilayah |
+| `staging.orders_clean` | `order_key` | `order_id` | Membersihkan data pesanan |
+| `staging.order_items_clean` | `order_item_key` | `order_item_id` | Membersihkan detail item transaksi |
+| `staging.payments_clean` | `payment_key` | `payment_id` | Membersihkan data pembayaran |
 
 ### 4.3 Warehouse Schema
 
@@ -136,6 +136,8 @@ Schema `warehouse` digunakan sebagai hasil akhir ETL. Pada layer ini data sudah 
 
 Grain utama dari `warehouse.fact_transaksi` adalah **satu baris untuk satu item dalam satu pesanan**. Dengan grain ini, analisis bisa dilakukan sampai level produk, kategori, penjual, pelanggan, pembayaran, dan wilayah.
 
+Pada layer warehouse, dimensi tetap memakai satu baris representatif untuk setiap source ID seperti `source_category_id`, `source_customer_id`, dan `source_product_id`. Jika source ID raw duplikat, script `07_load_dimensions.sql` memilih baris pertama berdasarkan surrogate key staging. Pada tabel fakta, `source_order_item_id` boleh duplikat, sedangkan `source_order_item_key` digunakan untuk melacak baris staging yang unik.
+
 ### 4.4 OLAP Schema
 
 Schema `olap` digunakan sebagai lapisan analisis di atas data warehouse. Pada schema ini, data dari `warehouse.fact_transaksi` dan tabel dimensi digabungkan menjadi view atau materialized view agar lebih mudah digunakan untuk query analisis dan visualisasi.
@@ -147,7 +149,7 @@ Schema `olap` digunakan sebagai lapisan analisis di atas data warehouse. Pada sc
 | `olap.mart_product_performance` | Materialized View | Ringkasan performa produk dan kategori |
 | `olap.mart_seller_performance` | Materialized View | Ringkasan performa penjual atau merchant |
 | `olap.mart_payment_performance` | Materialized View | Ringkasan transaksi berdasarkan metode pembayaran |
-| `olap.mart_region_performance` | Materialized View | Ringkasan transaksi berdasarkan kota dan provinsi |
+| `olap.mart_region_performance` | Materialized View | Ringkasan transaksi berdasarkan kecamatan, kota, dan provinsi |
 
 Dengan adanya schema `olap`, tabel warehouse tetap digunakan sebagai sumber utama, sedangkan view OLAP digunakan sebagai data siap analisis untuk kebutuhan laporan dan dashboard.
 
@@ -241,15 +243,15 @@ Contoh:
 
 ### 7.2 Konversi Tanggal
 
-Kolom tanggal seperti `registered_at`, `joined_at`, `order_date`, dan `paid_at` dikonversi ke tipe `date` atau `timestamp` PostgreSQL.
+Kolom tanggal seperti `registered_at`, `joined_at`, `order_date`, dan `paid_at` dikonversi ke tipe `date` atau `timestamp` PostgreSQL. Karena data raw dapat berisi tanggal tidak valid seperti tanggal di luar rentang kalender, proses transformasi memakai fungsi aman `staging.safe_to_date()` dan `staging.safe_to_time()`.
 
 Contoh pendekatan di Supabase/PostgreSQL:
 
 ```sql
-NULLIF(order_date, '')::timestamp
+staging.safe_to_date(order_date)
 ```
 
-Jika format tanggal mentah tidak seragam, proses transformasi dapat memakai validasi tambahan sebelum melakukan casting.
+Jika tanggal mentah tidak valid, hasilnya menjadi `NULL` sehingga proses ETL tetap berjalan dan data bermasalah masih dapat ditelusuri dari raw atau staging.
 
 ### 7.3 Validasi Angka dan Nominal
 
@@ -290,7 +292,9 @@ Hasil perhitungan ini digunakan untuk memastikan nilai pada `orders.csv`, `order
 | Email atau nomor telepon kosong | Diisi `Unknown` jika dibutuhkan untuk laporan |
 | Provider pembayaran tidak relevan | Diisi `Not Applicable` |
 | Tanggal pembayaran belum ada | Dibiarkan `NULL` jika transaksi belum dibayar |
-| Relasi dimensi tidak ditemukan | Dipetakan ke row `Unknown` pada dimensi terkait |
+| Tanggal raw tidak valid | Dikonversi menjadi `NULL` menggunakan `staging.safe_to_date()` |
+| Primary key raw duplikat | Tetap dimuat ke staging, lalu diberi surrogate key baru |
+| Relasi dimensi tidak ditemukan | Foreign key pada fakta dibiarkan `NULL` dari hasil `LEFT JOIN` |
 | Nilai numerik tidak valid | Dikoreksi atau tidak dimuat ke tabel fakta |
 
 ---
@@ -450,7 +454,7 @@ Contoh kombinasi analisis:
 | Performa produk | Produk, kategori | Quantity dan revenue |
 | Performa seller | Seller, kota seller | Total transaksi dan total sales |
 | Metode pembayaran | Metode, provider | Total pembayaran dan total sales |
-| Wilayah transaksi | Kota, provinsi | Total order dan total sales |
+| Wilayah transaksi | Kecamatan, kota, provinsi | Total order dan total sales |
 
 ### 10.3 View Transaksi Detail
 
@@ -462,14 +466,23 @@ Contoh pembuatan view:
 CREATE OR REPLACE VIEW olap.vw_transaksi_detail AS
 SELECT
     f.transaksi_key,
+    f.source_order_item_key,
+    f.source_order_item_id,
+    f.source_order_id,
+    f.produk_key,
+    f.pelanggan_key,
+    f.penjual_key,
+    f.pembayaran_key,
+    f.lokasi_key,
     f.jumlah_produk,
     f.harga_satuan,
     f.diskon,
+    f.ongkir,
     f.total_harga,
 
     w.tanggal,
-    w.hari,
-    w.bulan,
+    TRIM(w.hari) AS hari,
+    TRIM(w.bulan) AS bulan,
     w.tahun,
     w.minggu_ke,
     w.kuartal,
@@ -477,12 +490,17 @@ SELECT
     p.nama_produk,
     p.brand,
     k.nama_kategori,
+    k.jenis_kategori,
 
     pl.nama_pelanggan,
     pl.email AS email_pelanggan,
+    pl.tipe_pelanggan,
+    pl.status_akun,
 
     s.nama_toko,
     s.nama_penjual,
+    s.level_penjual,
+    s.rating_toko,
 
     pb.metode_pembayaran,
     pb.jenis_pembayaran,
@@ -490,9 +508,12 @@ SELECT
     pb.status_pembayaran,
 
     l.alamat,
+    l.nomor_rumah,
+    l.kode_pos,
     kc.nama_kecamatan,
     kt.nama_kota,
-    pr.nama_provinsi
+    pr.nama_provinsi,
+    pr.negara
 FROM warehouse.fact_transaksi f
 LEFT JOIN warehouse.dim_waktu w
     ON f.waktu_key = w.waktu_key
@@ -529,9 +550,12 @@ CREATE MATERIALIZED VIEW olap.mart_sales_monthly AS
 SELECT
     tahun,
     bulan,
+    MIN(tanggal) AS first_transaction_date,
+    COUNT(DISTINCT source_order_id) AS total_orders,
     COUNT(*) AS total_transaction_items,
     SUM(jumlah_produk) AS total_quantity,
     SUM(total_harga) AS total_sales,
+    SUM(diskon) AS total_discount,
     AVG(total_harga) AS average_transaction_value
 FROM olap.vw_transaksi_detail
 GROUP BY tahun, bulan;
@@ -543,14 +567,17 @@ GROUP BY tahun, bulan;
 CREATE MATERIALIZED VIEW olap.mart_product_performance AS
 SELECT
     nama_kategori,
+    jenis_kategori,
     nama_produk,
     brand,
+    COUNT(DISTINCT source_order_id) AS total_orders,
     COUNT(*) AS total_transaction_items,
     SUM(jumlah_produk) AS total_quantity,
     SUM(total_harga) AS total_sales,
-    SUM(diskon) AS total_discount
+    SUM(diskon) AS total_discount,
+    AVG(harga_satuan) AS average_unit_price
 FROM olap.vw_transaksi_detail
-GROUP BY nama_kategori, nama_produk, brand;
+GROUP BY nama_kategori, jenis_kategori, nama_produk, brand;
 ```
 
 #### 10.4.3 Seller Performance Mart
@@ -560,11 +587,15 @@ CREATE MATERIALIZED VIEW olap.mart_seller_performance AS
 SELECT
     nama_toko,
     nama_penjual,
+    level_penjual,
+    rating_toko,
+    COUNT(DISTINCT source_order_id) AS total_orders,
     COUNT(*) AS total_transaction_items,
     SUM(jumlah_produk) AS total_quantity,
-    SUM(total_harga) AS total_sales
+    SUM(total_harga) AS total_sales,
+    AVG(total_harga) AS average_transaction_value
 FROM olap.vw_transaksi_detail
-GROUP BY nama_toko, nama_penjual;
+GROUP BY nama_toko, nama_penjual, level_penjual, rating_toko;
 ```
 
 #### 10.4.4 Payment Performance Mart
@@ -576,7 +607,9 @@ SELECT
     jenis_pembayaran,
     provider,
     status_pembayaran,
+    COUNT(DISTINCT source_order_id) AS total_orders,
     COUNT(*) AS total_transaction_items,
+    SUM(jumlah_produk) AS total_quantity,
     SUM(total_harga) AS total_sales
 FROM olap.vw_transaksi_detail
 GROUP BY metode_pembayaran, jenis_pembayaran, provider, status_pembayaran;
@@ -589,11 +622,14 @@ CREATE MATERIALIZED VIEW olap.mart_region_performance AS
 SELECT
     nama_provinsi,
     nama_kota,
+    nama_kecamatan,
+    COUNT(DISTINCT source_order_id) AS total_orders,
     COUNT(*) AS total_transaction_items,
     SUM(jumlah_produk) AS total_quantity,
-    SUM(total_harga) AS total_sales
+    SUM(total_harga) AS total_sales,
+    AVG(total_harga) AS average_transaction_value
 FROM olap.vw_transaksi_detail
-GROUP BY nama_provinsi, nama_kota;
+GROUP BY nama_provinsi, nama_kota, nama_kecamatan;
 ```
 
 Jika data pada warehouse berubah, materialized view perlu diperbarui menggunakan perintah berikut:
@@ -617,6 +653,8 @@ Roll-up adalah proses menaikkan level detail data, misalnya dari penjualan bulan
 ```sql
 SELECT
     tahun,
+    SUM(total_orders) AS total_orders,
+    SUM(total_quantity) AS total_quantity,
     SUM(total_sales) AS total_sales
 FROM olap.mart_sales_monthly
 GROUP BY tahun
@@ -631,6 +669,8 @@ Drill-down adalah proses menurunkan level detail data, misalnya dari provinsi ke
 SELECT
     nama_provinsi,
     nama_kota,
+    SUM(total_orders) AS total_orders,
+    SUM(total_quantity) AS total_quantity,
     SUM(total_sales) AS total_sales
 FROM olap.mart_region_performance
 GROUP BY nama_provinsi, nama_kota
@@ -644,10 +684,12 @@ Slice adalah proses mengambil satu bagian data berdasarkan satu kondisi tertentu
 ```sql
 SELECT
     nama_produk,
+    brand,
+    SUM(total_quantity) AS total_quantity,
     SUM(total_sales) AS total_sales
 FROM olap.mart_product_performance
 WHERE nama_kategori = 'Elektronik'
-GROUP BY nama_produk
+GROUP BY nama_produk, brand
 ORDER BY total_sales DESC;
 ```
 
@@ -661,13 +703,15 @@ SELECT
     bulan,
     nama_kategori,
     metode_pembayaran,
+    COUNT(DISTINCT source_order_id) AS total_orders,
+    SUM(jumlah_produk) AS total_quantity,
     SUM(total_harga) AS total_sales
 FROM olap.vw_transaksi_detail
 WHERE tahun = 2025
-  AND nama_kategori IN ('Elektronik', 'Fashion')
-  AND metode_pembayaran = 'E-Wallet'
+  AND nama_kategori IN ('Elektronik', 'Fashion Pria', 'Fashion Wanita')
+  AND metode_pembayaran IN ('E-Wallet', 'Bank Transfer', 'COD')
 GROUP BY tahun, bulan, nama_kategori, metode_pembayaran
-ORDER BY tahun, bulan;
+ORDER BY tahun, bulan, total_sales DESC;
 ```
 
 #### Pivot
@@ -681,7 +725,8 @@ SELECT
     SUM(CASE WHEN metode_pembayaran = 'E-Wallet' THEN total_harga ELSE 0 END) AS e_wallet_sales,
     SUM(CASE WHEN metode_pembayaran = 'Bank Transfer' THEN total_harga ELSE 0 END) AS bank_transfer_sales,
     SUM(CASE WHEN metode_pembayaran = 'COD' THEN total_harga ELSE 0 END) AS cod_sales,
-    SUM(CASE WHEN metode_pembayaran = 'Credit Card' THEN total_harga ELSE 0 END) AS credit_card_sales
+    SUM(CASE WHEN metode_pembayaran = 'Kartu Kredit' THEN total_harga ELSE 0 END) AS kartu_kredit_sales,
+    SUM(total_harga) AS total_sales
 FROM olap.vw_transaksi_detail
 GROUP BY tahun, bulan
 ORDER BY tahun, bulan;
@@ -708,10 +753,11 @@ LIMIT 10;
 ```sql
 SELECT
     nama_toko,
+    nama_penjual,
     SUM(total_sales) AS total_sales,
     SUM(total_quantity) AS total_quantity
 FROM olap.mart_seller_performance
-GROUP BY nama_toko
+GROUP BY nama_toko, nama_penjual
 ORDER BY total_sales DESC
 LIMIT 10;
 ```
@@ -723,7 +769,7 @@ SELECT
     nama_provinsi,
     SUM(total_sales) AS total_sales,
     ROUND(
-        SUM(total_sales) * 100.0 / SUM(SUM(total_sales)) OVER (),
+        SUM(total_sales) * 100.0 / NULLIF(SUM(SUM(total_sales)) OVER (), 0),
         2
     ) AS sales_percentage
 FROM olap.mart_region_performance
@@ -802,7 +848,7 @@ Dashboard Shopedia disusun untuk menampilkan ringkasan performa e-commerce dari 
 |---|---|---|---|
 | Total Revenue | Card | `olap.vw_transaksi_detail` | Menampilkan total nilai penjualan |
 | Total Orders | Card | `olap.vw_transaksi_detail` | Menampilkan jumlah transaksi/item transaksi |
-| Total Customers | Card | `warehouse.dim_pelanggan` | Menampilkan jumlah pelanggan |
+| Total Customers | Card | `olap.vw_transaksi_detail` | Menampilkan jumlah pelanggan unik |
 | Average Order Value | Card | `olap.vw_transaksi_detail` | Menampilkan rata-rata nilai transaksi |
 | Tren Penjualan Bulanan | Line Chart | `olap.mart_sales_monthly` | Melihat perubahan penjualan dari waktu ke waktu |
 | Penjualan per Kategori | Bar Chart | `olap.mart_product_performance` | Melihat kategori dengan kontribusi penjualan terbesar |
@@ -912,7 +958,7 @@ Langkah umum penggunaan:
 12. Jalankan query OLAP seperti roll-up, drill-down, slice, dice, dan pivot.
 13. Export hasil OLAP atau hubungkan Power BI langsung ke Supabase PostgreSQL.
 14. Buat dashboard visualisasi di Power BI Desktop.
-15. Simpan screenshot dashboard ke folder `Image` dan file `.pbix` ke folder `PowerBI`.
+15. Simpan screenshot dashboard ke folder `Image` dan file `.pbix` ke folder `Visualisasi`.
 
 Hal penting yang perlu diperhatikan:
 
