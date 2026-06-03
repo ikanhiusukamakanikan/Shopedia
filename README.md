@@ -832,19 +832,19 @@ Rancangan layout dashboard yang disarankan:
 Dashboard dapat disimpan dalam file Power BI dengan nama:
 
 ```text
-PowerBI/Shopedia_OLAP_Dashboard.pbix
+Visualisasi/Shopedia.pbix
 ```
 
 Screenshot dashboard dapat disimpan pada folder:
 
 ```text
-Image/DashboardOLAP.png
+Image/VisualisasiHasilQueryOLAP.png
 ```
 
 Lalu ditampilkan di README dengan format berikut:
 
 ```markdown
-![Dashboard OLAP Shopedia](Image/DashboardOLAP.png)
+![Dashboard OLAP Shopedia](Image/VisualisasiHasilQueryOLAP.png)
 ```
 
 ### 11.5 Manfaat Dashboard
